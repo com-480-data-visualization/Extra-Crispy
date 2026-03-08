@@ -2,7 +2,7 @@
 
 | Student's name | SCIPER |
 | -------------- | ------ |
-| Menghan Li| |
+| Menghan Li| 407732 |
 | Yifan Zhou| |
 | Yibo Yin| 405837 |
 
