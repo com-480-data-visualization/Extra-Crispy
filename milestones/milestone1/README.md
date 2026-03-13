@@ -22,17 +22,20 @@ pip install -r requirements.txt
 
 ## Running the Notebook
 
-After activating the environment, launch Jupyter and open the cleaning notebook:
+After activating the environment, launch Jupyter and open the milestone1 notebook:
 
 ```bash
-jupyter notebook data_clean.ipynb
+jupyter notebook milestone1.ipynb
 ```
+
+Or you can directly open `milestone1.ipynb` file with any kinds of IDE or editors you like.
 
 ## Project Structure
 
 ```
 milestone1/
-├── README.md            # This file
+├── README.md        # This file
 ├── requirements.txt     # Python dependencies
-└── data_clean.ipynb     # Data cleaning & analysis notebook
+├── results/             # Data analysis results
+└── milestone1.ipynb     # milestone1 notebook
 ```
