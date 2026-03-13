@@ -34,8 +34,8 @@ Or you can directly open `milestone1.ipynb` file with any kinds of IDE or editor
 
 ```
 milestone1/
-├── README.md            # This file
-├── requirements.txt     # Python dependencies
-├── results/             # Data analysis results
+├── README.md            # this file
+├── requirements.txt     # python dependencies
+├── results/             # data analysis results
 └── milestone1.ipynb     # milestone1 notebook
 ```
