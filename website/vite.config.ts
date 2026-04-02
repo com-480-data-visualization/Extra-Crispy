@@ -1,34 +1,24 @@
-import { defineConfig } from "vite";
-import react from "@vitejs/plugin-react";
+import tailwindcss from '@tailwindcss/vite';
+import react from '@vitejs/plugin-react';
+import path from 'path';
+import {defineConfig, loadEnv} from 'vite';
 
-export default defineConfig(() => {
-  const repoName = process.env.GITHUB_REPOSITORY?.split("/")[1];
-  const ciBase = process.env.GITHUB_ACTIONS && repoName ? `/${repoName}/` : "/";
-  const base = process.env.VITE_BASE_PATH || ciBase;
-
+export default defineConfig(({mode}) => {
+  const env = loadEnv(mode, '.', '');
   return {
-    plugins: [react()],
-    base,
-    build: {
-      rollupOptions: {
-        output: {
-          manualChunks(id) {
-            if (id.includes("world-countries")) {
-              return "country-names";
-            }
-
-            if (id.includes("react-globe.gl") || id.includes("globe.gl") || id.includes("three")) {
-              return "globe-vendor";
-            }
-
-            if (id.includes("world-atlas") || id.includes("topojson-client")) {
-              return "geo-data";
-            }
-
-            return undefined;
-          },
-        },
+    plugins: [react(), tailwindcss()],
+    define: {
+      'process.env.GEMINI_API_KEY': JSON.stringify(env.GEMINI_API_KEY),
+    },
+    resolve: {
+      alias: {
+        '@': path.resolve(__dirname, '.'),
       },
+    },
+    server: {
+      // HMR is disabled in AI Studio via DISABLE_HMR env var.
+      // Do not modifyâfile watching is disabled to prevent flickering during agent edits.
+      hmr: process.env.DISABLE_HMR !== 'true',
     },
   };
 });
