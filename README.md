@@ -24,9 +24,7 @@ This milestone describes the project goal and provides a functional project prot
 
 You can find our report for Milestone 2 here: [Milestone 2](https://github.com/com-480-data-visualization/Extra-Crispy/blob/master/milestones/milestone2/milestone2.pdf)
 
-You can find a GIF animation showing the basic framework of the website and the dynamic effects of the homepage here: [GIF](https://github.com/com-480-data-visualization/Extra-Crispy/blob/master/milestones/milestone2/m2_initial_website.gif)
-
-You can also find the code for the initial website on this repository.
+You can find the code for the initial website on this repository.
 
 ## Milestone 3 (29th May, 5pm)
 
