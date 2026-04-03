@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Search, ChevronLeft } from 'lucide-react';
-import { artworks, artists, getCountriesStats, getArtistCountriesStats } from '../data/mockData';
+import { artworks, artists, getCountriesStats, getArtistCountriesStats, type Artwork, type Artist } from '../data/mockData';
 import { ViewMode } from '../App';
 
 interface SidebarProps {
@@ -12,11 +12,12 @@ interface SidebarProps {
 
 export default function Sidebar({ selectedCountry, onSelectCountry, mode, selectedDecade }: SidebarProps) {
   const [search, setSearch] = useState('');
+  type DisplayItem = Artwork | Artist;
   
   const stats = mode === 'artworks' ? getCountriesStats(selectedDecade) : getArtistCountriesStats(selectedDecade);
   const filteredStats = stats.filter(s => s.name.toLowerCase().includes(search.toLowerCase()));
   
-  let displayItems = selectedCountry 
+  let displayItems: DisplayItem[] = selectedCountry 
     ? (mode === 'artworks' ? artworks.filter(a => a.country === selectedCountry) : artists.filter(a => a.country === selectedCountry))
     : (mode === 'artworks' ? artworks.slice(0, 20) : artists.slice(0, 20));
 
