@@ -18,7 +18,7 @@ You can access the result of our exploratory data analysis here: [Exploratory Da
 
 ## Milestone 2 (17th April, 5pm)
 
-This milestone describes the project goal and provides a functional project prototype.
+This milestone describes the project goal and provides a functional project prototype frame.
 
 You can find our report for Milestone 2 here: [Milestone 2](https://github.com/com-480-data-visualization/Extra-Crispy/blob/master/milestones/milestone2/milestone2.pdf)
 
