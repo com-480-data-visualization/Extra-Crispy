@@ -14,13 +14,17 @@
 
 This milestone sets up goals for our final project and assesses the feasibility of our ideas.
 
-You can find our report for milestone 1 here: [Milestone 1](https://github.com/com-480-data-visualization/Extra-Crispy/blob/master/milestones/milestone1/milestone1.pdf))
+You can find our report for Milestone 1 here: [Milestone 1](https://github.com/com-480-data-visualization/Extra-Crispy/blob/master/milestones/milestone1/milestone1.pdf)
 
-You can access the result of our exploratory data analysis here: [Exploratory Data Analysis](https://github.com/com-480-data-visualization/Extra-Crispy/blob/master/milestones/milestone1/milestone1.ipynb))
+You can access the result of our exploratory data analysis here: [Exploratory Data Analysis](https://github.com/com-480-data-visualization/Extra-Crispy/blob/master/milestones/milestone1/milestone1.ipynb)
 
 ## Milestone 2 (17th April, 5pm)
 
-**10% of the final grade**
+This milestone describes the project goal and provides a functional project prototype.
+
+You can find our report for Milestone 2 here: [Milestone 2](https://github.com/com-480-data-visualization/Extra-Crispy/blob/master/milestones/milestone2/milestone2.pdf)
+
+You can find a GIF animation showing the basic framework of the website and the dynamic effects of the homepage here: [GIF](https://github.com/com-480-data-visualization/Extra-Crispy/blob/master/milestones/milestone2/m2_initial_website.gif)
 
 
 ## Milestone 3 (29th May, 5pm)
