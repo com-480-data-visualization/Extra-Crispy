@@ -10,8 +10,6 @@
 
 ## Milestone 1 (20th March, 5pm)
 
-**10% of the final grade**
-
 This milestone sets up goals for our final project and assesses the feasibility of our ideas.
 
 You can find our report for Milestone 1 here: [Milestone 1](https://github.com/com-480-data-visualization/Extra-Crispy/blob/master/milestones/milestone1/milestone1.pdf)
