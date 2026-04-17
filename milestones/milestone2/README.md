@@ -2,7 +2,7 @@
 
 ## Website URL
 
-The website is now available at:
+The initial website is now available at:
 
 https://bryceyin13.github.io/extra-crispy-website/
 
