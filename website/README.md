@@ -12,3 +12,9 @@
    `npm run dev`
 
 Default URL: http://localhost:3000
+
+# Deployment
+
+The initial website is now available at:
+
+https://bryceyin13.github.io/extra-crispy-website/
