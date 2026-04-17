@@ -6,7 +6,7 @@ The website is now available at:
 
 https://bryceyin13.github.io/extra-crispy-website/
 
-For Milestone 2, the prototype is deployed from a separate repository to simplify the setup of the public demo. For the final project, we plan to deploy the website directly from this repository.
+For Milestone 2, the prototype is deployed from a separate repository to simplify the setup of the public demo. For the final Milstone, we will deploy the website directly from the repository.
 
 ## Website Local Setup
 
