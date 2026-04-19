@@ -1,0 +1,13 @@
+Continent,Category,Path
+Africa,Artist,Continent_pie\Artist\Africa_artist_piechart.png
+Africa,Artwork,Continent_pie\Artwork\Africa_artwork_piechart.png
+Asia,Artist,Continent_pie\Artist\Asia_artist_piechart.png
+Asia,Artwork,Continent_pie\Artwork\Asia_artwork_piechart.png
+Europe,Artist,Continent_pie\Artist\Europe_artist_piechart.png
+Europe,Artwork,Continent_pie\Artwork\Europe_artwork_piechart.png
+North_America,Artist,Continent_pie\Artist\North_America_artist_piechart.png
+North_America,Artwork,Continent_pie\Artwork\North_America_artwork_piechart.png
+Oceania,Artist,Continent_pie\Artist\Oceania_artist_piechart.png
+Oceania,Artwork,Continent_pie\Artwork\Oceania_artwork_piechart.png
+South_America,Artist,Continent_pie\Artist\South_America_artist_piechart.png
+South_America,Artwork,Continent_pie\Artwork\South_America_artwork_piechart.png
