@@ -1,0 +1,13 @@
+Continent,Category,Path
+Africa,Artist,Continent_bubble\Artist\Africa_artist_bubble.png
+Africa,Artwork,Continent_bubble\Artwork\Africa_artwork_bubble.png
+Asia,Artist,Continent_bubble\Artist\Asia_artist_bubble.png
+Asia,Artwork,Continent_bubble\Artwork\Asia_artwork_bubble.png
+Europe,Artist,Continent_bubble\Artist\Europe_artist_bubble.png
+Europe,Artwork,Continent_bubble\Artwork\Europe_artwork_bubble.png
+North_America,Artist,Continent_bubble\Artist\North_America_artist_bubble.png
+North_America,Artwork,Continent_bubble\Artwork\North_America_artwork_bubble.png
+Oceania,Artist,Continent_bubble\Artist\Oceania_artist_bubble.png
+Oceania,Artwork,Continent_bubble\Artwork\Oceania_artwork_bubble.png
+South_America,Artist,Continent_bubble\Artist\South_America_artist_bubble.png
+South_America,Artwork,Continent_bubble\Artwork\South_America_artwork_bubble.png
