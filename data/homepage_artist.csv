@@ -1,0 +1,643 @@
+ConstituentID,DisplayName,Nationality,Gender,BeginDate,EndDate,Local_Image_Path
+11,Jean (Hans) Arp,French,Male,1886,1966,homepage_artist_image\Jean (Hans) Arp.jpg
+28,Geneviève Asse,French,Female,1923,0,homepage_artist_image\Geneviève Asse.jpg
+34,Alvar Aalto,Finnish,Male,1898,1976,homepage_artist_image\Alvar Aalto.jpg
+41,Berenice Abbott,American,Female,1898,1991,homepage_artist_image\Berenice Abbott.jpg
+53,Vito Acconci,American,Male,1940,2017,homepage_artist_image\Vito Acconci.jpg
+60,Ansel Adams,American,Male,1902,1984,homepage_artist_image\Ansel Adams.jpg
+86,Otl Aicher (also known as Otto Aicher),German,Male,1922,1991,homepage_artist_image\Otl Aicher (also known as Otto Aicher).jpg
+96,Anni Albers,American,Female,1899,1994,homepage_artist_image\Anni Albers.jpg
+97,Josef Albers,American,Male,1888,1976,homepage_artist_image\Josef Albers.jpg
+107,Pierre Alechinsky,Belgian,Male,1927,0,homepage_artist_image\Pierre Alechinsky.jpg
+108,Peter Alexander,American,Male,1939,2020,homepage_artist_image\Peter Alexander.jpg
+129,Harold Altman,American,Male,1924,2003,homepage_artist_image\Harold Altman.jpg
+135,Manuel álvarez Bravo,Mexican,Male,1902,2002,homepage_artist_image\Manuel álvarez Bravo.jpg
+174,Carl Andre,American,Male,1935,0,homepage_artist_image\Carl Andre.jpg
+198,Garo Antreasian,American,Male,1922,0,homepage_artist_image\Garo Antreasian.jpg
+207,Shusaku Arakawa,American,Male,1936,2010,homepage_artist_image\Shusaku Arakawa.jpg
+208,Diane Arbus,American,Female,1923,1971,homepage_artist_image\Diane Arbus.jpg
+209,Aleksandr Archipenko,American,Male,1887,1964,homepage_artist_image\Aleksandr Archipenko.jpg
+229,Eugène Atget,French,Male,1857,1927,homepage_artist_image\Eugène Atget.jpg
+248,Richard Avedon,American,Male,1923,2004,homepage_artist_image\Richard Avedon.jpg
+255,Ay-O,Japanese,Male,1931,0,homepage_artist_image\Ay-O.jpg
+272,Francis Bacon,British,Male,1909,1992,homepage_artist_image\Francis Bacon.jpg
+273,Peggy Bacon,American,Female,1895,1987,homepage_artist_image\Peggy Bacon.jpg
+289,William Bailey,American,Male,1930,2020,homepage_artist_image\William Bailey.jpg
+292,Enrico Baj,Italian,Male,1924,2003,homepage_artist_image\Enrico Baj.jpg
+304,John Baldessari,American,Male,1931,2020,homepage_artist_image\John Baldessari.jpg
+318,Lewis Baltz,American,Male,1945,2014,homepage_artist_image\Lewis Baltz.jpg
+335,Ernst Barlach,German,Male,1870,1938,homepage_artist_image\Ernst Barlach.jpg
+366,Georg Baselitz,German,Male,1938,0,homepage_artist_image\Georg Baselitz.jpg
+369,Leonard Baskin,American,Male,1922,2000,homepage_artist_image\Leonard Baskin.jpg
+370,Jean-Michel Basquiat,American,Male,1960,1988,homepage_artist_image\Jean-Michel Basquiat.jpg
+392,Willi Baumeister,German,Male,1889,1955,homepage_artist_image\Willi Baumeister.jpg
+398,Hippolyte Bayard,French,Male,1801,1887,homepage_artist_image\Hippolyte Bayard.jpg
+416,Felice Beato,Italian,Male,1825,1903,homepage_artist_image\Felice Beato.jpg
+422,Bernd Becher,German,Male,1931,2007,homepage_artist_image\Bernd Becher.jpg
+429,Max Beckmann,German,Male,1884,1950,homepage_artist_image\Max Beckmann.jpg
+451,Mario Bellini,Italian,Male,1935,0,homepage_artist_image\Mario Bellini.jpg
+455,George Bellows,American,Male,1882,1925,homepage_artist_image\George Bellows.jpg
+472,Billy Al Bengston,American,Male,1934,0,homepage_artist_image\Billy Al Bengston.jpg
+483,Thomas Hart Benton,American,Male,1889,1975,homepage_artist_image\Thomas Hart Benton.jpg
+484,Roloff Beny,Canadian,Male,1924,1984,homepage_artist_image\Roloff Beny.jpg
+486,Christian Bérard,French,Male,1902,1949,homepage_artist_image\Christian Bérard.jpg
+502,Eugene Berman,American,Male,1899,1972,homepage_artist_image\Eugene Berman.jpg
+511,émile Bernard,French,Male,1868,1941,homepage_artist_image\émile Bernard.jpg
+540,Joseph Beuys,German,Male,1921,1986,homepage_artist_image\Joseph Beuys.jpg
+542,Thomas Bewick,British,Male,1753,1828,homepage_artist_image\Thomas Bewick.jpg
+559,Max Bill,Swiss,Male,1908,1994,homepage_artist_image\Max Bill.jpg
+561,Ilse Bing,American,Female,1899,1998,homepage_artist_image\Ilse Bing.jpg
+592,Peter Blake,British,Male,1932,0,homepage_artist_image\Peter Blake.jpg
+615,Anna Blume,German,Female,1937,2020,homepage_artist_image\Anna Blume.jpg
+630,Alighiero Boetti,Italian,Male,1940,1994,homepage_artist_image\Alighiero Boetti.jpg
+640,Karl Bohrmann,German,Male,1928,1998,homepage_artist_image\Karl Bohrmann.jpg
+649,Christian Boltanski,French,Male,1944,0,homepage_artist_image\Christian Boltanski.jpg
+665,Pierre Bonnard,French,Male,1867,1947,homepage_artist_image\Pierre Bonnard.jpg
+710,Louise Bourgeois,American,Female,1911,2010,homepage_artist_image\Louise Bourgeois.jpg
+712,Margaret Bourke-White,American,Female,1904,1971,homepage_artist_image\Margaret Bourke-White.jpg
+734,Mathew B. Brady (studio of),American,Male,1823,1896,homepage_artist_image\Mathew B. Brady (studio of).jpg
+738,Constantin Brancu?i,French,Male,1876,1957,homepage_artist_image\Constantin Brancui.jpg
+744,Georges Braque,French,Male,1882,1963,homepage_artist_image\Georges Braque.jpg
+756,George Brecht,American,Male,1926,2008,homepage_artist_image\George Brecht.jpg
+768,André Breton,French,Male,1896,1966,homepage_artist_image\André Breton.jpg
+769,Marcel Breuer,American,Male,1902,1981,homepage_artist_image\Marcel Breuer.jpg
+806,James Brown,American,Male,1951,2020,homepage_artist_image\James Brown.jpg
+816,Robert Brownjohn,American,Male,1925,1970,homepage_artist_image\Robert Brownjohn.jpg
+869,Max Burchartz,German,Male,1887,1961,homepage_artist_image\Max Burchartz.jpg
+871,Chris Burden,American,Male,1946,2015,homepage_artist_image\Chris Burden.jpg
+873,Daniel Buren,French,Male,1938,0,homepage_artist_image\Daniel Buren.jpg
+877,David Burliuk,Ukrainian,Male,1882,1967,homepage_artist_image\David Burliuk.jpg
+879,Edward Burne-Jones,British,Male,1833,1898,homepage_artist_image\Edward Burne-Jones.jpg
+890,Pol Bury,Belgian,Male,1922,2005,homepage_artist_image\Pol Bury.jpg
+909,Paul Cadmus,American,Male,1904,1999,homepage_artist_image\Paul Cadmus.jpg
+912,John Cage,American,Male,1912,1992,homepage_artist_image\John Cage.jpg
+922,Alexander Calder,American,Male,1898,1976,homepage_artist_image\Alexander Calder.jpg
+942,Massimo Campigli,Italian,Male,1895,1971,homepage_artist_image\Massimo Campigli.jpg
+956,Robert Capa,American,Male,1913,1954,homepage_artist_image\Robert Capa.jpg
+1000,Henri Cartier-Bresson,French,Male,1908,2004,homepage_artist_image\Henri Cartier-Bresson.jpg
+1003,Carybé (Hector Bernabó),Brazilian,Male,1911,1997,homepage_artist_image\Carybé (Hector Bernabó).jpg
+1015,A. M. Cassandre,French,Male,1901,1968,homepage_artist_image\A. M. Cassandre.jpg
+1016,Mary Cassatt,American,Female,1844,1926,homepage_artist_image\Mary Cassatt.jpg
+1037,Elizabeth Catlett,American,Female,1915,2012,homepage_artist_image\Elizabeth Catlett.jpg
+1048,Vija Celmins,American,Female,1938,0,homepage_artist_image\Vija Celmins.jpg
+1053,Paul Cézanne,French,Male,1839,1906,homepage_artist_image\Paul Cézanne.jpg
+1055,Marc Chagall,French,Male,1887,1985,homepage_artist_image\Marc Chagall.jpg
+1063,Martín Chambi,Peruvian,Male,1891,1973,homepage_artist_image\Martín Chambi.jpg
+1074,Jean Charlot,American,Male,1898,1979,homepage_artist_image\Jean Charlot.jpg
+1091,Ivan Chermayeff,American,Male,1932,2017,homepage_artist_image\Ivan Chermayeff.jpg
+1104,Eduardo Chillida,Spanish,Male,1924,2002,homepage_artist_image\Eduardo Chillida.jpg
+1106,Giorgio de Chirico,Italian,Male,1888,1978,homepage_artist_image\Giorgio de Chirico.jpg
+1112,William Christenberry,American,Male,1936,2016,homepage_artist_image\William Christenberry.jpg
+1114,Christo,American,Male,1935,2020,homepage_artist_image\Christo.jpg
+1118,Chryssa,American,Female,1933,2013,homepage_artist_image\Chryssa.jpg
+1125,Roman Cieslewicz,French,Male,1930,1996,homepage_artist_image\Roman Cieslewicz.jpg
+1133,Larry Clark,American,Male,1943,0,homepage_artist_image\Larry Clark.jpg
+1145,Francesco Clemente,Italian,Male,1952,0,homepage_artist_image\Francesco Clemente.jpg
+1156,Chuck Close,American,Male,1940,0,homepage_artist_image\Chuck Close.jpg
+1164,Alvin Langdon Coburn,American,Male,1882,1966,homepage_artist_image\Alvin Langdon Coburn.jpg
+1192,André Collot,French,Male,1897,1976,homepage_artist_image\André Collot.jpg
+1243,Lovis Corinth,German,Male,1858,1925,homepage_artist_image\Lovis Corinth.jpg
+1247,Joseph Cornell,American,Male,1903,1972,homepage_artist_image\Joseph Cornell.jpg
+1285,Douglas Craft,American,Male,1924,2015,homepage_artist_image\Douglas Craft.jpg
+1286,Tony Cragg,British,Male,1949,0,homepage_artist_image\Tony Cragg.jpg
+1325,José Luis Cuevas,Mexican,Male,1934,2017,homepage_artist_image\José Luis Cuevas.jpg
+1332,Imogen Cunningham,American,Female,1883,1976,homepage_artist_image\Imogen Cunningham.jpg
+1364,Salvador Dalí,Spanish,Male,1904,1989,homepage_artist_image\Salvador Dalí.jpg
+1402,Arthur B. Davies,American,Male,1862,1928,homepage_artist_image\Arthur B. Davies.jpg
+1444,Niki de Saint Phalle,French,Female,1930,2002,homepage_artist_image\Niki de Saint Phalle.jpg
+1479,Robert Delaunay,French,Male,1885,1941,homepage_artist_image\Robert Delaunay.jpg
+1480,Sonia Delaunay-Terk,French,Female,1885,1979,homepage_artist_image\Sonia Delaunay-Terk.jpg
+1492,Maurice Denis,French,Male,1870,1943,homepage_artist_image\Maurice Denis.jpg
+1500,André Derain,French,Male,1880,1954,homepage_artist_image\André Derain.jpg
+1511,Charles Despiau,French,Male,1874,1946,homepage_artist_image\Charles Despiau.jpg
+1533,Jan Dibbets,Dutch,Male,1941,0,homepage_artist_image\Jan Dibbets.jpg
+1539,Richard Diebenkorn,American,Male,1922,1993,homepage_artist_image\Richard Diebenkorn.jpg
+1547,Jim Dine,American,Male,1935,0,homepage_artist_image\Jim Dine.jpg
+1559,Otto Dix,German,Male,1891,1969,homepage_artist_image\Otto Dix.jpg
+1579,Oscar Domínguez,French,Male,1906,1957,homepage_artist_image\Oscar Domínguez.jpg
+1589,Gustave Doré,French,Male,1832,1883,homepage_artist_image\Gustave Doré.jpg
+1629,Maxime Du Camp,French,Male,1822,1894,homepage_artist_image\Maxime Du Camp.jpg
+1633,Jean Dubuffet,French,Male,1901,1985,homepage_artist_image\Jean Dubuffet.jpg
+1634,Marcel Duchamp,American,Male,1887,1968,homepage_artist_image\Marcel Duchamp.jpg
+1646,Raoul Dufy,French,Male,1877,1953,homepage_artist_image\Raoul Dufy.jpg
+1667,Carlus Dyer,American,Male,1917,2016,homepage_artist_image\Carlus Dyer.jpg
+1671,Charles Eames,American,Male,1907,1978,homepage_artist_image\Charles Eames.jpg
+1672,Ray Eames,American,Female,1912,1988,homepage_artist_image\Ray Eames.jpg
+1724,Peter Henry Emerson,British,Male,1856,1936,homepage_artist_image\Peter Henry Emerson.jpg
+1739,James Ensor,Belgian,Male,1860,1949,homepage_artist_image\James Ensor.jpg
+1750,Hans Erni,Swiss,Male,1909,2015,homepage_artist_image\Hans Erni.jpg
+1752,Max Ernst,French,Male,1891,1976,homepage_artist_image\Max Ernst.jpg
+1756,Elliott Erwitt,American,Male,1928,0,homepage_artist_image\Elliott Erwitt.jpg
+1777,Walker Evans,American,Male,1903,1975,homepage_artist_image\Walker Evans.jpg
+1782,Connor Everts,American,Male,1928,2016,homepage_artist_image\Connor Everts.jpg
+1784,Alexandra Exter,Russian,Female,1882,1949,homepage_artist_image\Alexandra Exter.jpg
+1832,Lyonel Feininger,American,Male,1871,1956,homepage_artist_image\Lyonel Feininger.jpg
+1847,Roger Fenton,British,Male,1819,1869,homepage_artist_image\Roger Fenton.jpg
+1859,León Ferrari,Argentine,Male,1920,2013,homepage_artist_image\León Ferrari.jpg
+1889,Eric Fischl,American,Male,1948,0,homepage_artist_image\Eric Fischl.jpg
+1930,Lucio Fontana,Italian,Male,1899,1968,homepage_artist_image\Lucio Fontana.jpg
+1965,Sam Francis,American,Male,1923,1994,homepage_artist_image\Sam Francis.jpg
+1982,Karl Free,American,Male,1903,1947,homepage_artist_image\Karl Free.jpg
+1993,Lucian Freud,British,Male,1922,2011,homepage_artist_image\Lucian Freud.jpg
+2002,Lee Friedlander,American,Male,1934,0,homepage_artist_image\Lee Friedlander.jpg
+2012,Othon Friesz,French,Male,1879,1949,homepage_artist_image\Othon Friesz.jpg
+2015,Francis Frith,British,Male,1822,1898,homepage_artist_image\Francis Frith.jpg
+2030,R. Buckminster Fuller,American,Male,1895,1983,homepage_artist_image\R. Buckminster Fuller.jpg
+2043,Naum Gabo,American,Male,1890,1977,homepage_artist_image\Naum Gabo.jpg
+2098,Paul Gauguin,French,Male,1848,1903,homepage_artist_image\Paul Gauguin.jpg
+2104,Sonia Gechtoff,American,Female,1926,2018,homepage_artist_image\Sonia Gechtoff.jpg
+2107,Gego (Gertrud Goldschmidt),Venezuelan,Female,1912,1994,homepage_artist_image\Gego (Gertrud Goldschmidt).jpg
+2115,Hugo Gellert,American,Male,1892,1985,homepage_artist_image\Hugo Gellert.jpg
+2118,Juan Genovés,Spanish,Male,1930,2020,homepage_artist_image\Juan Genovés.jpg
+2141,Alberto Giacometti,Swiss,Male,1901,1966,homepage_artist_image\Alberto Giacometti.jpg
+2158,Eric Gill,British,Male,1882,1940,homepage_artist_image\Eric Gill.jpg
+2171,John Giorno,American,Male,1936,2019,homepage_artist_image\John Giorno.jpg
+2191,Albert Gleizes,French,Male,1881,1953,homepage_artist_image\Albert Gleizes.jpg
+2206,Vincent van Gogh,Dutch,Male,1853,1890,homepage_artist_image\Vincent van Gogh.jpg
+2223,Leon Golub,American,Male,1922,2004,homepage_artist_image\Leon Golub.jpg
+2229,Natalia Goncharova,Russian,Female,1881,1962,homepage_artist_image\Natalia Goncharova.jpg
+2233,Felix Gonzalez-Torres,American,Male,1957,1996,homepage_artist_image\Felix Gonzalez-Torres.jpg
+2252,Arshile Gorky,American,Male,1904,1948,homepage_artist_image\Arshile Gorky.jpg
+2274,Francisco de Goya,Spanish,Male,1746,1828,homepage_artist_image\Francisco de Goya.jpg
+2281,Dan Graham,American,Male,1942,0,homepage_artist_image\Dan Graham.jpg
+2286,Paul Graham,British,Male,1956,0,homepage_artist_image\Paul Graham.jpg
+2349,Juan Gris,Spanish,Male,1887,1927,homepage_artist_image\Juan Gris.jpg
+2357,Red Grooms,American,Male,1937,0,homepage_artist_image\Red Grooms.jpg
+2360,William Gropper,American,Male,1897,1977,homepage_artist_image\William Gropper.jpg
+2374,George Grosz,American,Male,1893,1959,homepage_artist_image\George Grosz.jpg
+2419,Philip Guston,American,Male,1913,1980,homepage_artist_image\Philip Guston.jpg
+2435,Terry Haass,French,Female,1923,2016,homepage_artist_image\Terry Haass.jpg
+2481,Richard Hamilton,British,Male,1922,2011,homepage_artist_image\Richard Hamilton.jpg
+2491,Robert Hansen,American,Male,1924,2013,homepage_artist_image\Robert Hansen.jpg
+2505,Keith Haring,American,Male,1958,1990,homepage_artist_image\Keith Haring.jpg
+2519,"George Overbury (""Pop"") Hart",American,Male,1868,1933,homepage_artist_image\George Overbury (Pop) Hart.jpg
+2520,Grace Hartigan,American,Female,1922,2008,homepage_artist_image\Grace Hartigan.jpg
+2521,Marsden Hartley,American,Male,1877,1943,homepage_artist_image\Marsden Hartley.jpg
+2532,Childe Hassam,American,Male,1859,1935,homepage_artist_image\Childe Hassam.jpg
+2544,Raoul Hausmann,German,Male,1886,1971,homepage_artist_image\Raoul Hausmann.jpg
+2564,Dave Heath,American,Male,1931,2016,homepage_artist_image\Dave Heath.jpg
+2569,Erich Heckel,German,Male,1883,1970,homepage_artist_image\Erich Heckel.jpg
+2583,Al Held,American,Male,1928,2005,homepage_artist_image\Al Held.jpg
+2600,Barbara Hepworth,British,Female,1903,1975,homepage_artist_image\Barbara Hepworth.jpg
+2623,Eva Hesse,American,Female,1936,1970,homepage_artist_image\Eva Hesse.jpg
+2637,Dick Higgins,American,Male,1938,1998,homepage_artist_image\Dick Higgins.jpg
+2648,David Octavius Hill,British,Male,1802,1870,homepage_artist_image\David Octavius Hill.jpg
+2657,Lewis W. Hine,American,Male,1874,1940,homepage_artist_image\Lewis W. Hine.jpg
+2675,Hannah H?ch,German,Female,1889,1978,homepage_artist_image\Hannah Hch.jpg
+2678,David Hockney,British,Male,1937,0,homepage_artist_image\David Hockney.jpg
+2679,Howard Hodgkin,British,Male,1932,2017,homepage_artist_image\Howard Hodgkin.jpg
+2697,Armin Hofmann,Swiss,Male,1920,0,homepage_artist_image\Armin Hofmann.jpg
+2698,Hans Hofmann,American,Male,1880,1966,homepage_artist_image\Hans Hofmann.jpg
+2717,Lorenzo Homar,American,Male,1913,2004,homepage_artist_image\Lorenzo Homar.jpg
+2719,Gottfried Honegger,Swiss,Male,1917,2016,homepage_artist_image\Gottfried Honegger.jpg
+2726,Edward Hopper,American,Male,1882,1967,homepage_artist_image\Edward Hopper.jpg
+2756,Ian (Hugh Guiler) Hugo,American,Male,1898,1985,homepage_artist_image\Ian (Hugh Guiler) Hugo.jpg
+2801,Masuo Ikeda,Japanese,Male,1934,1997,homepage_artist_image\Masuo Ikeda.jpg
+2812,Robert Indiana,American,Male,1928,2018,homepage_artist_image\Robert Indiana.jpg
+2856,Joseph Jachna,American,Male,1935,2016,homepage_artist_image\Joseph Jachna.jpg
+2863,William Henry Jackson,American,Male,1843,1942,homepage_artist_image\William Henry Jackson.jpg
+2893,Alfred Jarry,French,Male,1873,1907,homepage_artist_image\Alfred Jarry.jpg
+2896,Alexei Jawlensky,Russian,Male,1864,1941,homepage_artist_image\Alexei Jawlensky.jpg
+2923,Jasper Johns,American,Male,1930,0,homepage_artist_image\Jasper Johns.jpg
+2928,Ray Johnson,American,Male,1927,1995,homepage_artist_image\Ray Johnson.jpg
+2929,Ynez Johnston,American,Female,1920,0,homepage_artist_image\Ynez Johnston.jpg
+2930,Joan Jonas,American,Female,1936,0,homepage_artist_image\Joan Jonas.jpg
+2943,Asger Jorn,Danish,Male,1914,1973,homepage_artist_image\Asger Jorn.jpg
+2948,Donald Judd,American,Male,1928,1994,homepage_artist_image\Donald Judd.jpg
+2963,Frida Kahlo,Mexican,Female,1907,1954,homepage_artist_image\Frida Kahlo.jpg
+2964,Louis I. Kahn,American,Male,1901,1974,homepage_artist_image\Louis I. Kahn.jpg
+2981,Vasily Kandinsky,French,Male,1866,1944,homepage_artist_image\Vasily Kandinsky.jpg
+2995,Anish Kapoor,British,Male,1954,0,homepage_artist_image\Anish Kapoor.jpg
+2997,Allan Kaprow,American,Male,1927,2006,homepage_artist_image\Allan Kaprow.jpg
+3016,Alex Katz,American,Male,1927,0,homepage_artist_image\Alex Katz.jpg
+3020,E. McKnight Kauffer,American,Male,1890,1954,homepage_artist_image\E. McKnight Kauffer.jpg
+3045,Mike Kelley,American,Male,1954,2012,homepage_artist_image\Mike Kelley.jpg
+3048,Ellsworth Kelly,American,Male,1923,2015,homepage_artist_image\Ellsworth Kelly.jpg
+3060,Clarence Kennedy,American,Male,1892,1972,homepage_artist_image\Clarence Kennedy.jpg
+3072,André Kertész,American,Male,1894,1985,homepage_artist_image\André Kertész.jpg
+3091,Frederick Kiesler,American,Male,1890,1965,homepage_artist_image\Frederick Kiesler.jpg
+3093,Mokuma Kikuhata,Japanese,Male,1935,2020,homepage_artist_image\Mokuma Kikuhata.jpg
+3111,Martin Kippenberger,German,Male,1953,1997,homepage_artist_image\Martin Kippenberger.jpg
+3115,Ernst Ludwig Kirchner,German,Male,1880,1938,homepage_artist_image\Ernst Ludwig Kirchner.jpg
+3121,R. B. Kitaj,American,Male,1932,2007,homepage_artist_image\R. B. Kitaj.jpg
+3130,Paul Klee,German,Male,1879,1940,homepage_artist_image\Paul Klee.jpg
+3137,Yves Klein,French,Male,1928,1962,homepage_artist_image\Yves Klein.jpg
+3147,Gustav Klimt,Austrian,Male,1862,1918,homepage_artist_image\Gustav Klimt.jpg
+3148,Franz Kline,American,Male,1910,1962,homepage_artist_image\Franz Kline.jpg
+3149,Max Klinger,German,Male,1857,1920,homepage_artist_image\Max Klinger.jpg
+3197,Oskar Kokoschka,Austrian,Male,1886,1980,homepage_artist_image\Oskar Kokoschka.jpg
+3213,Willem de Kooning,American,Male,1904,1997,homepage_artist_image\Willem de Kooning.jpg
+3228,Joseph Kosuth,American,Male,1945,0,homepage_artist_image\Joseph Kosuth.jpg
+3230,Jannis Kounellis,Greek,Male,1936,2017,homepage_artist_image\Jannis Kounellis.jpg
+3240,Lee Krasner,American,Female,1908,1984,homepage_artist_image\Lee Krasner.jpg
+3263,Aleksei Kruchenykh,Russian,Male,1886,1969,homepage_artist_image\Aleksei Kruchenykh.jpg
+3276,Alfred Kubin,Austrian,Male,1877,1959,homepage_artist_image\Alfred Kubin.jpg
+3277,Shigeko Kubota,Japanese,Female,1937,2015,homepage_artist_image\Shigeko Kubota.jpg
+3288,Walt Kuhn,American,Male,1877,1949,homepage_artist_image\Walt Kuhn.jpg
+3296,Yasuo Kuniyoshi,American,Male,1889,1953,homepage_artist_image\Yasuo Kuniyoshi.jpg
+3302,Franti?ek Kupka,Czech,Male,1871,1957,homepage_artist_image\Frantiek Kupka.jpg
+3315,Yayoi Kusama,Japanese,Female,1929,0,homepage_artist_image\Yayoi Kusama.jpg
+3325,Roger de La Fresnaye,French,Male,1885,1925,homepage_artist_image\Roger de La Fresnaye.jpg
+3373,Dorothea Lange,American,Female,1895,1965,homepage_artist_image\Dorothea Lange.jpg
+3385,Pierre Laprade,French,Male,1875,1931,homepage_artist_image\Pierre Laprade.jpg
+3389,Mikhail Larionov,Russian,Male,1881,1964,homepage_artist_image\Mikhail Larionov.jpg
+3393,William G. Larson,American,Male,1942,2019,homepage_artist_image\William G. Larson.jpg
+3394,Jacques-Henri Lartigue,French,Male,1894,1986,homepage_artist_image\Jacques-Henri Lartigue.jpg
+3402,Maria Lassnig,Austrian,Female,1919,2014,homepage_artist_image\Maria Lassnig.jpg
+3408,Marie Laurencin,French,Female,1883,1956,homepage_artist_image\Marie Laurencin.jpg
+3409,Henri Laurens,French,Male,1885,1954,homepage_artist_image\Henri Laurens.jpg
+3418,Jacob Lawrence,American,Male,1917,2000,homepage_artist_image\Jacob Lawrence.jpg
+3426,Le Corbusier (Charles-édouard Jeanneret),French,Male,1887,1965,homepage_artist_image\Le Corbusier (Charles-édouard Jeanneret).jpg
+3464,Wilhelm Lehmbruck,German,Male,1881,1919,homepage_artist_image\Wilhelm Lehmbruck.jpg
+3505,John Levee,American,Male,1924,2017,homepage_artist_image\John Levee.jpg
+3516,Tom Levine,American,Male,1945,2020,homepage_artist_image\Tom Levine.jpg
+3528,Sol LeWitt,American,Male,1928,2007,homepage_artist_image\Sol LeWitt.jpg
+3542,Roy Lichtenstein,American,Male,1923,1997,homepage_artist_image\Roy Lichtenstein.jpg
+3559,Richard Lindner,American,Male,1901,1978,homepage_artist_image\Richard Lindner.jpg
+3569,El Lissitzky,Russian,Male,1890,1941,homepage_artist_image\El Lissitzky.jpg
+3580,George Lockwood,American,Male,1929,1969,homepage_artist_image\George Lockwood.jpg
+3590,Lois Long,American,Female,1918,0,homepage_artist_image\Lois Long.jpg
+3591,Richard Long,British,Male,1945,0,homepage_artist_image\Richard Long.jpg
+3607,Morris Louis,American,Male,1912,1962,homepage_artist_image\Morris Louis.jpg
+3621,Maximilien Luce,French,Male,1858,1941,homepage_artist_image\Maximilien Luce.jpg
+3640,Markus Lüpertz,German,Male,1941,0,homepage_artist_image\Markus Lüpertz.jpg
+3641,Jean Lur?at,French,Male,1892,1966,homepage_artist_image\Jean Lurat.jpg
+3650,Danny Lyon,American,Male,1942,0,homepage_artist_image\Danny Lyon.jpg
+3652,Nathan Lyons,American,Male,1930,2016,homepage_artist_image\Nathan Lyons.jpg
+3692,René Magritte,Belgian,Male,1898,1967,homepage_artist_image\René Magritte.jpg
+3697,Aristide Maillol,French,Male,1861,1944,homepage_artist_image\Aristide Maillol.jpg
+3710,Kazimir Malevich,Russian,Male,1878,1935,homepage_artist_image\Kazimir Malevich.jpg
+3716,Man Ray (Emmanuel Radnitzky),American,Male,1890,1976,homepage_artist_image\Man Ray (Emmanuel Radnitzky).jpg
+3721,édouard Manet,French,Male,1832,1883,homepage_artist_image\édouard Manet.jpg
+3723,Robert Mangold,American,Male,1937,0,homepage_artist_image\Robert Mangold.jpg
+3742,Giacomo Manzù,Italian,Male,1908,1991,homepage_artist_image\Giacomo Manzù.jpg
+3745,Robert Mapplethorpe,American,Male,1946,1989,homepage_artist_image\Robert Mapplethorpe.jpg
+3753,Léo Marchutz,French,Male,1903,1976,homepage_artist_image\Léo Marchutz.jpg
+3756,Gerhard Marcks,German,Male,1889,1981,homepage_artist_image\Gerhard Marcks.jpg
+3757,Louis Marcoussis,Polish,Male,1883,1941,homepage_artist_image\Louis Marcoussis.jpg
+3758,Brice Marden,American,Male,1938,0,homepage_artist_image\Brice Marden.jpg
+3772,Marino Marini,Italian,Male,1901,1980,homepage_artist_image\Marino Marini.jpg
+3774,Marisol (Marisol Escobar),Venezuelan,Female,1930,2016,homepage_artist_image\Marisol (Marisol Escobar).jpg
+3779,Ronald Markman,American,Male,1931,0,homepage_artist_image\Ronald Markman.jpg
+3782,Albert Marquet,French,Male,1875,1947,homepage_artist_image\Albert Marquet.jpg
+3814,Frans Masereel,Belgian,Male,1889,1972,homepage_artist_image\Frans Masereel.jpg
+3825,Gregory Masurovsky,American,Male,1929,2009,homepage_artist_image\Gregory Masurovsky.jpg
+3832,Henri Matisse,French,Male,1869,1954,homepage_artist_image\Henri Matisse.jpg
+3838,Toshio Matsumoto,Japanese,Male,1932,2017,homepage_artist_image\Toshio Matsumoto.jpg
+3842,Roberto Matta,Chilean,Male,1911,2002,homepage_artist_image\Roberto Matta.jpg
+3843,Herbert Matter,American,Male,1907,1984,homepage_artist_image\Herbert Matter.jpg
+3923,Leopoldo Méndez,Mexican,Male,1902,1969,homepage_artist_image\Leopoldo Méndez.jpg
+3924,Ana Mendieta,American,Female,1948,1985,homepage_artist_image\Ana Mendieta.jpg
+3962,Duane Michals,American,Male,1932,0,homepage_artist_image\Duane Michals.jpg
+3963,Henri Michaux,French,Male,1899,1984,homepage_artist_image\Henri Michaux.jpg
+3964,Robert Michel,German,Male,1897,1983,homepage_artist_image\Robert Michel.jpg
+3975,Eleanore Mikus,American,Female,1927,2017,homepage_artist_image\Eleanore Mikus.jpg
+4016,Joan Miró,Spanish,Male,1893,1983,homepage_artist_image\Joan Miró.jpg
+4026,Joan Mitchell,American,Female,1925,1992,homepage_artist_image\Joan Mitchell.jpg
+4037,Paula Modersohn-Becker,German,Female,1876,1907,homepage_artist_image\Paula Modersohn-Becker.jpg
+4038,Amedeo Modigliani,Italian,Male,1884,1920,homepage_artist_image\Amedeo Modigliani.jpg
+4039,Tina Modotti,Italian,Female,1896,1942,homepage_artist_image\Tina Modotti.jpg
+4048,László Moholy-Nagy,American,Male,1895,1946,homepage_artist_image\László Moholy-Nagy.jpg
+4057,Piet Mondrian,Dutch,Male,1872,1944,homepage_artist_image\Piet Mondrian.jpg
+4058,Claude Monet,French,Male,1840,1926,homepage_artist_image\Claude Monet.jpg
+4071,Henry Moore,British,Male,1898,1986,homepage_artist_image\Henry Moore.jpg
+4079,Giorgio Morandi,Italian,Male,1890,1964,homepage_artist_image\Giorgio Morandi.jpg
+4095,Berthe Morisot,French,Female,1841,1895,homepage_artist_image\Berthe Morisot.jpg
+4108,Robert Morris,American,Male,1931,2018,homepage_artist_image\Robert Morris.jpg
+4109,Wright Morris,American,Male,1910,1998,homepage_artist_image\Wright Morris.jpg
+4154,Josef Müller-Brockmann,Swiss,Male,1914,1996,homepage_artist_image\Josef Müller-Brockmann.jpg
+4160,Matt Mullican,American,Male,1951,0,homepage_artist_image\Matt Mullican.jpg
+4164,Edvard Munch,Norwegian,Male,1863,1944,homepage_artist_image\Edvard Munch.jpg
+4192,Eadweard J. Muybridge,American,Male,1830,1904,homepage_artist_image\Eadweard J. Muybridge.jpg
+4196,Nadar (Gaspard-Félix Tournachon),French,Male,1820,1910,homepage_artist_image\Nadar (Gaspard-Félix Tournachon).jpg
+4254,Charles Nègre,French,Male,1820,1880,homepage_artist_image\Charles Nègre.jpg
+4278,Louise Nevelson,American,Female,1899,1988,homepage_artist_image\Louise Nevelson.jpg
+4284,Arnold Newman,American,Male,1918,2006,homepage_artist_image\Arnold Newman.jpg
+4285,Barnett Newman,American,Male,1905,1970,homepage_artist_image\Barnett Newman.jpg
+4293,Ben Nicholson,British,Male,1894,1982,homepage_artist_image\Ben Nicholson.jpg
+4324,Isamu Noguchi,American,Male,1904,1988,homepage_artist_image\Isamu Noguchi.jpg
+4325,Sidney Nolan,Australian,Male,1917,1992,homepage_artist_image\Sidney Nolan.jpg
+4326,Kenneth Noland,American,Male,1924,2010,homepage_artist_image\Kenneth Noland.jpg
+4327,Emil Nolde,German,Male,1867,1956,homepage_artist_image\Emil Nolde.jpg
+4360,Georgia O'Keeffe,American,Female,1887,1986,homepage_artist_image\Georgia O'Keeffe.jpg
+4397,Claes Oldenburg,American,Male,1929,0,homepage_artist_image\Claes Oldenburg.jpg
+4410,Yoko Ono,American,Female,1933,0,homepage_artist_image\Yoko Ono.jpg
+4415,Dennis Oppenheim,American,Male,1938,2011,homepage_artist_image\Dennis Oppenheim.jpg
+4416,Meret Oppenheim,Swiss,Female,1913,1985,homepage_artist_image\Meret Oppenheim.jpg
+4430,José Clemente Orozco,Mexican,Male,1883,1949,homepage_artist_image\José Clemente Orozco.jpg
+4472,Mimmo Paladino,Italian,Male,1948,0,homepage_artist_image\Mimmo Paladino.jpg
+4473,Julio Palazuelos,Chilean,Male,1931,2014,homepage_artist_image\Julio Palazuelos.jpg
+4474,Blinky Palermo,German,Male,1943,1977,homepage_artist_image\Blinky Palermo.jpg
+4490,Tod Papageorge,American,Male,1940,0,homepage_artist_image\Tod Papageorge.jpg
+4510,Jürgen Partenheimer,German,Male,1947,0,homepage_artist_image\Jürgen Partenheimer.jpg
+4514,Jules Pascin,American,Male,1885,1930,homepage_artist_image\Jules Pascin.jpg
+4520,Benjamin Patterson,American,Male,1934,2016,homepage_artist_image\Benjamin Patterson.jpg
+4533,Max Pechstein,German,Male,1881,1955,homepage_artist_image\Max Pechstein.jpg
+4546,A.R. Penck (Ralf Winkler),German,Male,1939,2017,homepage_artist_image\A.R. Penck (Ralf Winkler).jpg
+4554,Gilles Peress,French,Male,1946,0,homepage_artist_image\Gilles Peress.jpg
+4607,Francis Picabia,French,Male,1879,1953,homepage_artist_image\Francis Picabia.jpg
+4609,Pablo Picasso,Spanish,Male,1881,1973,homepage_artist_image\Pablo Picasso.jpg
+4617,Otto Piene,German,Male,1928,2014,homepage_artist_image\Otto Piene.jpg
+4633,John Piper,British,Male,1903,1992,homepage_artist_image\John Piper.jpg
+4640,Camille Pissarro,French,Male,1830,1903,homepage_artist_image\Camille Pissarro.jpg
+4671,Sigmar Polke,German,Male,1941,2010,homepage_artist_image\Sigmar Polke.jpg
+4675,Jackson Pollock,American,Male,1912,1956,homepage_artist_image\Jackson Pollock.jpg
+4676,Arnaldo Pomodoro,Italian,Male,1926,0,homepage_artist_image\Arnaldo Pomodoro.jpg
+4694,Liubov Popova,Russian,Female,1889,1924,homepage_artist_image\Liubov Popova.jpg
+4700,Eliot Porter,American,Male,1901,1990,homepage_artist_image\Eliot Porter.jpg
+4701,Fairfield Porter,American,Male,1907,1975,homepage_artist_image\Fairfield Porter.jpg
+4707,José-Guadalupe Posada,Mexican,Male,1852,1913,homepage_artist_image\José-Guadalupe Posada.jpg
+4792,Arnulf Rainer,Austrian,Male,1929,0,homepage_artist_image\Arnulf Rainer.jpg
+4806,Mel Ramos,American,Male,1935,2018,homepage_artist_image\Mel Ramos.jpg
+4823,Robert Rauschenberg,American,Male,1925,2008,homepage_artist_image\Robert Rauschenberg.jpg
+4831,Omar Rayo,Colombian,Male,1928,2010,homepage_artist_image\Omar Rayo.jpg
+4840,Odilon Redon,French,Male,1840,1916,homepage_artist_image\Odilon Redon.jpg
+4856,Ad Reinhardt,American,Male,1913,1967,homepage_artist_image\Ad Reinhardt.jpg
+4869,Pierre-Auguste Renoir,French,Male,1841,1919,homepage_artist_image\Pierre-Auguste Renoir.jpg
+4895,Marc Riboud,French,Male,1923,2016,homepage_artist_image\Marc Riboud.jpg
+4907,Gerhard Richter,German,Male,1932,0,homepage_artist_image\Gerhard Richter.jpg
+4942,Diego Rivera,Mexican,Male,1886,1957,homepage_artist_image\Diego Rivera.jpg
+4945,Larry Rivers,American,Male,1923,2002,homepage_artist_image\Larry Rivers.jpg
+4975,Aleksandr Rodchenko,Russian,Male,1891,1956,homepage_artist_image\Aleksandr Rodchenko.jpg
+4978,Auguste Rodin,French,Male,1840,1917,homepage_artist_image\Auguste Rodin.jpg
+5000,Christian Rohlfs,German,Male,1849,1938,homepage_artist_image\Christian Rohlfs.jpg
+5021,James Rosenquist,American,Male,1933,2017,homepage_artist_image\James Rosenquist.jpg
+5030,Judith Joy Ross,American,Female,1946,0,homepage_artist_image\Judith Joy Ross.jpg
+5042,Dieter Roth,Swiss,Male,1930,1998,homepage_artist_image\Dieter Roth.jpg
+5044,Susan Rothenberg,American,Female,1945,2020,homepage_artist_image\Susan Rothenberg.jpg
+5047,Mark Rothko,American,Male,1903,1970,homepage_artist_image\Mark Rothko.jpg
+5050,Arthur Rothstein,American,Male,1915,1985,homepage_artist_image\Arthur Rothstein.jpg
+5053,Georges Rouault,French,Male,1871,1958,homepage_artist_image\Georges Rouault.jpg
+5056,Henri Rousseau,French,Male,1844,1910,homepage_artist_image\Henri Rousseau.jpg
+5065,Pierre Roy,French,Male,1880,1950,homepage_artist_image\Pierre Roy.jpg
+5066,Olga Rozanova,Russian,Female,1886,1918,homepage_artist_image\Olga Rozanova.jpg
+5084,Allen Ruppersberg,American,Male,1944,0,homepage_artist_image\Allen Ruppersberg.jpg
+5086,Edward Ruscha,American,Male,1937,0,homepage_artist_image\Edward Ruscha.jpg
+5098,Robert Ryman,American,Male,1930,2019,homepage_artist_image\Robert Ryman.jpg
+5102,Betye Saar,American,Female,1926,0,homepage_artist_image\Betye Saar.jpg
+5144,Willem Jacob Henri Berend Sandberg,Dutch,Male,1897,1984,homepage_artist_image\Willem Jacob Henri Berend Sandberg.jpg
+5145,August Sander,German,Male,1876,1964,homepage_artist_image\August Sander.jpg
+5219,Oskar Schlemmer,German,Male,1888,1943,homepage_artist_image\Oskar Schlemmer.jpg
+5223,Edwin Schlossberg,American,Male,1945,0,homepage_artist_image\Edwin Schlossberg.jpg
+5238,Michael Schmidt,German,Male,1945,2014,homepage_artist_image\Michael Schmidt.jpg
+5242,Karl Schmidt-Rottluff,German,Male,1884,1976,homepage_artist_image\Karl Schmidt-Rottluff.jpg
+5245,Julian Schnabel,American,Male,1951,0,homepage_artist_image\Julian Schnabel.jpg
+5268,Karl Schrag,American,Male,1912,1995,homepage_artist_image\Karl Schrag.jpg
+5273,Paul Schuitema,Dutch,Male,1897,1973,homepage_artist_image\Paul Schuitema.jpg
+5281,Thomas Schütte,German,Male,1954,0,homepage_artist_image\Thomas Schütte.jpg
+5293,Kurt Schwitters,German,Male,1887,1948,homepage_artist_image\Kurt Schwitters.jpg
+5305,Sean Scully,American,Male,1945,0,homepage_artist_image\Sean Scully.jpg
+5316,George Segal,American,Male,1924,2000,homepage_artist_image\George Segal.jpg
+5337,Kurt Seligmann,American,Male,1900,1962,homepage_artist_image\Kurt Seligmann.jpg
+5343,Luis Seoane,Argentine,Male,1910,1979,homepage_artist_image\Luis Seoane.jpg
+5349,Richard Serra,American,Male,1938,0,homepage_artist_image\Richard Serra.jpg
+5366,Ben Shahn,American,Male,1898,1969,homepage_artist_image\Ben Shahn.jpg
+5383,Charles Sheeler,American,Male,1883,1965,homepage_artist_image\Charles Sheeler.jpg
+5392,Cindy Sherman,American,Female,1954,0,homepage_artist_image\Cindy Sherman.jpg
+5407,Melissa Shook,American,Female,1939,0,homepage_artist_image\Melissa Shook.jpg
+5409,Stephen Shore,American,Male,1947,0,homepage_artist_image\Stephen Shore.jpg
+5414,Walter Richard Sickert,British,Male,1860,1942,homepage_artist_image\Walter Richard Sickert.jpg
+5454,David Alfaro Siqueiros,Mexican,Male,1896,1974,homepage_artist_image\David Alfaro Siqueiros.jpg
+5456,Aaron Siskind,American,Male,1903,1991,homepage_artist_image\Aaron Siskind.jpg
+5471,John Sloan,American,Male,1871,1951,homepage_artist_image\John Sloan.jpg
+5486,Kiki Smith,American,Female,1954,0,homepage_artist_image\Kiki Smith.jpg
+5496,W. Eugene Smith,American,Male,1918,1978,homepage_artist_image\W. Eugene Smith.jpg
+5517,Rosalind Fox Solomon,American,Female,1930,0,homepage_artist_image\Rosalind Fox Solomon.jpg
+5536,Ettore Sottsass,Italian,Male,1917,2007,homepage_artist_image\Ettore Sottsass.jpg
+5538,Pierre Soulages,French,Male,1919,0,homepage_artist_image\Pierre Soulages.jpg
+5549,Raphael Soyer,American,Male,1899,1987,homepage_artist_image\Raphael Soyer.jpg
+5569,Daniel Spoerri,Swiss,Male,1930,0,homepage_artist_image\Daniel Spoerri.jpg
+5599,Julian Stanczak,American,Male,1928,2017,homepage_artist_image\Julian Stanczak.jpg
+5607,Franciszek Starowieyski,Polish,Male,1930,2009,homepage_artist_image\Franciszek Starowieyski.jpg
+5623,Edward Steichen,American,Male,1879,1973,homepage_artist_image\Edward Steichen.jpg
+5626,Walter Stein,American,Male,1924,0,homepage_artist_image\Walter Stein.jpg
+5627,Saul Steinberg,American,Male,1914,1999,homepage_artist_image\Saul Steinberg.jpg
+5637,Pat Steir,American,Female,1940,0,homepage_artist_image\Pat Steir.jpg
+5640,Frank Stella,American,Male,1936,0,homepage_artist_image\Frank Stella.jpg
+5641,Joseph Stella,American,Male,1877,1946,homepage_artist_image\Joseph Stella.jpg
+5642,Vladimir Stenberg,Russian,Male,1899,1982,homepage_artist_image\Vladimir Stenberg.jpg
+5643,Varvara Stepanova,Russian,Female,1894,1958,homepage_artist_image\Varvara Stepanova.jpg
+5651,Marina Stern,American,Female,1928,2017,homepage_artist_image\Marina Stern.jpg
+5657,Florine Stettheimer,American,Female,1871,1944,homepage_artist_image\Florine Stettheimer.jpg
+5664,Alfred Stieglitz,American,Male,1864,1946,homepage_artist_image\Alfred Stieglitz.jpg
+5685,Paul Strand,American,Male,1890,1976,homepage_artist_image\Paul Strand.jpg
+5695,James Strombotne,American,Male,1934,0,homepage_artist_image\James Strombotne.jpg
+5721,Hiroshi Sugimoto,Japanese,Male,1948,0,homepage_artist_image\Hiroshi Sugimoto.jpg
+5740,Ladislav Sutnar,American,Male,1897,1976,homepage_artist_image\Ladislav Sutnar.jpg
+5795,Rufino Tamayo,Mexican,Male,1899,1991,homepage_artist_image\Rufino Tamayo.jpg
+5804,Yves Tanguy,American,Male,1900,1955,homepage_artist_image\Yves Tanguy.jpg
+5806,Dorothea Tanning,American,Female,1910,2012,homepage_artist_image\Dorothea Tanning.jpg
+5809,Antoni Tàpies,Spanish,Male,1923,2012,homepage_artist_image\Antoni Tàpies.jpg
+5811,Vladimir Tatlin,Russian,Male,1885,1953,homepage_artist_image\Vladimir Tatlin.jpg
+5821,Pavel Tchelitchew,American,Male,1898,1957,homepage_artist_image\Pavel Tchelitchew.jpg
+5849,Wayne Thiebaud,American,Male,1920,0,homepage_artist_image\Wayne Thiebaud.jpg
+5863,John Thomson,British,Male,1837,1921,homepage_artist_image\John Thomson.jpg
+5881,Walasse Ting,American,Male,1929,2010,homepage_artist_image\Walasse Ting.jpg
+5882,Jean Tinguely,Swiss,Male,1925,1991,homepage_artist_image\Jean Tinguely.jpg
+5889,Mark Tobey,American,Male,1890,1976,homepage_artist_image\Mark Tobey.jpg
+5910,Henri de Toulouse-Lautrec,French,Male,1864,1901,homepage_artist_image\Henri de Toulouse-Lautrec.jpg
+5951,Jan Tschichold,Swiss,Male,1902,1974,homepage_artist_image\Jan Tschichold.jpg
+5981,James Turrell,American,Male,1943,0,homepage_artist_image\James Turrell.jpg
+5988,Cy Twombly,American,Male,1928,2011,homepage_artist_image\Cy Twombly.jpg
+6001,Jerry Uelsmann,American,Male,1934,0,homepage_artist_image\Jerry Uelsmann.jpg
+6046,Maurice Utrillo,French,Male,1883,1955,homepage_artist_image\Maurice Utrillo.jpg
+6055,Suzanne Valadon,French,Female,1865,1938,homepage_artist_image\Suzanne Valadon.jpg
+6064,Félix Vallotton,French,Male,1865,1925,homepage_artist_image\Félix Vallotton.jpg
+6074,James Van Der Zee,American,Male,1886,1983,homepage_artist_image\James Van Der Zee.jpg
+6076,Theo van Doesburg,Dutch,Male,1883,1931,homepage_artist_image\Theo van Doesburg.jpg
+6077,Kees van Dongen,French,Male,1877,1968,homepage_artist_image\Kees van Dongen.jpg
+6109,Victor Vasarely,French,Male,1908,1997,homepage_artist_image\Victor Vasarely.jpg
+6115,Ben Vautier,French,Male,1935,0,homepage_artist_image\Ben Vautier.jpg
+6119,Emilio Vedova,Italian,Male,1919,1995,homepage_artist_image\Emilio Vedova.jpg
+6132,Robert Venturi,American,Male,1925,2018,homepage_artist_image\Robert Venturi.jpg
+6155,Massimo Vignelli,Italian,Male,1931,2014,homepage_artist_image\Massimo Vignelli.jpg
+6165,Jacques Villon,French,Male,1875,1963,homepage_artist_image\Jacques Villon.jpg
+6168,Lauretta Vinciarelli,Italian,Female,1943,2012,homepage_artist_image\Lauretta Vinciarelli.jpg
+6170,Roman Vishniac,American,Male,1897,1990,homepage_artist_image\Roman Vishniac.jpg
+6177,Maurice de Vlaminck,French,Male,1876,1958,homepage_artist_image\Maurice de Vlaminck.jpg
+6191,Wolf Vostell,German,Male,1932,1998,homepage_artist_image\Wolf Vostell.jpg
+6192,Andrei Voznesensky,Russian,Male,1933,0,homepage_artist_image\Andrei Voznesensky.jpg
+6194,édouard Vuillard,French,Male,1868,1940,homepage_artist_image\édouard Vuillard.jpg
+6246,Andy Warhol,American,Male,1928,1987,homepage_artist_image\Andy Warhol.jpg
+6271,June Wayne,American,Female,1918,2011,homepage_artist_image\June Wayne.jpg
+6275,Max Weber,American,Male,1881,1961,homepage_artist_image\Max Weber.jpg
+6281,William Wegman,American,Male,1943,0,homepage_artist_image\William Wegman.jpg
+6288,Lawrence Weiner,American,Male,1942,0,homepage_artist_image\Lawrence Weiner.jpg
+6295,John Joseph Weiss,American,Male,1941,2017,homepage_artist_image\John Joseph Weiss.jpg
+6317,"Henry Wessel, Jr.",American,Male,1942,2018,"homepage_artist_image\Henry Wessel, Jr..jpg"
+6318,Tom Wesselmann,American,Male,1931,2004,homepage_artist_image\Tom Wesselmann.jpg
+6327,Brett Weston,American,Male,1911,1993,homepage_artist_image\Brett Weston.jpg
+6329,Edward Weston,American,Male,1886,1958,homepage_artist_image\Edward Weston.jpg
+6338,Clarence H. White,American,Male,1871,1925,homepage_artist_image\Clarence H. White.jpg
+6342,Minor White,American,Male,1908,1976,homepage_artist_image\Minor White.jpg
+6351,Jack Whitten,American,Male,1939,2018,homepage_artist_image\Jack Whitten.jpg
+6370,William T. Wiley,American,Male,1937,0,homepage_artist_image\William T. Wiley.jpg
+6386,Christopher Wilmarth,American,Male,1943,1987,homepage_artist_image\Christopher Wilmarth.jpg
+6399,Garry Winogrand,American,Male,1928,1984,homepage_artist_image\Garry Winogrand.jpg
+6408,Terry Winters,American,Male,1949,0,homepage_artist_image\Terry Winters.jpg
+6439,Grant Wood,American,Male,1891,1942,homepage_artist_image\Grant Wood.jpg
+6448,Christopher Wool,American,Male,1955,0,homepage_artist_image\Christopher Wool.jpg
+6458,Cedric Wright,American,Male,1889,1959,homepage_artist_image\Cedric Wright.jpg
+6459,Frank Lloyd Wright,American,Male,1867,1959,homepage_artist_image\Frank Lloyd Wright.jpg
+6463,Paul Wunderlich,German,Male,1927,2010,homepage_artist_image\Paul Wunderlich.jpg
+6464,Andrew Wyeth,American,Male,1917,2009,homepage_artist_image\Andrew Wyeth.jpg
+6467,Lance Wyman,American,Male,1937,0,homepage_artist_image\Lance Wyman.jpg
+6526,Adja Yunkers,American,Male,1900,1983,homepage_artist_image\Adja Yunkers.jpg
+6532,Léon Zack,French,Male,1892,1980,homepage_artist_image\Léon Zack.jpg
+6533,Ossip Zadkine,French,Male,1890,1967,homepage_artist_image\Ossip Zadkine.jpg
+6556,Eva Zeisel,American,Female,1906,2011,homepage_artist_image\Eva Zeisel.jpg
+6592,Piet Zwart,Dutch,Male,1885,1977,homepage_artist_image\Piet Zwart.jpg
+6618,Robert Andrew Parker,American,Male,1927,0,homepage_artist_image\Robert Andrew Parker.jpg
+6622,Jeff Koons,American,Male,1955,0,homepage_artist_image\Jeff Koons.jpg
+6633,Ilya Kabakov,American,Male,1933,0,homepage_artist_image\Ilya Kabakov.jpg
+6636,Gordon Matta-Clark,American,Male,1943,1978,homepage_artist_image\Gordon Matta-Clark.jpg
+6671,Annette Messager,French,Female,1943,0,homepage_artist_image\Annette Messager.jpg
+6809,John Ashbery,American,Male,1927,2017,homepage_artist_image\John Ashbery.jpg
+6891,Victor Skrebneski,American,Male,1929,2020,homepage_artist_image\Victor Skrebneski.jpg
+6902,Glenn Ligon,American,Male,1960,0,homepage_artist_image\Glenn Ligon.jpg
+6905,Damien Hirst,British,Male,1965,0,homepage_artist_image\Damien Hirst.jpg
+6910,Rachel Whiteread,British,Female,1963,0,homepage_artist_image\Rachel Whiteread.jpg
+6919,Boris Yaro,American,Male,1938,2020,homepage_artist_image\Boris Yaro.jpg
+6953,Zaha Hadid,British,Female,1950,2016,homepage_artist_image\Zaha Hadid.jpg
+6956,Rem Koolhaas,Dutch,Male,1944,0,homepage_artist_image\Rem Koolhaas.jpg
+6965,Georgii Stenberg,Russian,Male,1900,1933,homepage_artist_image\Georgii Stenberg.jpg
+6982,Thomas Ruff,German,Male,1958,0,homepage_artist_image\Thomas Ruff.jpg
+7005,Matthew Barney,American,Male,1967,0,homepage_artist_image\Matthew Barney.jpg
+7017,Adrian Piper,American,Female,1948,0,homepage_artist_image\Adrian Piper.jpg
+7019,Rudolph Von Ripper,American,Male,1905,1960,homepage_artist_image\Rudolph Von Ripper.jpg
+7035,Gregory Crewdson,American,Male,1962,0,homepage_artist_image\Gregory Crewdson.jpg
+7051,Betty Woodman,American,Female,1930,2018,homepage_artist_image\Betty Woodman.jpg
+7126,Houston Conwill,American,Male,1947,2016,homepage_artist_image\Houston Conwill.jpg
+7166,Ludwig Mies van der Rohe,American,Male,1886,1969,homepage_artist_image\Ludwig Mies van der Rohe.jpg
+7442,Lella Vignelli,Italian,Female,1934,2016,homepage_artist_image\Lella Vignelli.jpg
+7447,Mona Hatoum,British,Female,1952,0,homepage_artist_image\Mona Hatoum.jpg
+7461,Gabriel Orozco,Mexican,Male,1962,0,homepage_artist_image\Gabriel Orozco.jpg
+7480,Enrique Chagoya,Mexican,Male,1953,0,homepage_artist_image\Enrique Chagoya.jpg
+7500,Raymond Pettibon,American,Male,1957,0,homepage_artist_image\Raymond Pettibon.jpg
+7520,Luc Tuymans,Belgian,Male,1958,0,homepage_artist_image\Luc Tuymans.jpg
+7521,Marlene Dumas,South African,Female,1953,0,homepage_artist_image\Marlene Dumas.jpg
+7532,Nan Goldin,American,Female,1953,0,homepage_artist_image\Nan Goldin.jpg
+7545,Tracey Emin,British,Female,1963,0,homepage_artist_image\Tracey Emin.jpg
+7557,Franz West,Austrian,Male,1947,2012,homepage_artist_image\Franz West.jpg
+7596,Florence Knoll,American,Female,1917,2019,homepage_artist_image\Florence Knoll.jpg
+7637,Paul McCarthy,American,Male,1945,0,homepage_artist_image\Paul McCarthy.jpg
+7639,Ellen Gallagher,American,Female,1965,0,homepage_artist_image\Ellen Gallagher.jpg
+7644,Elaine Lustig Cohen,American,Female,1927,2016,homepage_artist_image\Elaine Lustig Cohen.jpg
+7662,Franz Erhard Walther,German,Male,1939,0,homepage_artist_image\Franz Erhard Walther.jpg
+7679,Kara Walker,American,Female,1969,0,homepage_artist_image\Kara Walker.jpg
+7712,Carolee Schneemann,American,Female,1939,2019,homepage_artist_image\Carolee Schneemann.jpg
+7805,Douglas Gordon,Scottish,Male,1966,0,homepage_artist_image\Douglas Gordon.jpg
+7806,Andreas Gursky,German,Male,1955,0,homepage_artist_image\Andreas Gursky.jpg
+7810,Sarah Lucas,British,Female,1962,0,homepage_artist_image\Sarah Lucas.jpg
+7816,VALIE EXPORT,Austrian,Female,1940,0,homepage_artist_image\VALIE EXPORT.jpg
+7818,Vik Muniz,Brazilian,Male,1961,0,homepage_artist_image\Vik Muniz.jpg
+7825,Thomas Struth,German,Male,1954,0,homepage_artist_image\Thomas Struth.jpg
+7826,Jeff Wall,Canadian,Male,1946,0,homepage_artist_image\Jeff Wall.jpg
+7851,Frances Benjamin Johnston,American,Female,1864,1952,homepage_artist_image\Frances Benjamin Johnston.jpg
+7898,Bill Viola,American,Male,1951,0,homepage_artist_image\Bill Viola.jpg
+7919,William Kentridge,South African,Male,1955,0,homepage_artist_image\William Kentridge.jpg
+7928,Louise Lawler,American,Female,1947,0,homepage_artist_image\Louise Lawler.jpg
+7936,Wendell Castle,American,Male,1932,2018,homepage_artist_image\Wendell Castle.jpg
+7967,Chris Ofili,British,Male,1968,0,homepage_artist_image\Chris Ofili.jpg
+8042,Elizabeth Peyton,American,Female,1965,0,homepage_artist_image\Elizabeth Peyton.jpg
+8044,Wolfgang Tillmans,German,Male,1968,0,homepage_artist_image\Wolfgang Tillmans.jpg
+8059,Lilly Reich,German,Female,1885,1947,homepage_artist_image\Lilly Reich.jpg
+8083,Gordon Parks,American,Male,1912,2006,homepage_artist_image\Gordon Parks.jpg
+8087,Peter Doig,British,Male,1959,0,homepage_artist_image\Peter Doig.jpg
+8093,Marcia Hafif,American,Female,1929,2018,homepage_artist_image\Marcia Hafif.jpg
+8095,Hilla Becher,German,Female,1934,2015,homepage_artist_image\Hilla Becher.jpg
+8139,Rineke Dijkstra,Dutch,Female,1959,0,homepage_artist_image\Rineke Dijkstra.jpg
+8276,Thomas Hirschhorn,Swiss,Male,1957,0,homepage_artist_image\Thomas Hirschhorn.jpg
+8330,Maurizio Cattelan,Italian,Male,1960,0,homepage_artist_image\Maurizio Cattelan.jpg
+8383,Francis Al?s,Belgian,Male,1959,0,homepage_artist_image\Francis Als.jpg
+8394,Bonnie Maclean,American,Female,1949,2020,homepage_artist_image\Bonnie Maclean.jpg
+8418,Philippe Starck,French,Male,1949,0,homepage_artist_image\Philippe Starck.jpg
+8472,Cecily Brown,British,Female,1969,0,homepage_artist_image\Cecily Brown.jpg
+8476,Varvara Rodchenko,Russian,Female,1925,2019,homepage_artist_image\Varvara Rodchenko.jpg
+8480,Takashi Murakami,Japanese,Male,1962,0,homepage_artist_image\Takashi Murakami.jpg
+8531,Vic Delucia/The New York Times,American,Male,1933,2018,homepage_artist_image\Vic DeluciaThe New York Times.jpg
+12074,Maria Siniakova,Russian,Female,1898,1989,homepage_artist_image\Maria Siniakova.jpg
+12616,Richard Wilbur,American,Male,1921,2017,homepage_artist_image\Richard Wilbur.jpg
+18963,John Wilson,American,Male,1922,2015,homepage_artist_image\John Wilson.jpg
+19238,Tim Rollins,American,Male,1955,2017,homepage_artist_image\Tim Rollins.jpg
+19862,David Shrigley,British,Male,1968,0,homepage_artist_image\David Shrigley.jpg
+21398,George Maciunas,American,Male,1931,1978,homepage_artist_image\George Maciunas.jpg
+22579,Jens Risom,American,Male,1916,2016,homepage_artist_image\Jens Risom.jpg
+22897,Kevin Roche,American,Male,1922,2019,homepage_artist_image\Kevin Roche.jpg
+22983,Tacita Dean,British,Female,1965,0,homepage_artist_image\Tacita Dean.jpg
+24869,Yinka Shonibare,British,Male,1962,0,homepage_artist_image\Yinka Shonibare.jpg
+25414,Julie Mehretu,American,Female,1970,0,homepage_artist_image\Julie Mehretu.jpg
+25523,Yoshitomo Nara,Japanese,Male,1959,0,homepage_artist_image\Yoshitomo Nara.jpg
+25552,Gilbert Proesch,British,Male,1943,0,homepage_artist_image\Gilbert Proesch.jpg
+25982,Olafur Eliasson,Icelandic,Male,1967,0,homepage_artist_image\Olafur Eliasson.jpg
+26439,Marina Abramovi?,Yugoslav,Female,1946,0,homepage_artist_image\Marina Abramovi.jpg
+26555,Malick Sidibé,Malian,Male,1936,2016,homepage_artist_image\Malick Sidibé.jpg
+26661,Agnès Varda,French,Female,1928,2019,homepage_artist_image\Agnès Varda.jpg
+27003,Noel Zeller,American,Male,1936,2018,homepage_artist_image\Noel Zeller.jpg
+27154,Anne Chu,American,Female,1959,2016,homepage_artist_image\Anne Chu.jpg
+27431,Neo Rauch,German,Male,1960,0,homepage_artist_image\Neo Rauch.jpg
+27821,Robin Rhode,South African,Male,1976,0,homepage_artist_image\Robin Rhode.jpg
+28632,Isa Genzken,German,Female,1948,0,homepage_artist_image\Isa Genzken.jpg
+28753,Joyce Pensato,American,Female,1941,2019,homepage_artist_image\Joyce Pensato.jpg
+28858,Christopher Williams,American,Male,1956,0,homepage_artist_image\Christopher Williams.jpg
+28865,Erwin Wurm,Austrian,Male,1954,0,homepage_artist_image\Erwin Wurm.jpg
+28875,Chris Marker,French,Male,1921,2012,homepage_artist_image\Chris Marker.jpg
+28982,Steve McQueen,British,Male,1969,0,homepage_artist_image\Steve McQueen.jpg
+29982,Stanley Brouwn,Dutch,Male,1935,2017,homepage_artist_image\Stanley Brouwn.jpg
+30905,Harun Farocki,German,Male,1944,2014,homepage_artist_image\Harun Farocki.jpg
+30937,Susan Hiller,American,Female,1940,2019,homepage_artist_image\Susan Hiller.jpg
+32208,Jem Cohen,American,Male,1962,0,homepage_artist_image\Jem Cohen.jpg
+32216,Ximena Cuevas,Mexican,Female,1963,0,homepage_artist_image\Ximena Cuevas.jpg
+32250,Jean-Luc Godard,French,Male,1930,0,homepage_artist_image\Jean-Luc Godard.jpg
+32430,Woody Vasulka,American,Male,1937,2019,homepage_artist_image\Woody Vasulka.jpg
+32487,Tony Conrad,American,Male,1940,2016,homepage_artist_image\Tony Conrad.jpg
+32750,Chip Lord,American,Male,1944,0,homepage_artist_image\Chip Lord.jpg
+33046,Neri Oxman,American,Female,1976,0,homepage_artist_image\Neri Oxman.jpg
+33393,Mark Bradford,American,Male,1961,0,homepage_artist_image\Mark Bradford.jpg
+33693,Irma Boom,Dutch,Female,1960,0,homepage_artist_image\Irma Boom.jpg
+33825,Aleksandra Mir,American,Female,1967,0,homepage_artist_image\Aleksandra Mir.jpg
+33845,John Hubley,American,Male,1914,1977,homepage_artist_image\John Hubley.jpg
+34111,David Bowie,British,Male,1947,2016,homepage_artist_image\David Bowie.jpg
+34532,Isaac Julien,British,Male,1960,0,homepage_artist_image\Isaac Julien.jpg
+34722,Ai Weiwei,Chinese,Male,1957,0,homepage_artist_image\Ai Weiwei.jpg
+34784,Trisha Brown,American,Female,1936,2017,homepage_artist_image\Trisha Brown.jpg
+34797,Ulay,German,Male,1943,2020,homepage_artist_image\Ulay.jpg
+34908,Simone Forti,American,Female,1935,0,homepage_artist_image\Simone Forti.jpg
+35285,Walid Raad,Lebanese,Male,1967,0,homepage_artist_image\Walid Raad.jpg
+35796,Henry Flynt,American,Male,1940,0,homepage_artist_image\Henry Flynt.jpg
+36471,Alison Knowles,American,Female,1933,0,homepage_artist_image\Alison Knowles.jpg
+37071,Glenn O'Brien,American,Male,1947,2017,homepage_artist_image\Glenn O'Brien.jpg
+37364,Barbara Hammer,American,Female,1939,2019,homepage_artist_image\Barbara Hammer.jpg
+37500,Kate Millett,American,Female,1934,2017,homepage_artist_image\Kate Millett.jpg
+38004,Ray Tomlinson,American,Male,1941,2016,homepage_artist_image\Ray Tomlinson.jpg
+38015,May Stevens,American,Female,1924,2019,homepage_artist_image\May Stevens.jpg
+39696,Lynn Hershman Leeson,American,Female,1941,0,homepage_artist_image\Lynn Hershman Leeson.jpg
+41140,Corita Kent (Sister Mary Corita),American,Female,1918,1986,homepage_artist_image\Corita Kent (Sister Mary Corita).jpg
+41345,Kader Attia,French,Male,1970,0,homepage_artist_image\Kader Attia.jpg
+41664,Wael Shawky,Egyptian,Male,1971,0,homepage_artist_image\Wael Shawky.jpg
+42455,Zanele Muholi,South African,Female,1972,0,homepage_artist_image\Zanele Muholi.jpg
+42787,Carol Rama,Italian,Female,1918,2015,homepage_artist_image\Carol Rama.jpg
+45801,Ed Clark,American,Male,1926,2019,homepage_artist_image\Ed Clark.jpg
+45968,Beatrice Trueblood,British,Female,1938,0,homepage_artist_image\Beatrice Trueblood.jpg
+47017,Eldzier Cortor,American,Male,1916,2015,homepage_artist_image\Eldzier Cortor.jpg
+47165,Annie Leibovitz,American,Female,1949,0,homepage_artist_image\Annie Leibovitz.jpg
+47462,Etel Adnan,American,Female,1925,0,homepage_artist_image\Etel Adnan.jpg
+47846,Aretha Franklin,American,Female,1942,2018,homepage_artist_image\Aretha Franklin.jpg
+47922,Claude Parent,French,Male,1923,2016,homepage_artist_image\Claude Parent.jpg
+47977,Gilbert Baker,American,Male,1951,2017,homepage_artist_image\Gilbert Baker.jpg
+49095,Nancy Reddin Kienholz,American,Female,1943,2019,homepage_artist_image\Nancy Reddin Kienholz.jpg
+49571,John Akomfrah,British,Male,1957,0,homepage_artist_image\John Akomfrah.jpg
+67100,Ali Tayar,American,Male,1959,2016,homepage_artist_image\Ali Tayar.jpg
+67122,Giorgia Lupi,Italian,Female,1981,0,homepage_artist_image\Giorgia Lupi.jpg
+67665,Fré Cohen,Dutch,Female,1903,1943,homepage_artist_image\Fré Cohen.jpg
+67667,Steve Kahn,American,Male,1943,2018,homepage_artist_image\Steve Kahn.jpg
+68020,Theaster Gates,American,Male,1973,0,homepage_artist_image\Theaster Gates.jpg
+68023,Adrian Ghenie,Romanian,Male,1977,0,homepage_artist_image\Adrian Ghenie.jpg
+68159,Barkley L. Hendricks,American,Male,1945,2017,homepage_artist_image\Barkley L. Hendricks.jpg
+69618,Jerry Lewis,American,Male,1926,2017,homepage_artist_image\Jerry Lewis.jpg
+74001,Kikuo Saito,American,Male,1939,2016,homepage_artist_image\Kikuo Saito.jpg
+74339,Saloua Raouda Choucair,Lebanese,Female,1916,2017,homepage_artist_image\Saloua Raouda Choucair.jpg
+74643,Phase 2,American,Male,1955,2019,homepage_artist_image\Phase 2.jpg
+75704,Jonathan Demme,American,Male,1944,2017,homepage_artist_image\Jonathan Demme.jpg
+131840,Terry Dennett,British,Male,1938,2018,homepage_artist_image\Terry Dennett.jpg
+131903,Laure Prouvost,French,Female,1978,0,homepage_artist_image\Laure Prouvost.jpg
