@@ -1,61 +1,61 @@
-﻿Name,Continent,Rank,Count
-Frédéric Bruly Bouabré,Africa,1,481
-William Kentridge,Africa,2,77
-David Goldblatt,Africa,3,48
-Diane Victor,Africa,4,18
-Marlene Dumas,Africa,5,16
-Wael Shawky,Africa,6,16
-Barthelemy Toguo,Africa,7,13
-Claudette Schreuders,Africa,8,11
-Ibrahim El-Salahi,Africa,9,9
-Jean Depara,Africa,10,9
-Yoshitomo Nara,Asia,1,145
-Masuo Ikeda,Asia,2,90
-Tadanori Yokoo,Asia,3,83
-Yutaka Matsuzawa,Asia,4,79
-Mieko Shiomi,Asia,5,73
-Bezalel Schatz,Asia,6,47
-Ay-O,Asia,7,43
-Madoka Takagi,Asia,8,39
-Shomei Tomatsu,Asia,9,29
-Zwi Milshtein,Asia,10,29
-Eugène Atget,Europe,1,2725
-Pablo Picasso,Europe,2,1132
-Jean Dubuffet,Europe,3,987
-Henri Matisse,Europe,4,979
-Marc Chagall,Europe,5,972
-Pierre Bonnard,Europe,6,902
-Émile Bernard,Europe,7,628
-Georges Rouault,Europe,8,590
-André Derain,Europe,9,557
-August Sander,Europe,10,553
-Ludwig Mies van der Rohe,North America,1,654
-Louise Bourgeois,North America,2,504
-George Maciunas,North America,3,493
-Lee Friedlander,North America,4,411
-Jim Dine,North America,5,372
-Frank Lloyd Wright,North America,6,371
-Ben Kinmont,North America,7,328
-Sol LeWitt,North America,8,324
-Raymond Pettibon,North America,9,298
-Robert Rauschenberg,North America,10,293
-Sidney Nolan,Oceania,1,58
-Richard Bosman,Oceania,2,45
-Fred Williams,Oceania,3,14
-Tracey Moffatt,Oceania,4,12
-Denise Green,Oceania,5,5
-Richard Tipping,Oceania,6,5
-Marc Newson,Oceania,7,4
-Simon Denny,Oceania,8,4
-Clement Meadmore,Oceania,9,3
-Colin Lanceley,Oceania,10,3
-José Antonio Suárez Londoño,South America,1,236
-Roberto Matta,South America,2,205
-Omar Rayo,South America,3,53
-Carybé (Hector Bernabó),South America,4,47
-León Ferrari,South America,5,40
-Luis Camnitzer,South America,6,39
-Gego (Gertrud Goldschmidt),South America,7,33
-Libero Badii,South America,8,33
-Nicolás Paris,South America,9,32
-Vik Muniz,South America,10,32
+Name,ConstituentID,Nationality,Continent,Rank,Count,Gender,BeginDate,EndDate
+Frédéric Bruly Bouabré,30876,Ivorian,Africa,1,481,Male,1923,2014
+William Kentridge,7919,South African,Africa,2,77,Male,1955,0
+David Goldblatt,2214,South African,Africa,3,48,Male,1930,2018
+Diane Victor,28199,South African,Africa,4,18,Female,1964,0
+Marlene Dumas,7521,South African,Africa,5,16,Female,1953,0
+Wael Shawky,41664,Egyptian,Africa,6,16,Male,1971,0
+Barthelemy Toguo,38243,Cameroonian,Africa,7,13,Male,1967,0
+Claudette Schreuders,28218,South African,Africa,8,11,Female,1973,0
+Ibrahim El-Salahi,5121,Sudanese,Africa,9,9,Male,1930,0
+Jean Depara,75463,Congolese,Africa,10,9,Male,1928,1997
+Yoshitomo Nara,25523,Japanese,Asia,1,145,Male,1959,0
+Masuo Ikeda,2801,Japanese,Asia,2,90,Male,1934,1997
+Tadanori Yokoo,6502,Japanese,Asia,3,83,Male,1936,0
+Yutaka Matsuzawa,32795,Japanese,Asia,4,79,Male,1922,2006
+Mieko Shiomi,5403,Japanese,Asia,5,73,Female,1938,0
+Bezalel Schatz,5207,Israeli,Asia,6,47,Male,1913,0
+Ay-O,255,Japanese,Asia,7,43,Male,1931,0
+Madoka Takagi,7041,Japanese,Asia,8,39,Female,1956,2015
+Shomei Tomatsu,5895,Japanese,Asia,9,29,Male,1930,2012
+Zwi Milshtein,3996,Israeli,Asia,10,29,Male,1934,0
+Eugène Atget,229,French,Europe,1,2725,Male,1857,1927
+Pablo Picasso,4609,Spanish,Europe,2,1132,Male,1881,1973
+Jean Dubuffet,1633,French,Europe,3,987,Male,1901,1985
+Henri Matisse,3832,French,Europe,4,979,Male,1869,1954
+Marc Chagall,1055,French,Europe,5,972,Male,1887,1985
+Pierre Bonnard,665,French,Europe,6,902,Male,1867,1947
+Émile Bernard,511,French,Europe,7,628,Male,1868,1941
+Georges Rouault,5053,French,Europe,8,590,Male,1871,1958
+André Derain,1500,French,Europe,9,557,Male,1880,1954
+August Sander,5145,German,Europe,10,553,Male,1876,1964
+Ludwig Mies van der Rohe,7166,American,North America,1,654,Male,1886,1969
+Louise Bourgeois,710,American,North America,2,504,Female,1911,2010
+George Maciunas,21398,American,North America,3,493,Male,1931,1978
+Lee Friedlander,2002,American,North America,4,411,Male,1934,0
+Jim Dine,1547,American,North America,5,372,Male,1935,0
+Frank Lloyd Wright,6459,American,North America,6,371,Male,1867,1959
+Ben Kinmont,41829,American,North America,7,328,Male,1963,0
+Sol LeWitt,3528,American,North America,8,324,Male,1928,2007
+Raymond Pettibon,7500,American,North America,9,298,Male,1957,0
+Robert Rauschenberg,4823,American,North America,10,293,Male,1925,2008
+Sidney Nolan,4325,Australian,Oceania,1,58,Male,1917,1992
+Richard Bosman,689,Australian,Oceania,2,45,Male,1944,0
+Fred Williams,6378,Australian,Oceania,3,14,Male,1927,1982
+Tracey Moffatt,8041,Australian,Oceania,4,12,Female,1960,0
+Denise Green,25599,Australian,Oceania,5,5,Female,1946,0
+Richard Tipping,36025,Australian,Oceania,6,5,Male,1949,0
+Marc Newson,7999,Australian,Oceania,7,4,Male,1963,0
+Simon Denny,46033,New Zealander,Oceania,8,4,Male,1982,0
+Clement Meadmore,3902,Australian,Oceania,9,3,Male,1929,2005
+Colin Lanceley,3355,Australian,Oceania,10,3,Male,1938,0
+José Antonio Suárez Londoño,26770,Colombian,South America,1,236,Male,1955,0
+Roberto Matta,3842,Chilean,South America,2,205,Male,1911,2002
+Omar Rayo,4831,Colombian,South America,3,53,Male,1928,2010
+Carybé (Hector Bernabó),1003,Brazilian,South America,4,47,Male,1911,1997
+León Ferrari,1859,Argentine,South America,5,40,Male,1920,2013
+Luis Camnitzer,934,Uruguayan,South America,6,39,Male,1937,0
+Gego (Gertrud Goldschmidt),2107,Venezuelan,South America,7,33,Female,1912,1994
+Libero Badii,278,Argentine,South America,8,33,Male,1916,2001
+Nicolás Paris,43702,Colombian,South America,9,32,Male,1977,0
+Vik Muniz,7818,Brazilian,South America,10,32,Male,1961,0
