@@ -1,0 +1,28 @@
+﻿time_bucket,all_artwork_num,continents
+1760s,2,"{""Europe"":2}"
+1770s,0,{}
+1780s,0,{}
+1790s,80,"{""Europe"":80}"
+1800s,0,{}
+1810s,423,"{""Europe"":423}"
+1820s,19,"{""Europe"":19}"
+1830s,14,"{""Europe"":13,""North America"":1}"
+1840s,140,"{""Europe"":140}"
+1850s,596,"{""Europe"":563,""North America"":33}"
+1860s,826,"{""North America"":459,""Europe"":367}"
+1870s,618,"{""Europe"":419,""North America"":199}"
+1880s,465,"{""Europe"":348,""North America"":117}"
+1890s,1993,"{""Europe"":1651,""North America"":342}"
+1900s,3019,"{""Europe"":2505,""North America"":495,""Asia"":18,""South America"":1}"
+1910s,4789,"{""Europe"":3787,""North America"":981,""Asia"":17,""South America"":3,""Oceania"":1}"
+1920s,8299,"{""Europe"":6464,""North America"":1781,""Asia"":28,""South America"":25,""Oceania"":1}"
+1930s,7155,"{""Europe"":3887,""North America"":3147,""South America"":93,""Asia"":26,""Oceania"":2}"
+1940s,7588,"{""Europe"":4750,""North America"":2644,""South America"":103,""Asia"":79,""Oceania"":10,""Africa"":2}"
+1950s,6410,"{""North America"":2989,""Europe"":2957,""South America"":264,""Asia"":188,""Africa"":9,""Oceania"":3}"
+1960s,14060,"{""North America"":8273,""Europe"":4451,""Asia"":656,""South America"":625,""Oceania"":28,""Africa"":27}"
+1970s,9415,"{""North America"":5704,""Europe"":2971,""South America"":333,""Asia"":290,""Oceania"":72,""Africa"":45}"
+1980s,7609,"{""North America"":4295,""Europe"":2771,""South America"":251,""Asia"":196,""Oceania"":56,""Africa"":40}"
+1990s,6085,"{""North America"":3030,""Europe"":1770,""Africa"":526,""Asia"":424,""South America"":319,""Oceania"":16}"
+2000s,5880,"{""North America"":3137,""Europe"":1878,""Asia"":390,""South America"":263,""Africa"":203,""Oceania"":9}"
+2010s,2288,"{""North America"":1239,""Europe"":679,""Asia"":200,""South America"":110,""Africa"":51,""Oceania"":9}"
+2020s,2,"{""North America"":2}"

@@ -1,1 +1,9 @@
 data/raw
+
+__pycache__/
+
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*$py.class

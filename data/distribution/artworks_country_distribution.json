@@ -1,0 +1,6789 @@
+﻿{
+  "classifications": [
+    "(not assigned)",
+    "Architectural Model",
+    "Architecture",
+    "Audio",
+    "Collage",
+    "Design",
+    "Digital",
+    "Drawing",
+    "Ephemera",
+    "Film",
+    "Film (object)",
+    "Frank Lloyd Wright Archive",
+    "Furniture and Interiors",
+    "Graphic Design",
+    "Illustrated Book",
+    "Installation",
+    "Media",
+    "Mies van der Rohe Archive",
+    "Multiple",
+    "Painting",
+    "Performance",
+    "Periodical",
+    "Photograph",
+    "Photography Research/Reference",
+    "Poster",
+    "Print",
+    "Publication",
+    "Sculpture",
+    "Software",
+    "Textile",
+    "Video",
+    "Work on Paper"
+  ],
+  "decades": [
+    {
+      "decade": "1760s",
+      "all_artwork_num": 2,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Audio": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 2,
+          "nationalities": {
+            "British": 2
+          }
+        },
+        "Digital": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Drawing": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Ephemera": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Illustrated Book": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Installation": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Media": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Painting": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Performance": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photograph": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Print": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Video": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1770s",
+      "all_artwork_num": 0,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Audio": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Digital": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Drawing": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Ephemera": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Illustrated Book": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Installation": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Media": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Painting": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Performance": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photograph": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Print": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Video": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1780s",
+      "all_artwork_num": 0,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Audio": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Digital": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Drawing": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Ephemera": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Illustrated Book": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Installation": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Media": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Painting": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Performance": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photograph": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Print": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Video": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1790s",
+      "all_artwork_num": 80,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Audio": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Digital": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Drawing": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Ephemera": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Illustrated Book": {
+          "total": 80,
+          "nationalities": {
+            "Spanish": 80
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Media": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Painting": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Performance": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photograph": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Print": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Video": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1800s",
+      "all_artwork_num": 0,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Audio": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Digital": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Drawing": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Ephemera": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Illustrated Book": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Installation": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Media": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Painting": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Performance": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photograph": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Print": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Video": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1810s",
+      "all_artwork_num": 423,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Audio": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Digital": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Drawing": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Ephemera": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Illustrated Book": {
+          "total": 422,
+          "nationalities": {
+            "British": 324,
+            "Spanish": 98
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Media": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Painting": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Performance": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photograph": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Print": {
+          "total": 1,
+          "nationalities": {
+            "French": 1
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Video": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1820s",
+      "all_artwork_num": 19,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Audio": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 1,
+          "nationalities": {
+            "Austrian": 1
+          }
+        },
+        "Digital": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Drawing": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Ephemera": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Illustrated Book": {
+          "total": 18,
+          "nationalities": {
+            "French": 18
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Media": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Painting": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Performance": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photograph": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Print": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Video": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1830s",
+      "all_artwork_num": 14,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Audio": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Digital": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Drawing": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Ephemera": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Illustrated Book": {
+          "total": 7,
+          "nationalities": {
+            "British": 7
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Media": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Painting": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Performance": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photograph": {
+          "total": 5,
+          "nationalities": {
+            "British": 2,
+            "French": 2,
+            "American": 1
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Print": {
+          "total": 2,
+          "nationalities": {
+            "French": 2
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Video": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1840s",
+      "all_artwork_num": 140,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Audio": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Digital": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Drawing": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Ephemera": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Illustrated Book": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Installation": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Media": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Painting": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Performance": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photograph": {
+          "total": 133,
+          "nationalities": {
+            "British": 79,
+            "French": 54
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Print": {
+          "total": 7,
+          "nationalities": {
+            "French": 7
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Video": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1850s",
+      "all_artwork_num": 596,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Audio": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Digital": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Drawing": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Ephemera": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Illustrated Book": {
+          "total": 103,
+          "nationalities": {
+            "French": 103
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Media": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Painting": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Performance": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photograph": {
+          "total": 485,
+          "nationalities": {
+            "British": 309,
+            "French": 130,
+            "American": 31,
+            "Italian": 13,
+            "Irish": 1,
+            "Swiss": 1
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Print": {
+          "total": 8,
+          "nationalities": {
+            "French": 6,
+            "American": 2
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Video": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1860s",
+      "all_artwork_num": 826,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Audio": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 3,
+          "nationalities": {
+            "Austrian": 2,
+            "British": 1
+          }
+        },
+        "Digital": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Drawing": {
+          "total": 6,
+          "nationalities": {
+            "French": 6
+          }
+        },
+        "Ephemera": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Illustrated Book": {
+          "total": 21,
+          "nationalities": {
+            "French": 20,
+            "Spanish": 1
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Media": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Painting": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Performance": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photograph": {
+          "total": 786,
+          "nationalities": {
+            "American": 441,
+            "British": 130,
+            "French": 96,
+            "Italian": 89,
+            "Canadian": 17,
+            "German": 11,
+            "Austrian": 1,
+            "Scottish": 1
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Print": {
+          "total": 10,
+          "nationalities": {
+            "French": 6,
+            "Swiss": 3,
+            "American": 1
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Video": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1870s",
+      "all_artwork_num": 618,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Audio": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 8,
+          "nationalities": {
+            "British": 3,
+            "French": 2,
+            "German": 2,
+            "American": 1
+          }
+        },
+        "Digital": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Drawing": {
+          "total": 9,
+          "nationalities": {
+            "French": 8,
+            "American": 1
+          }
+        },
+        "Ephemera": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Illustrated Book": {
+          "total": 15,
+          "nationalities": {
+            "French": 15
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Media": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Painting": {
+          "total": 8,
+          "nationalities": {
+            "French": 8
+          }
+        },
+        "Performance": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photograph": {
+          "total": 553,
+          "nationalities": {
+            "British": 283,
+            "American": 192,
+            "German": 44,
+            "French": 33,
+            "Italian": 1
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Print": {
+          "total": 24,
+          "nationalities": {
+            "French": 16,
+            "Mexican": 4,
+            "German": 2,
+            "American": 1,
+            "Dutch": 1
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 1,
+          "nationalities": {
+            "French": 1
+          }
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Video": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1880s",
+      "all_artwork_num": 465,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 1,
+          "nationalities": {
+            "Spanish": 1
+          }
+        },
+        "Audio": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 15,
+          "nationalities": {
+            "British": 8,
+            "French": 5,
+            "Austrian": 1,
+            "German": 1
+          }
+        },
+        "Digital": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Drawing": {
+          "total": 21,
+          "nationalities": {
+            "French": 21
+          }
+        },
+        "Ephemera": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 2,
+          "nationalities": {
+            "American": 2
+          }
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Illustrated Book": {
+          "total": 84,
+          "nationalities": {
+            "French": 84
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Media": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Painting": {
+          "total": 14,
+          "nationalities": {
+            "French": 9,
+            "Dutch": 3,
+            "Belgian": 2
+          }
+        },
+        "Performance": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photograph": {
+          "total": 195,
+          "nationalities": {
+            "American": 104,
+            "British": 80,
+            "French": 7,
+            "Austrian": 1,
+            "Canadian": 1,
+            "German": 1,
+            "Italian": 1
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Print": {
+          "total": 131,
+          "nationalities": {
+            "French": 58,
+            "German": 36,
+            "Belgian": 21,
+            "Mexican": 8,
+            "British": 3,
+            "American": 2,
+            "Dutch": 2,
+            "Danish": 1
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 2,
+          "nationalities": {
+            "French": 1,
+            "Italian": 1
+          }
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Video": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1890s",
+      "all_artwork_num": 1993,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 6,
+          "nationalities": {
+            "American": 4,
+            "Austrian": 1,
+            "French": 1
+          }
+        },
+        "Audio": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 94,
+          "nationalities": {
+            "French": 42,
+            "American": 21,
+            "British": 9,
+            "German": 5,
+            "Austrian": 4,
+            "Belgian": 4,
+            "Czech": 4,
+            "Dutch": 2,
+            "Spanish": 2,
+            "Swiss": 1
+          }
+        },
+        "Digital": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Drawing": {
+          "total": 39,
+          "nationalities": {
+            "French": 28,
+            "American": 4,
+            "Belgian": 3,
+            "British": 2,
+            "Austrian": 1,
+            "Czech": 1
+          }
+        },
+        "Ephemera": {
+          "total": 2,
+          "nationalities": {
+            "American": 1,
+            "French": 1
+          }
+        },
+        "Film": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film (object)": {
+          "total": 1,
+          "nationalities": {
+            "French": 1
+          }
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 22,
+          "nationalities": {
+            "American": 22
+          }
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Illustrated Book": {
+          "total": 637,
+          "nationalities": {
+            "French": 544,
+            "British": 90,
+            "American": 1,
+            "Irish": 1,
+            "Polish": 1
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Media": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Painting": {
+          "total": 11,
+          "nationalities": {
+            "French": 9,
+            "American": 1,
+            "Irish": 1
+          }
+        },
+        "Performance": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photograph": {
+          "total": 554,
+          "nationalities": {
+            "French": 285,
+            "American": 229,
+            "British": 28,
+            "German": 11,
+            "Canadian": 1
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Print": {
+          "total": 617,
+          "nationalities": {
+            "French": 463,
+            "Mexican": 45,
+            "Norwegian": 38,
+            "Belgian": 25,
+            "German": 18,
+            "American": 13,
+            "Dutch": 6,
+            "British": 3,
+            "Czech": 2,
+            "Spanish": 2,
+            "Swiss": 2
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 10,
+          "nationalities": {
+            "French": 9,
+            "Italian": 1
+          }
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Video": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1900s",
+      "all_artwork_num": 3019,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 14,
+          "nationalities": {
+            "Austrian": 6,
+            "American": 3,
+            "British": 2,
+            "French": 2,
+            "Spanish": 1
+          }
+        },
+        "Audio": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 177,
+          "nationalities": {
+            "German": 42,
+            "American": 30,
+            "British": 26,
+            "French": 25,
+            "Austrian": 22,
+            "Swiss": 14,
+            "Dutch": 9,
+            "Spanish": 4,
+            "Belgian": 1,
+            "Czech": 1,
+            "Danish": 1,
+            "Finnish": 1,
+            "Swedish": 1
+          }
+        },
+        "Digital": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Drawing": {
+          "total": 104,
+          "nationalities": {
+            "French": 34,
+            "American": 20,
+            "Spanish": 16,
+            "German": 11,
+            "Austrian": 8,
+            "British": 3,
+            "Czech": 3,
+            "Dutch": 3,
+            "Swiss": 2,
+            "Belgian": 1,
+            "Italian": 1,
+            "Mexican": 1,
+            "Russian": 1
+          }
+        },
+        "Ephemera": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film": {
+          "total": 2,
+          "nationalities": {
+            "American": 2
+          }
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 40,
+          "nationalities": {
+            "American": 40
+          }
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Illustrated Book": {
+          "total": 727,
+          "nationalities": {
+            "French": 613,
+            "Czech": 98,
+            "Austrian": 9,
+            "Spanish": 4,
+            "American": 2,
+            "German": 1
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Media": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Painting": {
+          "total": 48,
+          "nationalities": {
+            "French": 28,
+            "Spanish": 10,
+            "Austrian": 3,
+            "American": 2,
+            "British": 2,
+            "Dutch": 2,
+            "German": 1
+          }
+        },
+        "Performance": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photograph": {
+          "total": 1549,
+          "nationalities": {
+            "French": 1184,
+            "American": 300,
+            "German": 20,
+            "Japanese": 17,
+            "Austrian": 15,
+            "British": 9,
+            "Belgian": 1,
+            "Dutch": 1,
+            "Italian": 1,
+            "Norwegian": 1
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Print": {
+          "total": 349,
+          "nationalities": {
+            "French": 102,
+            "American": 78,
+            "German": 77,
+            "Norwegian": 22,
+            "Spanish": 18,
+            "Mexican": 17,
+            "British": 15,
+            "Belgian": 10,
+            "Austrian": 5,
+            "Swiss": 2,
+            "Argentine": 1,
+            "Japanese": 1,
+            "Russian": 1
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 9,
+          "nationalities": {
+            "French": 7,
+            "Spanish": 2
+          }
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Video": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1910s",
+      "all_artwork_num": 4789,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 28,
+          "nationalities": {
+            "American": 19,
+            "German": 7,
+            "Swedish": 2
+          }
+        },
+        "Audio": {
+          "total": 1,
+          "nationalities": {
+            "American": 1
+          }
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 194,
+          "nationalities": {
+            "American": 95,
+            "German": 34,
+            "Austrian": 15,
+            "Dutch": 15,
+            "French": 11,
+            "Italian": 8,
+            "Swiss": 6,
+            "Hungarian": 5,
+            "British": 1,
+            "Czech": 1,
+            "Latvian": 1,
+            "Polish": 1,
+            "Russian": 1
+          }
+        },
+        "Digital": {
+          "total": 3,
+          "nationalities": {
+            "American": 3
+          }
+        },
+        "Drawing": {
+          "total": 404,
+          "nationalities": {
+            "American": 147,
+            "French": 71,
+            "German": 47,
+            "Italian": 39,
+            "Russian": 25,
+            "Spanish": 18,
+            "Austrian": 14,
+            "British": 14,
+            "Dutch": 11,
+            "Swiss": 7,
+            "Czech": 3,
+            "Argentine": 2,
+            "Polish": 2,
+            "Belgian": 1,
+            "Canadian": 1,
+            "Mexican": 1,
+            "Uruguayan": 1
+          }
+        },
+        "Ephemera": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film": {
+          "total": 4,
+          "nationalities": {
+            "American": 3,
+            "Canadian": 1
+          }
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 40,
+          "nationalities": {
+            "American": 40
+          }
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 1,
+          "nationalities": {
+            "Ukrainian": 1
+          }
+        },
+        "Illustrated Book": {
+          "total": 1699,
+          "nationalities": {
+            "French": 708,
+            "Russian": 601,
+            "German": 92,
+            "American": 72,
+            "Belgian": 69,
+            "Ukrainian": 44,
+            "Austrian": 36,
+            "Mexican": 25,
+            "Spanish": 18,
+            "Israeli": 8,
+            "British": 7,
+            "Danish": 6,
+            "Hungarian": 4,
+            "Italian": 4,
+            "Georgian": 3,
+            "Czech": 1,
+            "Polish": 1
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Media": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 4,
+          "nationalities": {
+            "American": 4
+          }
+        },
+        "Multiple": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Painting": {
+          "total": 162,
+          "nationalities": {
+            "French": 53,
+            "Italian": 28,
+            "American": 20,
+            "Russian": 19,
+            "Spanish": 15,
+            "German": 10,
+            "Dutch": 7,
+            "Czech": 5,
+            "British": 2,
+            "Mexican": 2,
+            "Swiss": 1
+          }
+        },
+        "Performance": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Periodical": {
+          "total": 141,
+          "nationalities": {
+            "German": 126,
+            "Austrian": 12,
+            "Hungarian": 1,
+            "Russian": 1,
+            "Ukrainian": 1
+          }
+        },
+        "Photograph": {
+          "total": 1092,
+          "nationalities": {
+            "French": 766,
+            "American": 242,
+            "German": 73,
+            "British": 2,
+            "Italian": 2,
+            "Polish": 2,
+            "Australian": 1,
+            "Austrian": 1,
+            "Canadian": 1,
+            "Japanese": 1,
+            "Norwegian": 1
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 4,
+          "nationalities": {
+            "American": 4
+          }
+        },
+        "Poster": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Print": {
+          "total": 958,
+          "nationalities": {
+            "German": 460,
+            "American": 239,
+            "French": 82,
+            "Austrian": 51,
+            "British": 36,
+            "Mexican": 34,
+            "Russian": 34,
+            "Spanish": 5,
+            "Israeli": 4,
+            "Italian": 3,
+            "Polish": 3,
+            "Swiss": 3,
+            "Czech": 1,
+            "Dutch": 1,
+            "Japanese": 1,
+            "Norwegian": 1
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 35,
+          "nationalities": {
+            "French": 13,
+            "American": 9,
+            "British": 2,
+            "German": 2,
+            "Italian": 2,
+            "Russian": 2,
+            "Spanish": 2,
+            "Belgian": 1,
+            "Hungarian": 1,
+            "Ukrainian": 1
+          }
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Video": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Work on Paper": {
+          "total": 19,
+          "nationalities": {
+            "American": 17,
+            "British": 1,
+            "Canadian": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1920s",
+      "all_artwork_num": 8299,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 58,
+          "nationalities": {
+            "American": 24,
+            "German": 17,
+            "Dutch": 5,
+            "French": 5,
+            "Swiss": 3,
+            "Hungarian": 2,
+            "Finnish": 1,
+            "Swedish": 1
+          }
+        },
+        "Audio": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 900,
+          "nationalities": {
+            "German": 298,
+            "American": 195,
+            "Dutch": 125,
+            "Russian": 97,
+            "Swiss": 62,
+            "French": 47,
+            "Italian": 21,
+            "British": 10,
+            "Latvian": 9,
+            "Austrian": 8,
+            "Polish": 7,
+            "Belgian": 5,
+            "Hungarian": 5,
+            "Finnish": 4,
+            "Czech": 3,
+            "Ukrainian": 2,
+            "Bulgarian": 1,
+            "Danish": 1
+          }
+        },
+        "Digital": {
+          "total": 2,
+          "nationalities": {
+            "American": 1,
+            "German": 1
+          }
+        },
+        "Drawing": {
+          "total": 470,
+          "nationalities": {
+            "American": 136,
+            "German": 112,
+            "Russian": 76,
+            "French": 62,
+            "Mexican": 27,
+            "Spanish": 12,
+            "Austrian": 6,
+            "Dutch": 6,
+            "Hungarian": 6,
+            "Italian": 5,
+            "Polish": 4,
+            "Belgian": 3,
+            "British": 3,
+            "Colombian": 3,
+            "Latvian": 3,
+            "Swiss": 3,
+            "Czech": 1,
+            "Peruvian": 1,
+            "Uruguayan": 1
+          }
+        },
+        "Ephemera": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film": {
+          "total": 18,
+          "nationalities": {
+            "American": 10,
+            "Dutch": 2,
+            "German": 2,
+            "Russian": 2,
+            "Australian": 1,
+            "Canadian": 1
+          }
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 64,
+          "nationalities": {
+            "American": 64
+          }
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Illustrated Book": {
+          "total": 3436,
+          "nationalities": {
+            "French": 2257,
+            "Russian": 304,
+            "Belgian": 219,
+            "German": 204,
+            "American": 190,
+            "Spanish": 82,
+            "Czech": 61,
+            "British": 30,
+            "Latvian": 26,
+            "Israeli": 21,
+            "Polish": 12,
+            "Austrian": 7,
+            "Hungarian": 6,
+            "Italian": 6,
+            "Ukrainian": 5,
+            "Japanese": 3,
+            "Danish": 1,
+            "Georgian": 1,
+            "Swiss": 1
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Media": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 224,
+          "nationalities": {
+            "American": 222,
+            "German": 2
+          }
+        },
+        "Multiple": {
+          "total": 1,
+          "nationalities": {
+            "Russian": 1
+          }
+        },
+        "Painting": {
+          "total": 145,
+          "nationalities": {
+            "American": 62,
+            "French": 27,
+            "German": 19,
+            "Spanish": 17,
+            "Dutch": 7,
+            "Belgian": 4,
+            "Russian": 3,
+            "Italian": 2,
+            "Mexican": 2,
+            "Austrian": 1,
+            "Hungarian": 1
+          }
+        },
+        "Performance": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Periodical": {
+          "total": 53,
+          "nationalities": {
+            "German": 41,
+            "Brazilian": 5,
+            "Russian": 4,
+            "Latvian": 2,
+            "Ukrainian": 1
+          }
+        },
+        "Photograph": {
+          "total": 1395,
+          "nationalities": {
+            "French": 577,
+            "German": 380,
+            "American": 346,
+            "Russian": 30,
+            "Italian": 27,
+            "Peruvian": 10,
+            "British": 7,
+            "Czech": 5,
+            "Swiss": 5,
+            "Canadian": 2,
+            "Dutch": 2,
+            "Danish": 1,
+            "Hungarian": 1,
+            "Japanese": 1,
+            "Mexican": 1
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 1,
+          "nationalities": {
+            "German": 1
+          }
+        },
+        "Poster": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Print": {
+          "total": 1490,
+          "nationalities": {
+            "German": 473,
+            "American": 454,
+            "French": 338,
+            "Russian": 93,
+            "Spanish": 27,
+            "British": 26,
+            "Mexican": 23,
+            "Italian": 12,
+            "Austrian": 10,
+            "Norwegian": 6,
+            "Hungarian": 4,
+            "Swiss": 4,
+            "Brazilian": 3,
+            "Czech": 3,
+            "Polish": 3,
+            "Belgian": 2,
+            "Dutch": 2,
+            "Japanese": 2,
+            "Argentine": 1,
+            "Chilean": 1,
+            "Costa Rican": 1,
+            "Cuban": 1,
+            "Latvian": 1
+          }
+        },
+        "Publication": {
+          "total": 1,
+          "nationalities": {
+            "Russian": 1
+          }
+        },
+        "Sculpture": {
+          "total": 41,
+          "nationalities": {
+            "American": 19,
+            "French": 8,
+            "German": 4,
+            "Russian": 3,
+            "Swiss": 3,
+            "Belgian": 1,
+            "British": 1,
+            "Latvian": 1,
+            "Spanish": 1
+          }
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Video": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1930s",
+      "all_artwork_num": 7155,
+      "classifications": {
+        "(not assigned)": {
+          "total": 1,
+          "nationalities": {
+            "Dutch": 1
+          }
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 59,
+          "nationalities": {
+            "American": 23,
+            "Swiss": 8,
+            "French": 7,
+            "German": 6,
+            "Italian": 5,
+            "Brazilian": 4,
+            "Russian": 3,
+            "Swedish": 3
+          }
+        },
+        "Audio": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 996,
+          "nationalities": {
+            "American": 349,
+            "German": 153,
+            "Czech": 98,
+            "British": 93,
+            "Dutch": 63,
+            "French": 56,
+            "Swiss": 51,
+            "Russian": 35,
+            "Spanish": 22,
+            "Italian": 20,
+            "Finnish": 14,
+            "Latvian": 12,
+            "Swedish": 8,
+            "Polish": 6,
+            "Japanese": 4,
+            "Danish": 3,
+            "Argentine": 2,
+            "Belgian": 2,
+            "Canadian": 1,
+            "Chilean": 1,
+            "Hungarian": 1,
+            "Mexican": 1,
+            "Norwegian": 1
+          }
+        },
+        "Digital": {
+          "total": 2,
+          "nationalities": {
+            "American": 2
+          }
+        },
+        "Drawing": {
+          "total": 426,
+          "nationalities": {
+            "American": 265,
+            "German": 32,
+            "French": 28,
+            "Spanish": 25,
+            "Russian": 16,
+            "Mexican": 15,
+            "Swiss": 9,
+            "British": 7,
+            "Argentine": 5,
+            "Italian": 5,
+            "Polish": 5,
+            "Brazilian": 3,
+            "Latvian": 3,
+            "Chilean": 2,
+            "Australian": 1,
+            "Cuban": 1,
+            "Czech": 1,
+            "Icelandic": 1,
+            "Norwegian": 1,
+            "Scottish": 1
+          }
+        },
+        "Ephemera": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film": {
+          "total": 19,
+          "nationalities": {
+            "American": 16,
+            "Italian": 1,
+            "Russian": 1,
+            "Ukrainian": 1
+          }
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 59,
+          "nationalities": {
+            "American": 59
+          }
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Illustrated Book": {
+          "total": 2600,
+          "nationalities": {
+            "French": 1674,
+            "American": 335,
+            "Spanish": 152,
+            "Italian": 111,
+            "Russian": 86,
+            "Costa Rican": 62,
+            "British": 57,
+            "Danish": 35,
+            "Swiss": 21,
+            "Polish": 18,
+            "Mexican": 11,
+            "German": 8,
+            "Austrian": 7,
+            "Japanese": 5,
+            "Canadian": 4,
+            "Uruguayan": 4,
+            "Latvian": 3,
+            "Chilean": 2,
+            "Greek": 2,
+            "Ukrainian": 2,
+            "Czech": 1
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Media": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 308,
+          "nationalities": {
+            "American": 242,
+            "German": 66
+          }
+        },
+        "Multiple": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Painting": {
+          "total": 129,
+          "nationalities": {
+            "American": 49,
+            "French": 17,
+            "Spanish": 13,
+            "Mexican": 12,
+            "German": 9,
+            "Argentine": 4,
+            "Swiss": 4,
+            "Belgian": 3,
+            "British": 3,
+            "Dutch": 3,
+            "Polish": 2,
+            "Uruguayan": 2,
+            "Australian": 1,
+            "Austrian": 1,
+            "Bolivian": 1,
+            "Cuban": 1,
+            "Italian": 1,
+            "Peruvian": 1,
+            "Romanian": 1,
+            "Venezuelan": 1
+          }
+        },
+        "Performance": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Periodical": {
+          "total": 7,
+          "nationalities": {
+            "Russian": 3,
+            "American": 1,
+            "Dutch": 1,
+            "French": 1,
+            "Swiss": 1
+          }
+        },
+        "Photograph": {
+          "total": 1723,
+          "nationalities": {
+            "American": 1214,
+            "German": 198,
+            "French": 143,
+            "British": 33,
+            "Mexican": 32,
+            "Russian": 22,
+            "Peruvian": 21,
+            "Japanese": 16,
+            "Swiss": 12,
+            "Argentine": 11,
+            "Hungarian": 5,
+            "Dutch": 4,
+            "Belgian": 3,
+            "Czech": 3,
+            "Italian": 2,
+            "Greek": 1,
+            "Polish": 1,
+            "Swedish": 1,
+            "Venezuelan": 1
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Print": {
+          "total": 760,
+          "nationalities": {
+            "American": 318,
+            "Spanish": 138,
+            "Mexican": 93,
+            "French": 69,
+            "German": 28,
+            "Italian": 20,
+            "Argentine": 18,
+            "Polish": 14,
+            "British": 13,
+            "Russian": 13,
+            "Guatemalan": 11,
+            "Brazilian": 8,
+            "Norwegian": 6,
+            "Dutch": 3,
+            "Swiss": 3,
+            "Austrian": 1,
+            "Belgian": 1,
+            "Japanese": 1,
+            "Latvian": 1,
+            "Peruvian": 1
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 66,
+          "nationalities": {
+            "American": 30,
+            "French": 16,
+            "Spanish": 5,
+            "Swiss": 5,
+            "British": 4,
+            "German": 3,
+            "Belgian": 1,
+            "Italian": 1,
+            "Uruguayan": 1
+          }
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Video": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1940s",
+      "all_artwork_num": 7588,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 25,
+          "nationalities": {
+            "American": 18,
+            "Brazilian": 2,
+            "French": 2,
+            "Swiss": 2,
+            "Finnish": 1
+          }
+        },
+        "Audio": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 686,
+          "nationalities": {
+            "American": 433,
+            "British": 97,
+            "Swiss": 46,
+            "French": 20,
+            "Italian": 12,
+            "Finnish": 11,
+            "German": 11,
+            "Swedish": 11,
+            "Australian": 9,
+            "Dutch": 8,
+            "Danish": 5,
+            "Russian": 5,
+            "Polish": 4,
+            "Spanish": 4,
+            "Austrian": 3,
+            "Japanese": 2,
+            "Mexican": 2,
+            "Brazilian": 1,
+            "Czech": 1,
+            "Czechoslovakian": 1
+          }
+        },
+        "Digital": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Drawing": {
+          "total": 485,
+          "nationalities": {
+            "American": 247,
+            "French": 132,
+            "Italian": 15,
+            "British": 14,
+            "Cuban": 12,
+            "Spanish": 9,
+            "German": 8,
+            "Mexican": 7,
+            "Canadian": 5,
+            "Chilean": 4,
+            "Danish": 4,
+            "Swiss": 4,
+            "Uruguayan": 4,
+            "Austrian": 3,
+            "Brazilian": 3,
+            "Czech": 3,
+            "Ecuadorian": 2,
+            "Argentine": 1,
+            "Belgian": 1,
+            "Colombian": 1,
+            "Croatian": 1,
+            "Guatemalan": 1,
+            "Haitian": 1,
+            "Polish": 1,
+            "Romanian": 1,
+            "Russian": 1
+          }
+        },
+        "Ephemera": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film": {
+          "total": 31,
+          "nationalities": {
+            "American": 27,
+            "Italian": 3,
+            "Swedish": 1
+          }
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 44,
+          "nationalities": {
+            "American": 44
+          }
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Illustrated Book": {
+          "total": 4290,
+          "nationalities": {
+            "French": 2900,
+            "Spanish": 549,
+            "American": 312,
+            "British": 116,
+            "Mexican": 113,
+            "Italian": 68,
+            "Israeli": 47,
+            "Swiss": 42,
+            "German": 33,
+            "Austrian": 25,
+            "Canadian": 21,
+            "Belgian": 15,
+            "Guatemalan": 11,
+            "Japanese": 10,
+            "Dutch": 8,
+            "Chilean": 6,
+            "Romanian": 6,
+            "Algerian": 2,
+            "Russian": 2,
+            "Brazilian": 1,
+            "Cuban": 1,
+            "Czech": 1,
+            "Danish": 1
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Media": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 93,
+          "nationalities": {
+            "American": 91,
+            "German": 2
+          }
+        },
+        "Multiple": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Painting": {
+          "total": 222,
+          "nationalities": {
+            "American": 135,
+            "French": 28,
+            "British": 12,
+            "Mexican": 8,
+            "Argentine": 7,
+            "Chilean": 5,
+            "Italian": 4,
+            "Brazilian": 3,
+            "Spanish": 3,
+            "Haitian": 2,
+            "Romanian": 2,
+            "Swiss": 2,
+            "Venezuelan": 2,
+            "Belgian": 1,
+            "Canadian": 1,
+            "Colombian": 1,
+            "Dutch": 1,
+            "German": 1,
+            "Icelandic": 1,
+            "Polish": 1,
+            "Swedish": 1,
+            "Uruguayan": 1
+          }
+        },
+        "Performance": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photograph": {
+          "total": 938,
+          "nationalities": {
+            "American": 759,
+            "French": 46,
+            "British": 26,
+            "German": 25,
+            "Japanese": 18,
+            "Russian": 13,
+            "Mexican": 11,
+            "Brazilian": 9,
+            "Dutch": 6,
+            "Hungarian": 5,
+            "Argentine": 4,
+            "Canadian": 3,
+            "Czech": 3,
+            "Venezuelan": 3,
+            "Colombian": 2,
+            "Peruvian": 2,
+            "Polish": 1,
+            "Swedish": 1,
+            "Swiss": 1
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Print": {
+          "total": 721,
+          "nationalities": {
+            "American": 276,
+            "French": 123,
+            "Spanish": 82,
+            "Mexican": 69,
+            "German": 61,
+            "British": 22,
+            "Italian": 19,
+            "Brazilian": 17,
+            "Argentine": 9,
+            "Danish": 7,
+            "Chilean": 5,
+            "Dutch": 5,
+            "Belgian": 3,
+            "Swiss": 3,
+            "Austrian": 2,
+            "Canadian": 2,
+            "Colombian": 2,
+            "Cuban": 2,
+            "Japanese": 2,
+            "Norwegian": 2,
+            "Polish": 2,
+            "Australian": 1,
+            "Bolivian": 1,
+            "Costa Rican": 1,
+            "Haitian": 1,
+            "Peruvian": 1,
+            "Slovenian": 1
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 53,
+          "nationalities": {
+            "American": 28,
+            "French": 6,
+            "Swiss": 5,
+            "British": 3,
+            "Italian": 3,
+            "Argentine": 2,
+            "Brazilian": 2,
+            "Spanish": 2,
+            "German": 1,
+            "Romanian": 1
+          }
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Video": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1950s",
+      "all_artwork_num": 6410,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 83,
+          "nationalities": {
+            "American": 45,
+            "French": 10,
+            "Brazilian": 6,
+            "Mexican": 5,
+            "British": 3,
+            "Swiss": 3,
+            "Colombian": 2,
+            "Finnish": 2,
+            "German": 2,
+            "Peruvian": 2,
+            "Austrian": 1,
+            "Chilean": 1,
+            "Venezuelan": 1
+          }
+        },
+        "Audio": {
+          "total": 12,
+          "nationalities": {
+            "American": 10,
+            "French": 2
+          }
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 875,
+          "nationalities": {
+            "American": 392,
+            "German": 70,
+            "Swiss": 69,
+            "French": 68,
+            "Italian": 60,
+            "Finnish": 38,
+            "Dutch": 36,
+            "Japanese": 33,
+            "Danish": 24,
+            "British": 17,
+            "Brazilian": 15,
+            "Polish": 14,
+            "Spanish": 13,
+            "Austrian": 11,
+            "Swedish": 9,
+            "Slovenian": 2,
+            "Czech": 1,
+            "Icelandic": 1,
+            "Mexican": 1,
+            "Scottish": 1
+          }
+        },
+        "Digital": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Drawing": {
+          "total": 415,
+          "nationalities": {
+            "American": 217,
+            "Brazilian": 39,
+            "French": 38,
+            "German": 19,
+            "Venezuelan": 15,
+            "Japanese": 14,
+            "British": 11,
+            "Italian": 10,
+            "Korean": 5,
+            "Argentine": 4,
+            "Croatian": 4,
+            "Spanish": 4,
+            "Swiss": 4,
+            "Danish": 3,
+            "Dutch": 3,
+            "Mexican": 3,
+            "Russian": 3,
+            "Austrian": 2,
+            "Belgian": 2,
+            "Cuban": 2,
+            "Nigerian": 2,
+            "Polish": 2,
+            "Swedish": 2,
+            "Australian": 1,
+            "Canadian": 1,
+            "Colombian": 1,
+            "Greek": 1,
+            "Guatemalan": 1,
+            "Indian": 1,
+            "Israeli": 1
+          }
+        },
+        "Ephemera": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film": {
+          "total": 30,
+          "nationalities": {
+            "American": 27,
+            "German": 1,
+            "Italian": 1,
+            "Venezuelan": 1
+          }
+        },
+        "Film (object)": {
+          "total": 2,
+          "nationalities": {
+            "American": 2
+          }
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 59,
+          "nationalities": {
+            "American": 59
+          }
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Illustrated Book": {
+          "total": 2058,
+          "nationalities": {
+            "French": 816,
+            "American": 663,
+            "Spanish": 160,
+            "Swiss": 109,
+            "Brazilian": 45,
+            "German": 42,
+            "Mexican": 35,
+            "Russian": 31,
+            "Argentine": 28,
+            "Czech": 20,
+            "Belgian": 19,
+            "Chilean": 19,
+            "British": 14,
+            "Danish": 13,
+            "Austrian": 12,
+            "Italian": 8,
+            "Cuban": 7,
+            "Dutch": 7,
+            "Japanese": 4,
+            "Canadian": 3,
+            "Icelandic": 2,
+            "Swedish": 1
+          }
+        },
+        "Installation": {
+          "total": 1,
+          "nationalities": {
+            "German": 1
+          }
+        },
+        "Media": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 40,
+          "nationalities": {
+            "American": 40
+          }
+        },
+        "Multiple": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Painting": {
+          "total": 260,
+          "nationalities": {
+            "American": 127,
+            "French": 26,
+            "Brazilian": 15,
+            "Venezuelan": 13,
+            "Italian": 12,
+            "British": 11,
+            "German": 8,
+            "Spanish": 7,
+            "Belgian": 4,
+            "Dutch": 4,
+            "Argentine": 3,
+            "Canadian": 3,
+            "Swiss": 3,
+            "Australian": 2,
+            "Chilean": 2,
+            "Cuban": 2,
+            "Haitian": 2,
+            "Israeli": 2,
+            "Austrian": 1,
+            "Colombian": 1,
+            "Danish": 1,
+            "Guatemalan": 1,
+            "Hungarian": 1,
+            "Irish": 1,
+            "Japanese": 1,
+            "Lebanese": 1,
+            "Nicaraguan": 1,
+            "Slovenian": 1,
+            "Swedish": 1,
+            "Tanzanian": 1,
+            "Turkish": 1,
+            "Uruguayan": 1
+          }
+        },
+        "Performance": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Periodical": {
+          "total": 3,
+          "nationalities": {
+            "Belgian": 2,
+            "American": 1
+          }
+        },
+        "Photograph": {
+          "total": 1096,
+          "nationalities": {
+            "American": 851,
+            "French": 62,
+            "Japanese": 43,
+            "German": 28,
+            "Brazilian": 20,
+            "British": 15,
+            "Mexican": 8,
+            "Swiss": 8,
+            "Venezuelan": 8,
+            "Dutch": 7,
+            "Swedish": 7,
+            "Hungarian": 6,
+            "Canadian": 5,
+            "Spanish": 4,
+            "Austrian": 3,
+            "Colombian": 3,
+            "Congolese": 3,
+            "Czech": 3,
+            "Italian": 3,
+            "Serbian": 3,
+            "Chilean": 2,
+            "Israeli": 1,
+            "Luxembourgish": 1,
+            "Malian": 1,
+            "Portuguese": 1
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 3,
+          "nationalities": {
+            "American": 3
+          }
+        },
+        "Print": {
+          "total": 1299,
+          "nationalities": {
+            "French": 517,
+            "American": 347,
+            "Spanish": 105,
+            "Russian": 83,
+            "Japanese": 74,
+            "Italian": 31,
+            "German": 17,
+            "British": 16,
+            "Swiss": 16,
+            "Dutch": 14,
+            "Mexican": 12,
+            "Danish": 9,
+            "Canadian": 8,
+            "Polish": 7,
+            "Slovenian": 6,
+            "Brazilian": 4,
+            "Canadian Inuit": 4,
+            "Israeli": 4,
+            "Belgian": 3,
+            "Chilean": 3,
+            "Argentine": 2,
+            "Austrian": 2,
+            "Czech": 2,
+            "Nigerian": 2,
+            "Peruvian": 2,
+            "Swedish": 2,
+            "Uruguayan": 2,
+            "Cuban": 1,
+            "Finnish": 1,
+            "Norwegian": 1,
+            "Venezuelan": 1,
+            "Yugoslav": 1
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 133,
+          "nationalities": {
+            "American": 72,
+            "French": 19,
+            "British": 11,
+            "Swiss": 7,
+            "Italian": 6,
+            "Spanish": 5,
+            "German": 3,
+            "Japanese": 2,
+            "Brazilian": 1,
+            "Colombian": 1,
+            "Cuban": 1,
+            "Dutch": 1,
+            "Guatemalan": 1,
+            "Swedish": 1,
+            "Turkish": 1,
+            "Venezuelan": 1
+          }
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Video": {
+          "total": 4,
+          "nationalities": {
+            "American": 4
+          }
+        },
+        "Work on Paper": {
+          "total": 37,
+          "nationalities": {
+            "American": 22,
+            "Spanish": 9,
+            "Polish": 3,
+            "French": 2,
+            "Austrian": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1960s",
+      "all_artwork_num": 14060,
+      "classifications": {
+        "(not assigned)": {
+          "total": 46,
+          "nationalities": {
+            "American": 31,
+            "Japanese": 4,
+            "French": 3,
+            "Swiss": 3,
+            "German": 2,
+            "British": 1,
+            "Dutch": 1,
+            "Lithuanian": 1
+          }
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 192,
+          "nationalities": {
+            "American": 58,
+            "Italian": 32,
+            "Argentine": 30,
+            "Austrian": 13,
+            "British": 10,
+            "Mexican": 7,
+            "Serbian": 7,
+            "French": 6,
+            "Venezuelan": 6,
+            "Japanese": 4,
+            "Bosnian": 3,
+            "Cuban": 3,
+            "Macedonian": 3,
+            "Peruvian": 2,
+            "Brazilian": 1,
+            "Croatian": 1,
+            "Danish": 1,
+            "German": 1,
+            "Indian": 1,
+            "Israeli": 1,
+            "Luxembourgish": 1,
+            "Yugoslav": 1
+          }
+        },
+        "Audio": {
+          "total": 71,
+          "nationalities": {
+            "American": 49,
+            "Danish": 6,
+            "French": 6,
+            "British": 4,
+            "Canadian": 2,
+            "German": 2,
+            "Polish": 2
+          }
+        },
+        "Collage": {
+          "total": 1,
+          "nationalities": {
+            "American": 1
+          }
+        },
+        "Design": {
+          "total": 1304,
+          "nationalities": {
+            "American": 528,
+            "Italian": 194,
+            "German": 73,
+            "British": 66,
+            "Swiss": 56,
+            "Japanese": 54,
+            "Argentine": 38,
+            "French": 35,
+            "Polish": 35,
+            "Mexican": 32,
+            "Canadian": 23,
+            "Dutch": 22,
+            "Czech": 17,
+            "Austrian": 16,
+            "Brazilian": 16,
+            "Danish": 16,
+            "Finnish": 12,
+            "Croatian": 11,
+            "Cuban": 10,
+            "Spanish": 10,
+            "Venezuelan": 9,
+            "Swedish": 8,
+            "Russian": 7,
+            "Yugoslav": 4,
+            "Australian": 3,
+            "Belgian": 3,
+            "Slovenian": 2,
+            "Chilean": 1,
+            "Indian": 1,
+            "Moroccan": 1,
+            "Romanian": 1
+          }
+        },
+        "Digital": {
+          "total": 2,
+          "nationalities": {
+            "American": 2
+          }
+        },
+        "Drawing": {
+          "total": 1414,
+          "nationalities": {
+            "American": 856,
+            "German": 120,
+            "British": 99,
+            "French": 63,
+            "Japanese": 63,
+            "Argentine": 21,
+            "Italian": 20,
+            "Dutch": 14,
+            "Austrian": 13,
+            "Brazilian": 13,
+            "Canadian": 13,
+            "Belgian": 11,
+            "Swiss": 11,
+            "Australian": 9,
+            "Russian": 9,
+            "Spanish": 9,
+            "Polish": 8,
+            "Danish": 7,
+            "Chilean": 5,
+            "Czech": 5,
+            "Mexican": 4,
+            "Yugoslav": 4,
+            "Cuban": 3,
+            "Israeli": 3,
+            "Peruvian": 3,
+            "Swedish": 3,
+            "Zimbabwean": 3,
+            "Colombian": 2,
+            "Croatian": 2,
+            "Guatemalan": 2,
+            "Iranian": 2,
+            "Nigerian": 2,
+            "Panamanian": 2,
+            "Ethiopian": 1,
+            "Filipino": 1,
+            "Finnish": 1,
+            "Greek": 1,
+            "Hungarian": 1,
+            "Kuwaiti": 1,
+            "Lithuanian": 1,
+            "Portuguese": 1,
+            "Sudanese": 1,
+            "Venezuelan": 1
+          }
+        },
+        "Ephemera": {
+          "total": 16,
+          "nationalities": {
+            "American": 13,
+            "Argentine": 1,
+            "Austrian": 1,
+            "German": 1
+          }
+        },
+        "Film": {
+          "total": 134,
+          "nationalities": {
+            "American": 107,
+            "Canadian": 7,
+            "Japanese": 6,
+            "French": 3,
+            "German": 3,
+            "Italian": 3,
+            "Danish": 2,
+            "Argentine": 1,
+            "British": 1,
+            "Romanian": 1
+          }
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Illustrated Book": {
+          "total": 3083,
+          "nationalities": {
+            "American": 1325,
+            "French": 392,
+            "British": 221,
+            "German": 207,
+            "Spanish": 169,
+            "Italian": 158,
+            "Chilean": 94,
+            "Japanese": 85,
+            "Belgian": 62,
+            "Argentine": 61,
+            "Israeli": 56,
+            "Swiss": 55,
+            "Mexican": 52,
+            "Venezuelan": 30,
+            "Dutch": 23,
+            "Danish": 21,
+            "Russian": 19,
+            "Czech": 12,
+            "Austrian": 10,
+            "Cuban": 9,
+            "Canadian": 8,
+            "Swedish": 5,
+            "Hungarian": 2,
+            "Irish": 2,
+            "Australian": 1,
+            "Croatian": 1,
+            "Icelandic": 1,
+            "Polish": 1,
+            "Uruguayan": 1
+          }
+        },
+        "Installation": {
+          "total": 38,
+          "nationalities": {
+            "American": 14,
+            "Argentine": 8,
+            "German": 4,
+            "French": 3,
+            "Belgian": 1,
+            "Canadian": 1,
+            "Chilean": 1,
+            "Dutch": 1,
+            "Italian": 1,
+            "Japanese": 1,
+            "Polish": 1,
+            "South African": 1,
+            "Swedish": 1
+          }
+        },
+        "Media": {
+          "total": 2,
+          "nationalities": {
+            "American": 1,
+            "French": 1
+          }
+        },
+        "Mies van der Rohe Archive": {
+          "total": 11,
+          "nationalities": {
+            "American": 11
+          }
+        },
+        "Multiple": {
+          "total": 400,
+          "nationalities": {
+            "American": 249,
+            "French": 59,
+            "Japanese": 28,
+            "German": 23,
+            "Swiss": 19,
+            "Danish": 6,
+            "Czech": 4,
+            "Dutch": 4,
+            "Italian": 3,
+            "Austrian": 1,
+            "Brazilian": 1,
+            "British": 1,
+            "Russian": 1,
+            "Venezuelan": 1
+          }
+        },
+        "Painting": {
+          "total": 326,
+          "nationalities": {
+            "American": 189,
+            "French": 17,
+            "British": 16,
+            "Venezuelan": 9,
+            "German": 8,
+            "Japanese": 8,
+            "Argentine": 7,
+            "Canadian": 7,
+            "Italian": 7,
+            "Spanish": 7,
+            "Belgian": 6,
+            "Brazilian": 6,
+            "Israeli": 5,
+            "Russian": 5,
+            "Swiss": 4,
+            "Indian": 3,
+            "Polish": 3,
+            "Australian": 2,
+            "Colombian": 2,
+            "Dutch": 2,
+            "Peruvian": 2,
+            "Yugoslav": 2,
+            "Zimbabwean": 2,
+            "Austrian": 1,
+            "Haitian": 1,
+            "Moroccan": 1,
+            "Sudanese": 1,
+            "Swedish": 1,
+            "Turkish": 1,
+            "Uruguayan": 1
+          }
+        },
+        "Performance": {
+          "total": 9,
+          "nationalities": {
+            "American": 9
+          }
+        },
+        "Periodical": {
+          "total": 27,
+          "nationalities": {
+            "American": 10,
+            "Croatian": 7,
+            "French": 4,
+            "German": 3,
+            "Dutch": 1,
+            "Swiss": 1,
+            "Yugoslav": 1
+          }
+        },
+        "Photograph": {
+          "total": 1521,
+          "nationalities": {
+            "American": 1088,
+            "Japanese": 106,
+            "French": 103,
+            "German": 39,
+            "Austrian": 29,
+            "Venezuelan": 23,
+            "British": 22,
+            "Czech": 18,
+            "Dutch": 12,
+            "Argentine": 11,
+            "Swiss": 10,
+            "Mexican": 9,
+            "Russian": 6,
+            "Serbian": 5,
+            "South African": 5,
+            "Italian": 4,
+            "Malian": 4,
+            "Brazilian": 3,
+            "Hungarian": 3,
+            "Irish": 3,
+            "Polish": 3,
+            "Swedish": 3,
+            "Congolese": 2,
+            "Croatian": 2,
+            "Indian": 2,
+            "Israeli": 2,
+            "Canadian": 1,
+            "Colombian": 1,
+            "Greek": 1,
+            "Spanish": 1
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 1,
+          "nationalities": {
+            "American": 1
+          }
+        },
+        "Print": {
+          "total": 4888,
+          "nationalities": {
+            "American": 3128,
+            "French": 259,
+            "British": 256,
+            "Japanese": 188,
+            "German": 185,
+            "Italian": 171,
+            "Belgian": 88,
+            "Spanish": 75,
+            "Colombian": 52,
+            "Mexican": 52,
+            "Chilean": 51,
+            "Czech": 51,
+            "Swiss": 41,
+            "Canadian": 35,
+            "Argentine": 34,
+            "Dutch": 34,
+            "Venezuelan": 28,
+            "Polish": 26,
+            "Austrian": 17,
+            "Australian": 13,
+            "Brazilian": 12,
+            "Swedish": 12,
+            "Danish": 9,
+            "Russian": 8,
+            "Yugoslav": 8,
+            "Guatemalan": 6,
+            "Ecuadorian": 5,
+            "Portuguese": 5,
+            "Uruguayan": 5,
+            "Hungarian": 4,
+            "Romanian": 4,
+            "Canadian Inuit": 3,
+            "Israeli": 3,
+            "Peruvian": 3,
+            "Turkish": 3,
+            "Bolivian": 2,
+            "Cuban": 2,
+            "Panamanian": 2,
+            "South African": 2,
+            "Finnish": 1,
+            "Icelandic": 1,
+            "Indian": 1,
+            "Irish": 1,
+            "Norwegian": 1,
+            "Taiwanese": 1
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 422,
+          "nationalities": {
+            "American": 220,
+            "German": 70,
+            "French": 24,
+            "British": 16,
+            "Belgian": 14,
+            "Japanese": 14,
+            "Italian": 13,
+            "Brazilian": 9,
+            "Swiss": 8,
+            "Spanish": 5,
+            "Venezuelan": 5,
+            "Argentine": 4,
+            "Czech": 3,
+            "Colombian": 2,
+            "Israeli": 2,
+            "Swedish": 2,
+            "Canadian": 1,
+            "Croatian": 1,
+            "Danish": 1,
+            "Dutch": 1,
+            "Haitian": 1,
+            "Irish": 1,
+            "Lebanese": 1,
+            "Pakistani": 1,
+            "Polish": 1,
+            "Uruguayan": 1,
+            "Zimbabwean": 1
+          }
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 8,
+          "nationalities": {
+            "American": 7,
+            "Czech": 1
+          }
+        },
+        "Video": {
+          "total": 115,
+          "nationalities": {
+            "American": 76,
+            "Austrian": 13,
+            "German": 12,
+            "French": 5,
+            "Indian": 3,
+            "Canadian": 1,
+            "Croatian": 1,
+            "Czech": 1,
+            "Japanese": 1,
+            "Swedish": 1,
+            "Swiss": 1
+          }
+        },
+        "Work on Paper": {
+          "total": 29,
+          "nationalities": {
+            "French": 9,
+            "Polish": 9,
+            "Spanish": 7,
+            "American": 1,
+            "Austrian": 1,
+            "German": 1,
+            "Italian": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1970s",
+      "all_artwork_num": 9415,
+      "classifications": {
+        "(not assigned)": {
+          "total": 11,
+          "nationalities": {
+            "American": 10,
+            "French": 1
+          }
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 260,
+          "nationalities": {
+            "Italian": 60,
+            "American": 59,
+            "Argentine": 39,
+            "Austrian": 19,
+            "British": 16,
+            "Dutch": 14,
+            "Luxembourgish": 7,
+            "Mexican": 7,
+            "Brazilian": 5,
+            "Uruguayan": 5,
+            "Spanish": 4,
+            "Venezuelan": 4,
+            "Bosnian": 3,
+            "Peruvian": 3,
+            "Chilean": 2,
+            "French": 2,
+            "Macedonian": 2,
+            "Portuguese": 2,
+            "Serbian": 2,
+            "Croatian": 1,
+            "Indian": 1,
+            "Russian": 1,
+            "Slovenian": 1,
+            "Swiss": 1
+          }
+        },
+        "Audio": {
+          "total": 84,
+          "nationalities": {
+            "American": 49,
+            "Austrian": 6,
+            "British": 6,
+            "German": 5,
+            "Swiss": 5,
+            "Canadian": 3,
+            "Danish": 2,
+            "French": 2,
+            "Italian": 2,
+            "Spanish": 2,
+            "Dutch": 1,
+            "Hungarian": 1
+          }
+        },
+        "Collage": {
+          "total": 6,
+          "nationalities": {
+            "American": 4,
+            "Austrian": 1,
+            "Belgian": 1
+          }
+        },
+        "Design": {
+          "total": 780,
+          "nationalities": {
+            "American": 231,
+            "Italian": 162,
+            "Japanese": 68,
+            "Swiss": 54,
+            "Polish": 47,
+            "British": 45,
+            "German": 31,
+            "Danish": 27,
+            "Swedish": 21,
+            "Cuban": 17,
+            "Canadian": 12,
+            "Croatian": 11,
+            "Argentine": 10,
+            "French": 9,
+            "Dutch": 7,
+            "Finnish": 4,
+            "Spanish": 4,
+            "Belgian": 3,
+            "Brazilian": 3,
+            "Venezuelan": 3,
+            "Austrian": 2,
+            "Mexican": 2,
+            "Yugoslav": 2,
+            "Australian": 1,
+            "Greek": 1,
+            "Hungarian": 1,
+            "Norwegian": 1,
+            "Slovenian": 1
+          }
+        },
+        "Digital": {
+          "total": 1,
+          "nationalities": {
+            "Brazilian": 1
+          }
+        },
+        "Drawing": {
+          "total": 942,
+          "nationalities": {
+            "American": 632,
+            "German": 58,
+            "British": 36,
+            "Argentine": 23,
+            "Dutch": 23,
+            "Austrian": 21,
+            "Swiss": 20,
+            "Italian": 14,
+            "Japanese": 13,
+            "Brazilian": 12,
+            "Hungarian": 11,
+            "Belgian": 10,
+            "French": 9,
+            "Mexican": 8,
+            "Venezuelan": 6,
+            "Australian": 5,
+            "Sudanese": 5,
+            "Chilean": 4,
+            "South African": 4,
+            "Swedish": 4,
+            "Croatian": 3,
+            "Finnish": 3,
+            "Spanish": 3,
+            "Canadian": 2,
+            "Colombian": 2,
+            "Czech": 2,
+            "Danish": 2,
+            "Israeli": 2,
+            "Cuban": 1,
+            "Greek": 1,
+            "Polish": 1,
+            "Romanian": 1,
+            "Turkish": 1
+          }
+        },
+        "Ephemera": {
+          "total": 23,
+          "nationalities": {
+            "American": 20,
+            "Austrian": 1,
+            "British": 1,
+            "Japanese": 1
+          }
+        },
+        "Film": {
+          "total": 155,
+          "nationalities": {
+            "American": 134,
+            "French": 5,
+            "Canadian": 4,
+            "British": 3,
+            "Austrian": 2,
+            "Czech": 2,
+            "German": 2,
+            "Italian": 1,
+            "Senegalese": 1,
+            "Yugoslav": 1
+          }
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 1,
+          "nationalities": {
+            "Cuban": 1
+          }
+        },
+        "Illustrated Book": {
+          "total": 1519,
+          "nationalities": {
+            "American": 544,
+            "Belgian": 159,
+            "French": 148,
+            "Spanish": 147,
+            "British": 112,
+            "Italian": 63,
+            "Australian": 54,
+            "German": 51,
+            "Dutch": 50,
+            "Danish": 30,
+            "Swedish": 28,
+            "Russian": 27,
+            "Japanese": 22,
+            "Swiss": 20,
+            "Chilean": 19,
+            "Brazilian": 14,
+            "Romanian": 11,
+            "Yugoslav": 10,
+            "Canadian": 5,
+            "Austrian": 2,
+            "Czech": 1,
+            "Hungarian": 1,
+            "Lithuanian": 1
+          }
+        },
+        "Installation": {
+          "total": 52,
+          "nationalities": {
+            "American": 28,
+            "Polish": 8,
+            "German": 4,
+            "Argentine": 3,
+            "British": 2,
+            "Romanian": 2,
+            "Brazilian": 1,
+            "Chilean": 1,
+            "Dutch": 1,
+            "Japanese": 1,
+            "Venezuelan": 1
+          }
+        },
+        "Media": {
+          "total": 1,
+          "nationalities": {
+            "American": 1
+          }
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Multiple": {
+          "total": 149,
+          "nationalities": {
+            "American": 101,
+            "German": 16,
+            "French": 11,
+            "British": 8,
+            "Japanese": 5,
+            "Brazilian": 2,
+            "Danish": 2,
+            "Swiss": 2,
+            "Belgian": 1,
+            "Spanish": 1
+          }
+        },
+        "Painting": {
+          "total": 169,
+          "nationalities": {
+            "American": 121,
+            "British": 6,
+            "French": 6,
+            "German": 6,
+            "Japanese": 4,
+            "Korean": 4,
+            "Venezuelan": 4,
+            "Belgian": 3,
+            "Dutch": 2,
+            "Italian": 2,
+            "Spanish": 2,
+            "Argentine": 1,
+            "Australian": 1,
+            "Austrian": 1,
+            "Chilean": 1,
+            "Colombian": 1,
+            "Croatian": 1,
+            "Cuban": 1,
+            "Guyanese": 1,
+            "Hungarian": 1
+          }
+        },
+        "Performance": {
+          "total": 5,
+          "nationalities": {
+            "American": 5
+          }
+        },
+        "Periodical": {
+          "total": 6,
+          "nationalities": {
+            "American": 3,
+            "British": 2,
+            "German": 1
+          }
+        },
+        "Photograph": {
+          "total": 1950,
+          "nationalities": {
+            "American": 1542,
+            "French": 62,
+            "German": 52,
+            "Japanese": 42,
+            "Hungarian": 40,
+            "Dutch": 29,
+            "British": 25,
+            "Italian": 13,
+            "Mexican": 13,
+            "Yugoslav": 13,
+            "South African": 11,
+            "Belgian": 9,
+            "Burkinabe": 8,
+            "Congolese": 8,
+            "Indian": 8,
+            "Austrian": 7,
+            "Lithuanian": 7,
+            "Cambodian": 6,
+            "Czech": 6,
+            "Canadian": 5,
+            "Argentine": 4,
+            "Croatian": 4,
+            "Israeli": 4,
+            "Romanian": 4,
+            "Russian": 4,
+            "Nigerian": 3,
+            "Australian": 2,
+            "Bosnian": 2,
+            "Colombian": 2,
+            "Lebanese": 2,
+            "Malian": 2,
+            "Swedish": 2,
+            "Swiss": 2,
+            "Venezuelan": 2,
+            "Brazilian": 1,
+            "Chilean": 1,
+            "Norwegian": 1,
+            "Polish": 1,
+            "Ukrainian": 1
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 3,
+          "nationalities": {
+            "American": 2,
+            "German": 1
+          }
+        },
+        "Print": {
+          "total": 2543,
+          "nationalities": {
+            "American": 1493,
+            "British": 244,
+            "Belgian": 143,
+            "German": 124,
+            "Swiss": 74,
+            "Japanese": 66,
+            "Colombian": 50,
+            "Mexican": 40,
+            "Canadian": 38,
+            "French": 37,
+            "Venezuelan": 34,
+            "Czech": 33,
+            "Dutch": 32,
+            "Spanish": 20,
+            "Austrian": 16,
+            "Brazilian": 13,
+            "Argentine": 11,
+            "Italian": 11,
+            "Russian": 11,
+            "Swedish": 10,
+            "Australian": 9,
+            "Israeli": 6,
+            "Korean": 5,
+            "Chilean": 4,
+            "Cuban": 3,
+            "Uruguayan": 3,
+            "Hungarian": 2,
+            "Paraguayan": 2,
+            "Polish": 2,
+            "South African": 2,
+            "Danish": 1,
+            "Estonian": 1,
+            "Indian": 1,
+            "Namibian": 1,
+            "Romanian": 1
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 160,
+          "nationalities": {
+            "American": 122,
+            "Czech": 6,
+            "Brazilian": 5,
+            "French": 3,
+            "Japanese": 3,
+            "Argentine": 2,
+            "British": 2,
+            "Colombian": 2,
+            "German": 2,
+            "Italian": 2,
+            "Spanish": 2,
+            "Venezuelan": 2,
+            "Belgian": 1,
+            "Canadian": 1,
+            "Croatian": 1,
+            "Danish": 1,
+            "Greek": 1,
+            "Romanian": 1,
+            "Uruguayan": 1
+          }
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 4,
+          "nationalities": {
+            "Argentine": 2,
+            "American": 1,
+            "French": 1
+          }
+        },
+        "Video": {
+          "total": 574,
+          "nationalities": {
+            "American": 432,
+            "Japanese": 25,
+            "British": 24,
+            "Austrian": 23,
+            "Chilean": 14,
+            "Swiss": 12,
+            "Icelandic": 11,
+            "French": 8,
+            "Croatian": 7,
+            "German": 6,
+            "Brazilian": 5,
+            "Canadian": 3,
+            "Argentine": 1,
+            "Belgian": 1,
+            "Colombian": 1,
+            "Russian": 1
+          }
+        },
+        "Work on Paper": {
+          "total": 17,
+          "nationalities": {
+            "Spanish": 7,
+            "American": 4,
+            "German": 3,
+            "French": 1,
+            "Italian": 1,
+            "Swiss": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1980s",
+      "all_artwork_num": 7609,
+      "classifications": {
+        "(not assigned)": {
+          "total": 4,
+          "nationalities": {
+            "Dutch": 3,
+            "American": 1
+          }
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 216,
+          "nationalities": {
+            "American": 62,
+            "Russian": 53,
+            "Swiss": 18,
+            "Italian": 17,
+            "British": 13,
+            "Dutch": 12,
+            "Japanese": 8,
+            "Spanish": 6,
+            "Argentine": 4,
+            "German": 3,
+            "Austrian": 2,
+            "Belgian": 2,
+            "Brazilian": 2,
+            "Chilean": 2,
+            "French": 2,
+            "Indian": 2,
+            "Luxembourgish": 2,
+            "Polish": 2,
+            "Canadian": 1,
+            "Macedonian": 1,
+            "Mexican": 1,
+            "Venezuelan": 1
+          }
+        },
+        "Audio": {
+          "total": 104,
+          "nationalities": {
+            "American": 76,
+            "German": 10,
+            "French": 6,
+            "British": 3,
+            "Danish": 3,
+            "Austrian": 2,
+            "Canadian": 1,
+            "Czech": 1,
+            "Italian": 1,
+            "Spanish": 1
+          }
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 646,
+          "nationalities": {
+            "American": 200,
+            "Japanese": 82,
+            "British": 63,
+            "Italian": 58,
+            "Dutch": 42,
+            "German": 38,
+            "Polish": 29,
+            "French": 24,
+            "Swiss": 20,
+            "Canadian": 16,
+            "Croatian": 15,
+            "Slovak": 14,
+            "Swedish": 10,
+            "Hungarian": 9,
+            "Danish": 7,
+            "Brazilian": 4,
+            "Australian": 3,
+            "Israeli": 3,
+            "Argentine": 2,
+            "Russian": 2,
+            "Finnish": 1,
+            "Indian": 1,
+            "Moroccan": 1,
+            "Norwegian": 1,
+            "Yugoslav": 1
+          }
+        },
+        "Digital": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Drawing": {
+          "total": 678,
+          "nationalities": {
+            "American": 421,
+            "German": 108,
+            "British": 23,
+            "Colombian": 20,
+            "Austrian": 19,
+            "Italian": 19,
+            "Swiss": 12,
+            "Spanish": 9,
+            "Ivorian": 7,
+            "Brazilian": 5,
+            "Dutch": 5,
+            "Argentine": 4,
+            "French": 4,
+            "Indian": 4,
+            "Japanese": 3,
+            "Chilean": 2,
+            "Czech": 2,
+            "Polish": 2,
+            "South African": 2,
+            "Venezuelan": 2,
+            "Canadian": 1,
+            "Danish": 1,
+            "Israeli": 1,
+            "Scottish": 1,
+            "Yugoslav": 1
+          }
+        },
+        "Ephemera": {
+          "total": 24,
+          "nationalities": {
+            "American": 23,
+            "German": 1
+          }
+        },
+        "Film": {
+          "total": 111,
+          "nationalities": {
+            "American": 92,
+            "British": 4,
+            "Israeli": 2,
+            "Italian": 2,
+            "Austrian": 1,
+            "Belgian": 1,
+            "Brazilian": 1,
+            "Canadian": 1,
+            "French": 1,
+            "Georgian": 1,
+            "German": 1,
+            "Greek": 1,
+            "Hungarian": 1,
+            "South African": 1,
+            "Turkish": 1
+          }
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Illustrated Book": {
+          "total": 2193,
+          "nationalities": {
+            "American": 888,
+            "German": 371,
+            "Spanish": 184,
+            "Italian": 135,
+            "French": 108,
+            "British": 105,
+            "Swiss": 89,
+            "Yugoslav": 60,
+            "Belgian": 56,
+            "Australian": 43,
+            "Dutch": 33,
+            "Colombian": 29,
+            "Chilean": 20,
+            "Danish": 20,
+            "Russian": 14,
+            "Austrian": 10,
+            "Canadian": 10,
+            "Mexican": 10,
+            "Argentine": 4,
+            "Czech": 1,
+            "Greek": 1,
+            "Hungarian": 1,
+            "Polish": 1
+          }
+        },
+        "Installation": {
+          "total": 26,
+          "nationalities": {
+            "American": 14,
+            "Venezuelan": 4,
+            "Brazilian": 2,
+            "British": 2,
+            "German": 1,
+            "Israeli": 1,
+            "Italian": 1,
+            "Polish": 1
+          }
+        },
+        "Media": {
+          "total": 4,
+          "nationalities": {
+            "Canadian": 3,
+            "American": 1
+          }
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Multiple": {
+          "total": 78,
+          "nationalities": {
+            "American": 39,
+            "Canadian": 15,
+            "Swiss": 8,
+            "German": 6,
+            "French": 5,
+            "British": 2,
+            "Czech": 2,
+            "Greek": 1
+          }
+        },
+        "Painting": {
+          "total": 164,
+          "nationalities": {
+            "American": 101,
+            "French": 18,
+            "German": 12,
+            "British": 9,
+            "Italian": 8,
+            "Congolese": 3,
+            "Romanian": 3,
+            "Austrian": 2,
+            "Brazilian": 2,
+            "Swiss": 2,
+            "Croatian": 1,
+            "Danish": 1,
+            "Japanese": 1,
+            "Spanish": 1
+          }
+        },
+        "Performance": {
+          "total": 1,
+          "nationalities": {
+            "American": 1
+          }
+        },
+        "Periodical": {
+          "total": 9,
+          "nationalities": {
+            "American": 5,
+            "German": 2,
+            "Italian": 1,
+            "Swiss": 1
+          }
+        },
+        "Photograph": {
+          "total": 1199,
+          "nationalities": {
+            "American": 897,
+            "British": 95,
+            "German": 47,
+            "French": 27,
+            "Japanese": 19,
+            "Brazilian": 18,
+            "South African": 12,
+            "Spanish": 12,
+            "Argentine": 10,
+            "Mexican": 10,
+            "Canadian": 9,
+            "Czech": 9,
+            "Chilean": 8,
+            "Indian": 5,
+            "Italian": 4,
+            "Cuban": 2,
+            "Norwegian": 2,
+            "Russian": 2,
+            "Swiss": 2,
+            "Venezuelan": 2,
+            "Austrian": 1,
+            "Chinese": 1,
+            "Croatian": 1,
+            "Dutch": 1,
+            "Lithuanian": 1,
+            "Polish": 1,
+            "Swedish": 1
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Print": {
+          "total": 1431,
+          "nationalities": {
+            "American": 967,
+            "German": 83,
+            "British": 79,
+            "Canadian": 34,
+            "Uruguayan": 32,
+            "Italian": 29,
+            "Argentine": 27,
+            "French": 20,
+            "Colombian": 17,
+            "Russian": 17,
+            "Spanish": 17,
+            "Czech": 15,
+            "South African": 14,
+            "Dutch": 12,
+            "Chinese": 11,
+            "Polish": 10,
+            "Austrian": 9,
+            "Australian": 8,
+            "Japanese": 8,
+            "Swiss": 7,
+            "Belgian": 3,
+            "Danish": 2,
+            "Israeli": 2,
+            "Mexican": 2,
+            "Brazilian": 1,
+            "Chilean": 1,
+            "Cuban": 1,
+            "Greek": 1,
+            "Slovak": 1,
+            "Swedish": 1
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 126,
+          "nationalities": {
+            "American": 85,
+            "German": 11,
+            "British": 8,
+            "French": 4,
+            "Brazilian": 2,
+            "Czech": 2,
+            "Italian": 2,
+            "Swiss": 2,
+            "Venezuelan": 2,
+            "Austrian": 1,
+            "Belgian": 1,
+            "Canadian": 1,
+            "Chilean": 1,
+            "Lebanese": 1,
+            "Polish": 1,
+            "Russian": 1,
+            "Spanish": 1
+          }
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 1,
+          "nationalities": {
+            "Indian": 1
+          }
+        },
+        "Video": {
+          "total": 575,
+          "nationalities": {
+            "American": 251,
+            "Swiss": 96,
+            "Japanese": 37,
+            "British": 33,
+            "Canadian": 33,
+            "French": 26,
+            "German": 18,
+            "Chilean": 13,
+            "Icelandic": 10,
+            "Mexican": 10,
+            "Hungarian": 8,
+            "Belgian": 6,
+            "Brazilian": 5,
+            "Croatian": 5,
+            "Spanish": 5,
+            "Austrian": 3,
+            "Yugoslav": 3,
+            "Australian": 2,
+            "Native American": 2,
+            "Colombian": 1,
+            "Czech": 1,
+            "Dutch": 1,
+            "Peruvian": 1,
+            "Polish": 1,
+            "Russian": 1,
+            "Scottish": 1,
+            "Taiwanese": 1,
+            "Ukrainian": 1
+          }
+        },
+        "Work on Paper": {
+          "total": 19,
+          "nationalities": {
+            "American": 8,
+            "Spanish": 7,
+            "British": 2,
+            "German": 1,
+            "Polish": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1990s",
+      "all_artwork_num": 6085,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 152,
+          "nationalities": {
+            "American": 45,
+            "Italian": 18,
+            "Dutch": 15,
+            "Russian": 13,
+            "Swiss": 8,
+            "German": 7,
+            "Japanese": 7,
+            "Spanish": 6,
+            "Austrian": 5,
+            "British": 4,
+            "Canadian": 4,
+            "Argentine": 3,
+            "Finnish": 3,
+            "French": 3,
+            "Iranian": 2,
+            "Israeli": 2,
+            "Portuguese": 2,
+            "Indian": 1,
+            "Korean": 1,
+            "Mexican": 1,
+            "Norwegian": 1,
+            "Polish": 1
+          }
+        },
+        "Audio": {
+          "total": 74,
+          "nationalities": {
+            "American": 46,
+            "British": 13,
+            "German": 5,
+            "French": 4,
+            "Canadian": 1,
+            "Czech": 1,
+            "Hungarian": 1,
+            "Mexican": 1,
+            "Scottish": 1,
+            "Swiss": 1
+          }
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 598,
+          "nationalities": {
+            "American": 157,
+            "Dutch": 96,
+            "Japanese": 87,
+            "German": 67,
+            "British": 40,
+            "Slovak": 39,
+            "French": 35,
+            "Italian": 24,
+            "Brazilian": 8,
+            "Swiss": 8,
+            "Spanish": 7,
+            "Canadian": 6,
+            "Belgian": 4,
+            "Swedish": 4,
+            "Finnish": 3,
+            "Austrian": 2,
+            "Danish": 2,
+            "South African": 2,
+            "Argentine": 1,
+            "Australian": 1,
+            "Colombian": 1,
+            "Egyptian": 1,
+            "Korean": 1,
+            "New Zealander": 1,
+            "Turkish": 1
+          }
+        },
+        "Digital": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Drawing": {
+          "total": 1267,
+          "nationalities": {
+            "Ivorian": 470,
+            "American": 414,
+            "Japanese": 140,
+            "German": 114,
+            "British": 34,
+            "Brazilian": 14,
+            "Austrian": 8,
+            "Cuban": 8,
+            "Belgian": 7,
+            "Italian": 7,
+            "French": 6,
+            "South African": 6,
+            "Spanish": 6,
+            "Swiss": 5,
+            "Dutch": 4,
+            "Mexican": 4,
+            "Polish": 4,
+            "Canadian": 3,
+            "Colombian": 2,
+            "Venezuelan": 2,
+            "Argentine": 1,
+            "Australian": 1,
+            "Bahamian": 1,
+            "Croatian": 1,
+            "Irish": 1,
+            "Israeli": 1,
+            "Norwegian": 1,
+            "Romanian": 1,
+            "Thai": 1
+          }
+        },
+        "Ephemera": {
+          "total": 18,
+          "nationalities": {
+            "American": 18
+          }
+        },
+        "Film": {
+          "total": 81,
+          "nationalities": {
+            "American": 53,
+            "French": 6,
+            "Canadian": 5,
+            "Austrian": 3,
+            "British": 3,
+            "South African": 2,
+            "Chilean": 1,
+            "Chinese": 1,
+            "Dutch": 1,
+            "German": 1,
+            "Korean": 1,
+            "Lithuanian": 1,
+            "Mexican": 1,
+            "Palestinian": 1,
+            "Thai": 1
+          }
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Illustrated Book": {
+          "total": 757,
+          "nationalities": {
+            "American": 383,
+            "German": 147,
+            "Chilean": 94,
+            "Italian": 62,
+            "British": 31,
+            "French": 7,
+            "Chinese": 5,
+            "Russian": 5,
+            "Spanish": 5,
+            "Canadian": 4,
+            "Swiss": 4,
+            "Japanese": 3,
+            "Austrian": 2,
+            "Mexican": 2,
+            "Brazilian": 1,
+            "Cuban": 1,
+            "Indian": 1
+          }
+        },
+        "Installation": {
+          "total": 64,
+          "nationalities": {
+            "American": 37,
+            "British": 10,
+            "Swiss": 5,
+            "Belgian": 2,
+            "Chinese": 2,
+            "Colombian": 2,
+            "Bahamian": 1,
+            "Brazilian": 1,
+            "Icelandic": 1,
+            "Italian": 1,
+            "Japanese": 1,
+            "Scottish": 1
+          }
+        },
+        "Media": {
+          "total": 2,
+          "nationalities": {
+            "American": 1,
+            "Canadian": 1
+          }
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Multiple": {
+          "total": 106,
+          "nationalities": {
+            "American": 50,
+            "Canadian": 12,
+            "Swiss": 12,
+            "German": 9,
+            "British": 7,
+            "Japanese": 4,
+            "Thai": 3,
+            "Austrian": 2,
+            "Brazilian": 2,
+            "French": 2,
+            "Argentine": 1,
+            "Korean": 1,
+            "Spanish": 1
+          }
+        },
+        "Painting": {
+          "total": 57,
+          "nationalities": {
+            "American": 32,
+            "British": 6,
+            "Belgian": 4,
+            "German": 4,
+            "Argentine": 3,
+            "Austrian": 2,
+            "Japanese": 2,
+            "Brazilian": 1,
+            "Congolese": 1,
+            "Danish": 1,
+            "French": 1
+          }
+        },
+        "Performance": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Periodical": {
+          "total": 21,
+          "nationalities": {
+            "American": 11,
+            "Swiss": 5,
+            "Austrian": 1,
+            "British": 1,
+            "German": 1,
+            "Japanese": 1,
+            "Thai": 1
+          }
+        },
+        "Photograph": {
+          "total": 893,
+          "nationalities": {
+            "American": 434,
+            "German": 227,
+            "Japanese": 37,
+            "British": 34,
+            "Brazilian": 31,
+            "Chinese": 29,
+            "Canadian": 18,
+            "Dutch": 15,
+            "Indian": 11,
+            "Mexican": 10,
+            "South African": 6,
+            "French": 5,
+            "Russian": 5,
+            "Belgian": 4,
+            "Czech": 4,
+            "Israeli": 3,
+            "Norwegian": 3,
+            "Swedish": 3,
+            "Swiss": 3,
+            "Polish": 2,
+            "Argentine": 1,
+            "Bosnian": 1,
+            "Cuban": 1,
+            "Iranian": 1,
+            "Lebanese": 1,
+            "Malaysian": 1,
+            "Moroccan": 1,
+            "Native American": 1,
+            "Romanian": 1
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Print": {
+          "total": 1510,
+          "nationalities": {
+            "American": 928,
+            "Colombian": 121,
+            "British": 114,
+            "German": 75,
+            "Spanish": 60,
+            "Austrian": 28,
+            "South African": 28,
+            "Swiss": 16,
+            "Canadian": 14,
+            "Australian": 13,
+            "Israeli": 12,
+            "French": 11,
+            "Japanese": 10,
+            "Russian": 10,
+            "Chinese": 9,
+            "Italian": 9,
+            "Argentine": 7,
+            "Thai": 7,
+            "Cuban": 6,
+            "Dutch": 4,
+            "Croatian": 3,
+            "Yugoslav": 3,
+            "Belgian": 2,
+            "Danish": 2,
+            "Greek": 2,
+            "Malaysian": 2,
+            "Mexican": 2,
+            "Brazilian": 1,
+            "Chilean": 1,
+            "Egyptian": 1,
+            "Indian": 1,
+            "Irish": 1,
+            "Ivorian": 1,
+            "Korean": 1,
+            "Pakistani": 1,
+            "Portuguese": 1,
+            "Romanian": 1,
+            "Scottish": 1,
+            "Turkish": 1
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 93,
+          "nationalities": {
+            "American": 52,
+            "British": 8,
+            "Brazilian": 4,
+            "Beninese": 3,
+            "Congolese": 3,
+            "German": 3,
+            "Italian": 3,
+            "Mexican": 3,
+            "Spanish": 2,
+            "Argentine": 1,
+            "Austrian": 1,
+            "Chilean": 1,
+            "Chinese": 1,
+            "Colombian": 1,
+            "Cuban": 1,
+            "Dutch": 1,
+            "French": 1,
+            "Japanese": 1,
+            "Polish": 1,
+            "Senegalese": 1,
+            "Thai": 1
+          }
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Video": {
+          "total": 382,
+          "nationalities": {
+            "American": 131,
+            "Canadian": 106,
+            "British": 26,
+            "French": 19,
+            "Mexican": 18,
+            "Chinese": 15,
+            "German": 15,
+            "Hungarian": 7,
+            "Brazilian": 6,
+            "Swiss": 6,
+            "Japanese": 5,
+            "Chilean": 4,
+            "Icelandic": 4,
+            "Russian": 4,
+            "Austrian": 2,
+            "Belgian": 2,
+            "Croatian": 2,
+            "Romanian": 2,
+            "Colombian": 1,
+            "Czech": 1,
+            "Indian": 1,
+            "Korean": 1,
+            "Lithuanian": 1,
+            "Polish": 1,
+            "Ukrainian": 1,
+            "Uruguayan": 1
+          }
+        },
+        "Work on Paper": {
+          "total": 10,
+          "nationalities": {
+            "Spanish": 6,
+            "American": 2,
+            "British": 1,
+            "French": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "2000s",
+      "all_artwork_num": 5880,
+      "classifications": {
+        "(not assigned)": {
+          "total": 1,
+          "nationalities": {
+            "American": 1
+          }
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 169,
+          "nationalities": {
+            "American": 46,
+            "French": 15,
+            "Spanish": 15,
+            "Italian": 14,
+            "Brazilian": 13,
+            "Dutch": 12,
+            "German": 10,
+            "Swiss": 10,
+            "Japanese": 8,
+            "Canadian": 4,
+            "Colombian": 4,
+            "Iranian": 3,
+            "Portuguese": 3,
+            "Irish": 2,
+            "Korean": 2,
+            "Argentine": 1,
+            "Austrian": 1,
+            "British": 1,
+            "Chilean": 1,
+            "Chinese": 1,
+            "Norwegian": 1,
+            "Serbian": 1,
+            "South African": 1
+          }
+        },
+        "Audio": {
+          "total": 73,
+          "nationalities": {
+            "American": 36,
+            "German": 21,
+            "British": 4,
+            "Austrian": 2,
+            "Canadian": 2,
+            "Mexican": 2,
+            "Czech": 1,
+            "Danish": 1,
+            "Irish": 1,
+            "Scottish": 1,
+            "Swedish": 1,
+            "Swiss": 1
+          }
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 513,
+          "nationalities": {
+            "American": 157,
+            "British": 72,
+            "Dutch": 72,
+            "Japanese": 34,
+            "French": 32,
+            "German": 25,
+            "Slovak": 18,
+            "Italian": 15,
+            "Danish": 12,
+            "Canadian": 9,
+            "Swiss": 9,
+            "Spanish": 8,
+            "Finnish": 7,
+            "Israeli": 5,
+            "Norwegian": 4,
+            "Austrian": 3,
+            "Belgian": 3,
+            "Portuguese": 3,
+            "South African": 3,
+            "Swedish": 3,
+            "Brazilian": 2,
+            "Korean": 2,
+            "Luxembourgish": 2,
+            "New Zealander": 2,
+            "Scottish": 2,
+            "Argentine": 1,
+            "Australian": 1,
+            "Chinese": 1,
+            "Cypriot": 1,
+            "Czech": 1,
+            "Greek": 1,
+            "Lebanese": 1,
+            "Mexican": 1,
+            "Turkish": 1
+          }
+        },
+        "Digital": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Drawing": {
+          "total": 1315,
+          "nationalities": {
+            "American": 692,
+            "German": 125,
+            "British": 91,
+            "Canadian": 37,
+            "Swiss": 37,
+            "Japanese": 31,
+            "Italian": 27,
+            "Mexican": 22,
+            "Austrian": 19,
+            "Brazilian": 19,
+            "Finnish": 18,
+            "Cuban": 17,
+            "French": 17,
+            "Chinese": 14,
+            "Belgian": 13,
+            "Scottish": 11,
+            "Swedish": 11,
+            "Danish": 9,
+            "Spanish": 9,
+            "Colombian": 7,
+            "South African": 7,
+            "Bulgarian": 6,
+            "Dutch": 6,
+            "Korean": 6,
+            "Pakistani": 6,
+            "Argentine": 5,
+            "Israeli": 5,
+            "Peruvian": 5,
+            "Polish": 5,
+            "Uruguayan": 5,
+            "Venezuelan": 5,
+            "Australian": 4,
+            "Chilean": 4,
+            "Georgian": 3,
+            "Ivorian": 3,
+            "Czech": 2,
+            "Kenyan": 2,
+            "Norwegian": 2,
+            "Slovenian": 2,
+            "Taiwanese": 2,
+            "Croatian": 1,
+            "Irish": 1,
+            "Nigerian": 1,
+            "Sierra Leonean": 1
+          }
+        },
+        "Ephemera": {
+          "total": 84,
+          "nationalities": {
+            "American": 83,
+            "Uruguayan": 1
+          }
+        },
+        "Film": {
+          "total": 83,
+          "nationalities": {
+            "American": 39,
+            "French": 14,
+            "Canadian": 3,
+            "Thai": 3,
+            "Bosnian": 2,
+            "Chinese": 2,
+            "Korean": 2,
+            "Portuguese": 2,
+            "Spanish": 2,
+            "Algerian": 1,
+            "Dutch": 1,
+            "Filipino": 1,
+            "Finnish": 1,
+            "German": 1,
+            "Italian": 1,
+            "Kazakhstani": 1,
+            "Kenyan": 1,
+            "Macedonian": 1,
+            "Mexican": 1,
+            "Russian": 1,
+            "Scottish": 1,
+            "Serbian": 1,
+            "Swedish": 1
+          }
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Illustrated Book": {
+          "total": 251,
+          "nationalities": {
+            "American": 179,
+            "German": 17,
+            "Swiss": 14,
+            "Chinese": 7,
+            "British": 5,
+            "Brazilian": 4,
+            "Japanese": 3,
+            "South African": 3,
+            "Argentine": 2,
+            "Canadian": 2,
+            "Colombian": 2,
+            "French": 2,
+            "Indian": 2,
+            "Italian": 2,
+            "Belgian": 1,
+            "Icelandic": 1,
+            "Korean": 1,
+            "Mexican": 1,
+            "Norwegian": 1,
+            "Polish": 1,
+            "Russian": 1
+          }
+        },
+        "Installation": {
+          "total": 314,
+          "nationalities": {
+            "American": 187,
+            "British": 16,
+            "German": 13,
+            "Colombian": 12,
+            "Belgian": 9,
+            "Chinese": 9,
+            "Dutch": 7,
+            "South African": 6,
+            "Canadian": 5,
+            "Mexican": 5,
+            "Israeli": 4,
+            "Brazilian": 3,
+            "Croatian": 3,
+            "Danish": 3,
+            "Argentine": 2,
+            "Austrian": 2,
+            "Cuban": 2,
+            "French": 2,
+            "Iranian": 2,
+            "Irish": 2,
+            "Polish": 2,
+            "Romanian": 2,
+            "Scottish": 2,
+            "Swiss": 2,
+            "Algerian": 1,
+            "Chilean": 1,
+            "Czech": 1,
+            "Georgian": 1,
+            "Icelandic": 1,
+            "Indian": 1,
+            "Korean": 1,
+            "Lithuanian": 1,
+            "Moroccan": 1,
+            "Pakistani": 1,
+            "Peruvian": 1,
+            "Vietnamese": 1
+          }
+        },
+        "Media": {
+          "total": 5,
+          "nationalities": {
+            "Canadian": 3,
+            "American": 2
+          }
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Multiple": {
+          "total": 64,
+          "nationalities": {
+            "American": 23,
+            "British": 9,
+            "German": 8,
+            "French": 4,
+            "Belgian": 3,
+            "Swiss": 3,
+            "Austrian": 2,
+            "Cuban": 2,
+            "Italian": 2,
+            "Brazilian": 1,
+            "Canadian": 1,
+            "Chinese": 1,
+            "Finnish": 1,
+            "Icelandic": 1,
+            "Japanese": 1,
+            "Polish": 1,
+            "South African": 1
+          }
+        },
+        "Painting": {
+          "total": 78,
+          "nationalities": {
+            "American": 41,
+            "German": 15,
+            "British": 7,
+            "Belgian": 4,
+            "Japanese": 2,
+            "South African": 2,
+            "Argentine": 1,
+            "Congolese": 1,
+            "Danish": 1,
+            "Indian": 1,
+            "Mexican": 1,
+            "Peruvian": 1,
+            "Polish": 1
+          }
+        },
+        "Performance": {
+          "total": 2,
+          "nationalities": {
+            "Italian": 1,
+            "Slovak": 1
+          }
+        },
+        "Periodical": {
+          "total": 126,
+          "nationalities": {
+            "American": 52,
+            "British": 17,
+            "German": 16,
+            "French": 5,
+            "Polish": 5,
+            "Belgian": 4,
+            "Swiss": 4,
+            "Austrian": 3,
+            "Canadian": 3,
+            "Italian": 3,
+            "Korean": 3,
+            "Brazilian": 2,
+            "Chinese": 2,
+            "Albanian": 1,
+            "Cuban": 1,
+            "Dutch": 1,
+            "Icelandic": 1,
+            "Japanese": 1,
+            "Romanian": 1,
+            "South African": 1
+          }
+        },
+        "Photograph": {
+          "total": 463,
+          "nationalities": {
+            "American": 251,
+            "British": 43,
+            "German": 34,
+            "South African": 34,
+            "French": 12,
+            "Chinese": 11,
+            "Brazilian": 10,
+            "Danish": 10,
+            "Dutch": 9,
+            "Canadian": 7,
+            "Israeli": 7,
+            "Belgian": 6,
+            "Moroccan": 6,
+            "Indian": 4,
+            "Japanese": 3,
+            "Swiss": 3,
+            "Mexican": 2,
+            "Argentine": 1,
+            "Austrian": 1,
+            "Colombian": 1,
+            "Cuban": 1,
+            "Icelandic": 1,
+            "Italian": 1,
+            "Pakistani": 1,
+            "Polish": 1,
+            "Swedish": 1,
+            "Venezuelan": 1,
+            "Yugoslav": 1
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 4,
+          "nationalities": {
+            "American": 4
+          }
+        },
+        "Print": {
+          "total": 1943,
+          "nationalities": {
+            "American": 980,
+            "German": 226,
+            "British": 159,
+            "Colombian": 105,
+            "South African": 103,
+            "Chinese": 79,
+            "Austrian": 53,
+            "Pakistani": 25,
+            "Canadian": 24,
+            "Spanish": 19,
+            "French": 15,
+            "Mexican": 14,
+            "Swiss": 14,
+            "Cameroonian": 13,
+            "Japanese": 13,
+            "Brazilian": 12,
+            "Argentine": 8,
+            "Italian": 7,
+            "Polish": 6,
+            "Thai": 6,
+            "Albanian": 5,
+            "Lebanese": 4,
+            "Turkish": 4,
+            "Zimbabwean": 4,
+            "Belgian": 3,
+            "Cuban": 3,
+            "Korean": 3,
+            "Czech": 2,
+            "Danish": 2,
+            "Dutch": 2,
+            "Egyptian": 2,
+            "Israeli": 2,
+            "Portuguese": 2,
+            "Scottish": 2,
+            "Venezuelan": 2,
+            "Yugoslav": 2,
+            "Azerbaijani": 1,
+            "Bosnian": 1,
+            "Croatian": 1,
+            "Hungarian": 1,
+            "Icelandic": 1,
+            "Indian": 1,
+            "Irish": 1,
+            "Kenyan": 1,
+            "Lithuanian": 1,
+            "Norwegian": 1,
+            "Peruvian": 1,
+            "Romanian": 1,
+            "Russian": 1,
+            "Serbian": 1,
+            "Slovak": 1,
+            "Swedish": 1,
+            "Ugandan": 1,
+            "Uruguayan": 1
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 71,
+          "nationalities": {
+            "American": 32,
+            "Turkish": 7,
+            "British": 5,
+            "German": 5,
+            "Belgian": 3,
+            "Brazilian": 3,
+            "Austrian": 2,
+            "Bahamian": 1,
+            "Chinese": 1,
+            "Danish": 1,
+            "Dutch": 1,
+            "Ghanaian": 1,
+            "Indian": 1,
+            "Italian": 1,
+            "Japanese": 1,
+            "Korean": 1,
+            "Mexican": 1,
+            "New Zealander": 1,
+            "Scottish": 1,
+            "Slovenian": 1,
+            "Swiss": 1
+          }
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 3,
+          "nationalities": {
+            "American": 2,
+            "Mexican": 1
+          }
+        },
+        "Video": {
+          "total": 315,
+          "nationalities": {
+            "American": 142,
+            "German": 31,
+            "British": 20,
+            "French": 15,
+            "Chinese": 12,
+            "Danish": 11,
+            "Japanese": 9,
+            "Belgian": 8,
+            "Italian": 7,
+            "Mexican": 7,
+            "Swedish": 6,
+            "Israeli": 5,
+            "Brazilian": 4,
+            "Albanian": 3,
+            "Austrian": 3,
+            "Colombian": 3,
+            "Lebanese": 3,
+            "Uruguayan": 3,
+            "Canadian": 2,
+            "Indian": 2,
+            "Swiss": 2,
+            "Turkish": 2,
+            "Venezuelan": 2,
+            "Algerian": 1,
+            "Argentine": 1,
+            "Australian": 1,
+            "Croatian": 1,
+            "Czech": 1,
+            "Finnish": 1,
+            "Guatemalan": 1,
+            "Iranian": 1,
+            "Korean": 1,
+            "Russian": 1,
+            "Scottish": 1,
+            "South African": 1,
+            "Thai": 1
+          }
+        },
+        "Work on Paper": {
+          "total": 3,
+          "nationalities": {
+            "Spanish": 3
+          }
+        }
+      }
+    },
+    {
+      "decade": "2010s",
+      "all_artwork_num": 2288,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architectural Model": {
+          "total": 1,
+          "nationalities": {
+            "American": 1
+          }
+        },
+        "Architecture": {
+          "total": 170,
+          "nationalities": {
+            "American": 43,
+            "Swiss": 32,
+            "Italian": 20,
+            "French": 17,
+            "Argentine": 9,
+            "Brazilian": 8,
+            "Japanese": 6,
+            "Korean": 5,
+            "Mexican": 5,
+            "Algerian": 4,
+            "Canadian": 4,
+            "Lebanese": 4,
+            "British": 2,
+            "Chilean": 1,
+            "Chinese": 1,
+            "Croatian": 1,
+            "Cuban": 1,
+            "Macedonian": 1,
+            "Polish": 1,
+            "Serbian": 1,
+            "Slovenian": 1,
+            "Spanish": 1,
+            "Uruguayan": 1,
+            "Venezuelan": 1
+          }
+        },
+        "Audio": {
+          "total": 6,
+          "nationalities": {
+            "American": 3,
+            "Argentine": 1,
+            "British": 1,
+            "German": 1
+          }
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 294,
+          "nationalities": {
+            "American": 127,
+            "Italian": 64,
+            "Dutch": 22,
+            "Japanese": 17,
+            "Russian": 10,
+            "Israeli": 9,
+            "British": 7,
+            "Finnish": 5,
+            "French": 5,
+            "German": 5,
+            "Belgian": 3,
+            "Canadian": 3,
+            "Icelandic": 3,
+            "Australian": 2,
+            "Irish": 2,
+            "Brazilian": 1,
+            "Chinese": 1,
+            "Indian": 1,
+            "Lebanese": 1,
+            "New Zealander": 1,
+            "Serbian": 1,
+            "Spanish": 1,
+            "Swedish": 1,
+            "Swiss": 1,
+            "Welsh": 1
+          }
+        },
+        "Digital": {
+          "total": 1,
+          "nationalities": {
+            "American": 1
+          }
+        },
+        "Drawing": {
+          "total": 91,
+          "nationalities": {
+            "American": 46,
+            "Austrian": 5,
+            "Japanese": 5,
+            "German": 4,
+            "Indian": 4,
+            "Brazilian": 3,
+            "Chilean": 3,
+            "Argentine": 2,
+            "British": 2,
+            "Canadian": 2,
+            "Colombian": 2,
+            "Turkish": 2,
+            "Egyptian": 1,
+            "Icelandic": 1,
+            "Korean": 1,
+            "Malaysian": 1,
+            "Mexican": 1,
+            "Peruvian": 1,
+            "Polish": 1,
+            "Portuguese": 1,
+            "Spanish": 1,
+            "Thai": 1,
+            "Zimbabwean": 1
+          }
+        },
+        "Ephemera": {
+          "total": 34,
+          "nationalities": {
+            "American": 34
+          }
+        },
+        "Film": {
+          "total": 22,
+          "nationalities": {
+            "American": 11,
+            "Canadian": 2,
+            "British": 1,
+            "Chilean": 1,
+            "Egyptian": 1,
+            "French": 1,
+            "German": 1,
+            "Italian": 1,
+            "Korean": 1,
+            "Mexican": 1,
+            "New Zealander": 1
+          }
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Furniture and Interiors": {
+          "total": 1,
+          "nationalities": {
+            "American": 1
+          }
+        },
+        "Graphic Design": {
+          "total": 1,
+          "nationalities": {
+            "American": 1
+          }
+        },
+        "Illustrated Book": {
+          "total": 145,
+          "nationalities": {
+            "American": 75,
+            "British": 23,
+            "Indian": 17,
+            "German": 9,
+            "Canadian": 6,
+            "Brazilian": 3,
+            "Colombian": 3,
+            "Belgian": 2,
+            "Chilean": 2,
+            "Swedish": 2,
+            "Dutch": 1,
+            "French": 1,
+            "Thai": 1
+          }
+        },
+        "Installation": {
+          "total": 90,
+          "nationalities": {
+            "American": 31,
+            "Palestinian": 12,
+            "German": 9,
+            "British": 5,
+            "Lebanese": 5,
+            "Egyptian": 4,
+            "Colombian": 3,
+            "French": 3,
+            "Canadian": 2,
+            "Dutch": 2,
+            "Italian": 2,
+            "Japanese": 2,
+            "Mexican": 2,
+            "Algerian": 1,
+            "Argentine": 1,
+            "Guatemalan": 1,
+            "Indian": 1,
+            "Irish": 1,
+            "New Zealander": 1,
+            "Peruvian": 1,
+            "Scottish": 1
+          }
+        },
+        "Media": {
+          "total": 1,
+          "nationalities": {
+            "Canadian": 1
+          }
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Multiple": {
+          "total": 82,
+          "nationalities": {
+            "American": 20,
+            "Colombian": 13,
+            "German": 10,
+            "British": 4,
+            "Chinese": 4,
+            "Swiss": 4,
+            "French": 3,
+            "Thai": 3,
+            "Argentine": 2,
+            "Brazilian": 2,
+            "Korean": 2,
+            "Mexican": 2,
+            "Polish": 2,
+            "Canadian": 1,
+            "Danish": 1,
+            "Georgian": 1,
+            "Ghanaian": 1,
+            "Icelandic": 1,
+            "Israeli": 1,
+            "Japanese": 1,
+            "Romanian": 1,
+            "South African": 1,
+            "Swedish": 1,
+            "Venezuelan": 1
+          }
+        },
+        "Painting": {
+          "total": 45,
+          "nationalities": {
+            "American": 25,
+            "German": 12,
+            "British": 5,
+            "Austrian": 1,
+            "Brazilian": 1,
+            "Korean": 1
+          }
+        },
+        "Performance": {
+          "total": 5,
+          "nationalities": {
+            "American": 4,
+            "Cuban": 1
+          }
+        },
+        "Periodical": {
+          "total": 76,
+          "nationalities": {
+            "American": 20,
+            "German": 11,
+            "British": 7,
+            "Chinese": 5,
+            "French": 5,
+            "Austrian": 4,
+            "Swiss": 4,
+            "Israeli": 2,
+            "Mexican": 2,
+            "Polish": 2,
+            "Argentine": 1,
+            "Danish": 1,
+            "Egyptian": 1,
+            "Georgian": 1,
+            "Ghanaian": 1,
+            "Icelandic": 1,
+            "Indian": 1,
+            "Italian": 1,
+            "Korean": 1,
+            "Moroccan": 1,
+            "Romanian": 1,
+            "South African": 1,
+            "Swedish": 1,
+            "Ukrainian": 1
+          }
+        },
+        "Photograph": {
+          "total": 310,
+          "nationalities": {
+            "American": 146,
+            "Canadian": 27,
+            "Danish": 25,
+            "Mexican": 16,
+            "French": 15,
+            "German": 14,
+            "Japanese": 14,
+            "British": 9,
+            "South African": 7,
+            "Indian": 6,
+            "Emirati": 5,
+            "Polish": 5,
+            "Brazilian": 3,
+            "Israeli": 3,
+            "Norwegian": 3,
+            "Peruvian": 3,
+            "Russian": 2,
+            "Chinese": 1,
+            "Cuban": 1,
+            "Dutch": 1,
+            "Egyptian": 1,
+            "Italian": 1,
+            "Lebanese": 1,
+            "Native American": 1
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 3,
+          "nationalities": {
+            "American": 3
+          }
+        },
+        "Print": {
+          "total": 667,
+          "nationalities": {
+            "American": 409,
+            "British": 102,
+            "German": 39,
+            "Mexican": 18,
+            "Colombian": 14,
+            "Korean": 13,
+            "Swiss": 13,
+            "Scottish": 11,
+            "Cuban": 5,
+            "French": 5,
+            "Argentine": 4,
+            "Canadian": 4,
+            "Lebanese": 3,
+            "Austrian": 2,
+            "Brazilian": 2,
+            "Dutch": 2,
+            "Indian": 2,
+            "Italian": 2,
+            "Japanese": 2,
+            "Polish": 2,
+            "Sudanese": 2,
+            "Thai": 2,
+            "Chinese": 1,
+            "Danish": 1,
+            "Egyptian": 1,
+            "Israeli": 1,
+            "Moroccan": 1,
+            "Norwegian": 1,
+            "South African": 1,
+            "Swedish": 1,
+            "Venezuelan": 1
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 65,
+          "nationalities": {
+            "American": 31,
+            "Egyptian": 10,
+            "German": 6,
+            "French": 4,
+            "New Zealander": 3,
+            "Salvadoran": 2,
+            "Swedish": 2,
+            "Argentine": 1,
+            "Colombian": 1,
+            "Dutch": 1,
+            "Georgian": 1,
+            "Japanese": 1,
+            "Peruvian": 1,
+            "Scottish": 1
+          }
+        },
+        "Software": {
+          "total": 1,
+          "nationalities": {
+            "American": 1
+          }
+        },
+        "Textile": {
+          "total": 7,
+          "nationalities": {
+            "American": 7
+          }
+        },
+        "Video": {
+          "total": 166,
+          "nationalities": {
+            "American": 82,
+            "French": 11,
+            "German": 10,
+            "British": 8,
+            "Egyptian": 6,
+            "Brazilian": 5,
+            "Iranian": 5,
+            "Chinese": 4,
+            "Argentine": 3,
+            "Chilean": 3,
+            "Filipino": 3,
+            "Korean": 3,
+            "South African": 3,
+            "Bangladeshi": 2,
+            "Canadian": 2,
+            "Peruvian": 2,
+            "Turkish": 2,
+            "Albanian": 1,
+            "Australian": 1,
+            "Austrian": 1,
+            "Icelandic": 1,
+            "Malaysian": 1,
+            "Mexican": 1,
+            "Moroccan": 1,
+            "Palestinian": 1,
+            "Portuguese": 1,
+            "Singaporean": 1,
+            "Spanish": 1,
+            "Vietnamese": 1
+          }
+        },
+        "Work on Paper": {
+          "total": 4,
+          "nationalities": {
+            "American": 3,
+            "Spanish": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "2020s",
+      "all_artwork_num": 2,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Audio": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Collage": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Digital": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Drawing": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Ephemera": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Illustrated Book": {
+          "total": 2,
+          "nationalities": {
+            "American": 2
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Media": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Painting": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Performance": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photograph": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Poster": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Print": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Publication": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Sculpture": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Software": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Textile": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Video": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    }
+  ]
+}

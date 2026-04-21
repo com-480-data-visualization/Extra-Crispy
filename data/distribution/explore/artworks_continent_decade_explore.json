@@ -1,0 +1,248 @@
+﻿{
+  "time_buckets": [
+    {
+      "time_bucket": "1760s",
+      "all_artwork_num": 2,
+      "continents": {
+        "Europe": 2
+      }
+    },
+    {
+      "time_bucket": "1770s",
+      "all_artwork_num": 0,
+      "continents": {}
+    },
+    {
+      "time_bucket": "1780s",
+      "all_artwork_num": 0,
+      "continents": {}
+    },
+    {
+      "time_bucket": "1790s",
+      "all_artwork_num": 80,
+      "continents": {
+        "Europe": 80
+      }
+    },
+    {
+      "time_bucket": "1800s",
+      "all_artwork_num": 0,
+      "continents": {}
+    },
+    {
+      "time_bucket": "1810s",
+      "all_artwork_num": 423,
+      "continents": {
+        "Europe": 423
+      }
+    },
+    {
+      "time_bucket": "1820s",
+      "all_artwork_num": 19,
+      "continents": {
+        "Europe": 19
+      }
+    },
+    {
+      "time_bucket": "1830s",
+      "all_artwork_num": 14,
+      "continents": {
+        "Europe": 13,
+        "North America": 1
+      }
+    },
+    {
+      "time_bucket": "1840s",
+      "all_artwork_num": 140,
+      "continents": {
+        "Europe": 140
+      }
+    },
+    {
+      "time_bucket": "1850s",
+      "all_artwork_num": 596,
+      "continents": {
+        "Europe": 563,
+        "North America": 33
+      }
+    },
+    {
+      "time_bucket": "1860s",
+      "all_artwork_num": 826,
+      "continents": {
+        "North America": 459,
+        "Europe": 367
+      }
+    },
+    {
+      "time_bucket": "1870s",
+      "all_artwork_num": 618,
+      "continents": {
+        "Europe": 419,
+        "North America": 199
+      }
+    },
+    {
+      "time_bucket": "1880s",
+      "all_artwork_num": 465,
+      "continents": {
+        "Europe": 348,
+        "North America": 117
+      }
+    },
+    {
+      "time_bucket": "1890s",
+      "all_artwork_num": 1993,
+      "continents": {
+        "Europe": 1651,
+        "North America": 342
+      }
+    },
+    {
+      "time_bucket": "1900s",
+      "all_artwork_num": 3019,
+      "continents": {
+        "Europe": 2505,
+        "North America": 495,
+        "Asia": 18,
+        "South America": 1
+      }
+    },
+    {
+      "time_bucket": "1910s",
+      "all_artwork_num": 4789,
+      "continents": {
+        "Europe": 3787,
+        "North America": 981,
+        "Asia": 17,
+        "South America": 3,
+        "Oceania": 1
+      }
+    },
+    {
+      "time_bucket": "1920s",
+      "all_artwork_num": 8299,
+      "continents": {
+        "Europe": 6464,
+        "North America": 1781,
+        "Asia": 28,
+        "South America": 25,
+        "Oceania": 1
+      }
+    },
+    {
+      "time_bucket": "1930s",
+      "all_artwork_num": 7155,
+      "continents": {
+        "Europe": 3887,
+        "North America": 3147,
+        "South America": 93,
+        "Asia": 26,
+        "Oceania": 2
+      }
+    },
+    {
+      "time_bucket": "1940s",
+      "all_artwork_num": 7588,
+      "continents": {
+        "Europe": 4750,
+        "North America": 2644,
+        "South America": 103,
+        "Asia": 79,
+        "Oceania": 10,
+        "Africa": 2
+      }
+    },
+    {
+      "time_bucket": "1950s",
+      "all_artwork_num": 6410,
+      "continents": {
+        "North America": 2989,
+        "Europe": 2957,
+        "South America": 264,
+        "Asia": 188,
+        "Africa": 9,
+        "Oceania": 3
+      }
+    },
+    {
+      "time_bucket": "1960s",
+      "all_artwork_num": 14060,
+      "continents": {
+        "North America": 8273,
+        "Europe": 4451,
+        "Asia": 656,
+        "South America": 625,
+        "Oceania": 28,
+        "Africa": 27
+      }
+    },
+    {
+      "time_bucket": "1970s",
+      "all_artwork_num": 9415,
+      "continents": {
+        "North America": 5704,
+        "Europe": 2971,
+        "South America": 333,
+        "Asia": 290,
+        "Oceania": 72,
+        "Africa": 45
+      }
+    },
+    {
+      "time_bucket": "1980s",
+      "all_artwork_num": 7609,
+      "continents": {
+        "North America": 4295,
+        "Europe": 2771,
+        "South America": 251,
+        "Asia": 196,
+        "Oceania": 56,
+        "Africa": 40
+      }
+    },
+    {
+      "time_bucket": "1990s",
+      "all_artwork_num": 6085,
+      "continents": {
+        "North America": 3030,
+        "Europe": 1770,
+        "Africa": 526,
+        "Asia": 424,
+        "South America": 319,
+        "Oceania": 16
+      }
+    },
+    {
+      "time_bucket": "2000s",
+      "all_artwork_num": 5880,
+      "continents": {
+        "North America": 3137,
+        "Europe": 1878,
+        "Asia": 390,
+        "South America": 263,
+        "Africa": 203,
+        "Oceania": 9
+      }
+    },
+    {
+      "time_bucket": "2010s",
+      "all_artwork_num": 2288,
+      "continents": {
+        "North America": 1239,
+        "Europe": 679,
+        "Asia": 200,
+        "South America": 110,
+        "Africa": 51,
+        "Oceania": 9
+      }
+    },
+    {
+      "time_bucket": "2020s",
+      "all_artwork_num": 2,
+      "continents": {
+        "North America": 2
+      }
+    }
+  ]
+}

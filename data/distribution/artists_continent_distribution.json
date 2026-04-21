@@ -1,0 +1,605 @@
+﻿{
+  "genders": [
+    "Male",
+    "Female"
+  ],
+  "decades": [
+    {
+      "decade": "1730s",
+      "all_artist_num": 1,
+      "genders": {
+        "Male": {
+          "total": 1,
+          "continents": {
+            "Europe": 1
+          }
+        },
+        "Female": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1740s",
+      "all_artist_num": 1,
+      "genders": {
+        "Male": {
+          "total": 1,
+          "continents": {
+            "Europe": 1
+          }
+        },
+        "Female": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1750s",
+      "all_artist_num": 1,
+      "genders": {
+        "Male": {
+          "total": 1,
+          "continents": {
+            "Europe": 1
+          }
+        },
+        "Female": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1760s",
+      "all_artist_num": 0,
+      "genders": {
+        "Male": {
+          "total": 0,
+          "continents": {}
+        },
+        "Female": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1770s",
+      "all_artist_num": 1,
+      "genders": {
+        "Male": {
+          "total": 1,
+          "continents": {
+            "North America": 1
+          }
+        },
+        "Female": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1780s",
+      "all_artist_num": 4,
+      "genders": {
+        "Male": {
+          "total": 4,
+          "continents": {
+            "Europe": 4
+          }
+        },
+        "Female": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1790s",
+      "all_artist_num": 10,
+      "genders": {
+        "Male": {
+          "total": 9,
+          "continents": {
+            "Europe": 8,
+            "North America": 1
+          }
+        },
+        "Female": {
+          "total": 1,
+          "continents": {
+            "Europe": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1800s",
+      "all_artist_num": 18,
+      "genders": {
+        "Male": {
+          "total": 18,
+          "continents": {
+            "Europe": 18
+          }
+        },
+        "Female": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1810s",
+      "all_artist_num": 48,
+      "genders": {
+        "Male": {
+          "total": 47,
+          "continents": {
+            "Europe": 44,
+            "North America": 3
+          }
+        },
+        "Female": {
+          "total": 1,
+          "continents": {
+            "Europe": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1820s",
+      "all_artist_num": 52,
+      "genders": {
+        "Male": {
+          "total": 51,
+          "continents": {
+            "Europe": 39,
+            "North America": 12
+          }
+        },
+        "Female": {
+          "total": 1,
+          "continents": {
+            "Europe": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1830s",
+      "all_artist_num": 48,
+      "genders": {
+        "Male": {
+          "total": 46,
+          "continents": {
+            "Europe": 34,
+            "North America": 11,
+            "Asia": 1
+          }
+        },
+        "Female": {
+          "total": 2,
+          "continents": {
+            "North America": 2
+          }
+        }
+      }
+    },
+    {
+      "decade": "1840s",
+      "all_artist_num": 62,
+      "genders": {
+        "Male": {
+          "total": 60,
+          "continents": {
+            "Europe": 40,
+            "North America": 20
+          }
+        },
+        "Female": {
+          "total": 2,
+          "continents": {
+            "Europe": 1,
+            "North America": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1850s",
+      "all_artist_num": 88,
+      "genders": {
+        "Male": {
+          "total": 85,
+          "continents": {
+            "Europe": 56,
+            "North America": 29
+          }
+        },
+        "Female": {
+          "total": 3,
+          "continents": {
+            "North America": 2,
+            "Europe": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1860s",
+      "all_artist_num": 195,
+      "genders": {
+        "Male": {
+          "total": 183,
+          "continents": {
+            "Europe": 134,
+            "North America": 47,
+            "South America": 2
+          }
+        },
+        "Female": {
+          "total": 12,
+          "continents": {
+            "Europe": 6,
+            "North America": 6
+          }
+        }
+      }
+    },
+    {
+      "decade": "1870s",
+      "all_artist_num": 252,
+      "genders": {
+        "Male": {
+          "total": 227,
+          "continents": {
+            "Europe": 155,
+            "North America": 68,
+            "South America": 3,
+            "Asia": 1
+          }
+        },
+        "Female": {
+          "total": 25,
+          "continents": {
+            "Europe": 15,
+            "North America": 10
+          }
+        }
+      }
+    },
+    {
+      "decade": "1880s",
+      "all_artist_num": 498,
+      "genders": {
+        "Male": {
+          "total": 452,
+          "continents": {
+            "Europe": 297,
+            "North America": 141,
+            "Asia": 7,
+            "South America": 4,
+            "Oceania": 3
+          }
+        },
+        "Female": {
+          "total": 46,
+          "continents": {
+            "Europe": 26,
+            "North America": 19,
+            "South America": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1890s",
+      "all_artist_num": 641,
+      "genders": {
+        "Male": {
+          "total": 543,
+          "continents": {
+            "Europe": 315,
+            "North America": 185,
+            "Asia": 23,
+            "South America": 20
+          }
+        },
+        "Female": {
+          "total": 98,
+          "continents": {
+            "North America": 50,
+            "Europe": 45,
+            "Asia": 2,
+            "South America": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1900s",
+      "all_artist_num": 803,
+      "genders": {
+        "Male": {
+          "total": 683,
+          "continents": {
+            "Europe": 317,
+            "North America": 302,
+            "Asia": 35,
+            "South America": 25,
+            "Oceania": 4
+          }
+        },
+        "Female": {
+          "total": 120,
+          "continents": {
+            "North America": 66,
+            "Europe": 48,
+            "South America": 6
+          }
+        }
+      }
+    },
+    {
+      "decade": "1910s",
+      "all_artist_num": 740,
+      "genders": {
+        "Male": {
+          "total": 635,
+          "continents": {
+            "North America": 343,
+            "Europe": 219,
+            "South America": 35,
+            "Asia": 33,
+            "Oceania": 5
+          }
+        },
+        "Female": {
+          "total": 105,
+          "continents": {
+            "North America": 61,
+            "Europe": 30,
+            "South America": 11,
+            "Asia": 3
+          }
+        }
+      }
+    },
+    {
+      "decade": "1920s",
+      "all_artist_num": 1194,
+      "genders": {
+        "Male": {
+          "total": 1029,
+          "continents": {
+            "North America": 459,
+            "Europe": 413,
+            "South America": 87,
+            "Asia": 58,
+            "Africa": 9,
+            "Oceania": 3
+          }
+        },
+        "Female": {
+          "total": 165,
+          "continents": {
+            "North America": 98,
+            "Europe": 39,
+            "South America": 20,
+            "Asia": 7,
+            "Oceania": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1930s",
+      "all_artist_num": 1397,
+      "genders": {
+        "Male": {
+          "total": 1199,
+          "continents": {
+            "North America": 547,
+            "Europe": 453,
+            "Asia": 103,
+            "South America": 79,
+            "Africa": 9,
+            "Oceania": 8
+          }
+        },
+        "Female": {
+          "total": 198,
+          "continents": {
+            "North America": 113,
+            "Europe": 54,
+            "South America": 16,
+            "Asia": 13,
+            "Africa": 1,
+            "Oceania": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1940s",
+      "all_artist_num": 1470,
+      "genders": {
+        "Male": {
+          "total": 1148,
+          "continents": {
+            "North America": 610,
+            "Europe": 390,
+            "Asia": 72,
+            "South America": 52,
+            "Africa": 13,
+            "Oceania": 11
+          }
+        },
+        "Female": {
+          "total": 322,
+          "continents": {
+            "North America": 228,
+            "Europe": 67,
+            "South America": 14,
+            "Asia": 10,
+            "Africa": 2,
+            "Oceania": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1950s",
+      "all_artist_num": 1086,
+      "genders": {
+        "Male": {
+          "total": 812,
+          "continents": {
+            "North America": 408,
+            "Europe": 301,
+            "Asia": 54,
+            "South America": 32,
+            "Africa": 13,
+            "Oceania": 4
+          }
+        },
+        "Female": {
+          "total": 274,
+          "continents": {
+            "North America": 179,
+            "Europe": 64,
+            "Asia": 18,
+            "South America": 8,
+            "Africa": 4,
+            "Oceania": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1960s",
+      "all_artist_num": 1023,
+      "genders": {
+        "Male": {
+          "total": 713,
+          "continents": {
+            "Europe": 314,
+            "North America": 268,
+            "Asia": 85,
+            "South America": 27,
+            "Africa": 13,
+            "Oceania": 6
+          }
+        },
+        "Female": {
+          "total": 310,
+          "continents": {
+            "North America": 133,
+            "Europe": 125,
+            "Asia": 28,
+            "South America": 15,
+            "Africa": 7,
+            "Oceania": 2
+          }
+        }
+      }
+    },
+    {
+      "decade": "1970s",
+      "all_artist_num": 767,
+      "genders": {
+        "Male": {
+          "total": 533,
+          "continents": {
+            "North America": 236,
+            "Europe": 192,
+            "Asia": 56,
+            "South America": 28,
+            "Africa": 18,
+            "Oceania": 3
+          }
+        },
+        "Female": {
+          "total": 234,
+          "continents": {
+            "North America": 100,
+            "Europe": 80,
+            "Asia": 31,
+            "Africa": 11,
+            "South America": 10,
+            "Oceania": 2
+          }
+        }
+      }
+    },
+    {
+      "decade": "1980s",
+      "all_artist_num": 158,
+      "genders": {
+        "Male": {
+          "total": 88,
+          "continents": {
+            "North America": 41,
+            "Europe": 26,
+            "Asia": 9,
+            "Africa": 5,
+            "South America": 4,
+            "Oceania": 3
+          }
+        },
+        "Female": {
+          "total": 70,
+          "continents": {
+            "North America": 30,
+            "Europe": 24,
+            "Asia": 12,
+            "South America": 4
+          }
+        }
+      }
+    },
+    {
+      "decade": "1990s",
+      "all_artist_num": 7,
+      "genders": {
+        "Male": {
+          "total": 4,
+          "continents": {
+            "Europe": 2,
+            "North America": 2
+          }
+        },
+        "Female": {
+          "total": 3,
+          "continents": {
+            "Asia": 1,
+            "Europe": 1,
+            "North America": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "2000s",
+      "all_artist_num": 1,
+      "genders": {
+        "Male": {
+          "total": 1,
+          "continents": {
+            "Europe": 1
+          }
+        },
+        "Female": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    }
+  ]
+}

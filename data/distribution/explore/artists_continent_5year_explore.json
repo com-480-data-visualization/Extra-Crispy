@@ -1,0 +1,496 @@
+﻿{
+  "time_buckets": [
+    {
+      "time_bucket": "1730-1734",
+      "all_artist_num": 1,
+      "continents": {
+        "Europe": 1
+      }
+    },
+    {
+      "time_bucket": "1735-1739",
+      "all_artist_num": 0,
+      "continents": {}
+    },
+    {
+      "time_bucket": "1740-1744",
+      "all_artist_num": 0,
+      "continents": {}
+    },
+    {
+      "time_bucket": "1745-1749",
+      "all_artist_num": 1,
+      "continents": {
+        "Europe": 1
+      }
+    },
+    {
+      "time_bucket": "1750-1754",
+      "all_artist_num": 1,
+      "continents": {
+        "Europe": 1
+      }
+    },
+    {
+      "time_bucket": "1755-1759",
+      "all_artist_num": 0,
+      "continents": {}
+    },
+    {
+      "time_bucket": "1760-1764",
+      "all_artist_num": 0,
+      "continents": {}
+    },
+    {
+      "time_bucket": "1765-1769",
+      "all_artist_num": 0,
+      "continents": {}
+    },
+    {
+      "time_bucket": "1770-1774",
+      "all_artist_num": 1,
+      "continents": {
+        "North America": 1
+      }
+    },
+    {
+      "time_bucket": "1775-1779",
+      "all_artist_num": 0,
+      "continents": {}
+    },
+    {
+      "time_bucket": "1780-1784",
+      "all_artist_num": 1,
+      "continents": {
+        "Europe": 1
+      }
+    },
+    {
+      "time_bucket": "1785-1789",
+      "all_artist_num": 3,
+      "continents": {
+        "Europe": 3
+      }
+    },
+    {
+      "time_bucket": "1790-1794",
+      "all_artist_num": 2,
+      "continents": {
+        "Europe": 2
+      }
+    },
+    {
+      "time_bucket": "1795-1799",
+      "all_artist_num": 8,
+      "continents": {
+        "Europe": 7,
+        "North America": 1
+      }
+    },
+    {
+      "time_bucket": "1800-1804",
+      "all_artist_num": 11,
+      "continents": {
+        "Europe": 11
+      }
+    },
+    {
+      "time_bucket": "1805-1809",
+      "all_artist_num": 7,
+      "continents": {
+        "Europe": 7
+      }
+    },
+    {
+      "time_bucket": "1810-1814",
+      "all_artist_num": 22,
+      "continents": {
+        "Europe": 21,
+        "North America": 1
+      }
+    },
+    {
+      "time_bucket": "1815-1819",
+      "all_artist_num": 26,
+      "continents": {
+        "Europe": 24,
+        "North America": 2
+      }
+    },
+    {
+      "time_bucket": "1820-1824",
+      "all_artist_num": 31,
+      "continents": {
+        "Europe": 25,
+        "North America": 6
+      }
+    },
+    {
+      "time_bucket": "1825-1829",
+      "all_artist_num": 21,
+      "continents": {
+        "Europe": 15,
+        "North America": 6
+      }
+    },
+    {
+      "time_bucket": "1830-1834",
+      "all_artist_num": 33,
+      "continents": {
+        "Europe": 22,
+        "North America": 11
+      }
+    },
+    {
+      "time_bucket": "1835-1839",
+      "all_artist_num": 15,
+      "continents": {
+        "Europe": 12,
+        "North America": 2,
+        "Asia": 1
+      }
+    },
+    {
+      "time_bucket": "1840-1844",
+      "all_artist_num": 27,
+      "continents": {
+        "Europe": 18,
+        "North America": 9
+      }
+    },
+    {
+      "time_bucket": "1845-1849",
+      "all_artist_num": 35,
+      "continents": {
+        "Europe": 23,
+        "North America": 12
+      }
+    },
+    {
+      "time_bucket": "1850-1854",
+      "all_artist_num": 34,
+      "continents": {
+        "Europe": 22,
+        "North America": 12
+      }
+    },
+    {
+      "time_bucket": "1855-1859",
+      "all_artist_num": 54,
+      "continents": {
+        "Europe": 35,
+        "North America": 19
+      }
+    },
+    {
+      "time_bucket": "1860-1864",
+      "all_artist_num": 80,
+      "continents": {
+        "Europe": 63,
+        "North America": 15,
+        "South America": 2
+      }
+    },
+    {
+      "time_bucket": "1865-1869",
+      "all_artist_num": 115,
+      "continents": {
+        "Europe": 77,
+        "North America": 38
+      }
+    },
+    {
+      "time_bucket": "1870-1874",
+      "all_artist_num": 115,
+      "continents": {
+        "Europe": 73,
+        "North America": 41,
+        "South America": 1
+      }
+    },
+    {
+      "time_bucket": "1875-1879",
+      "all_artist_num": 137,
+      "continents": {
+        "Europe": 97,
+        "North America": 37,
+        "South America": 2,
+        "Asia": 1
+      }
+    },
+    {
+      "time_bucket": "1880-1884",
+      "all_artist_num": 218,
+      "continents": {
+        "Europe": 144,
+        "North America": 71,
+        "Asia": 2,
+        "Oceania": 1
+      }
+    },
+    {
+      "time_bucket": "1885-1889",
+      "all_artist_num": 280,
+      "continents": {
+        "Europe": 179,
+        "North America": 89,
+        "Asia": 5,
+        "South America": 5,
+        "Oceania": 2
+      }
+    },
+    {
+      "time_bucket": "1890-1894",
+      "all_artist_num": 292,
+      "continents": {
+        "Europe": 178,
+        "North America": 98,
+        "Asia": 8,
+        "South America": 8
+      }
+    },
+    {
+      "time_bucket": "1895-1899",
+      "all_artist_num": 349,
+      "continents": {
+        "Europe": 182,
+        "North America": 137,
+        "Asia": 17,
+        "South America": 13
+      }
+    },
+    {
+      "time_bucket": "1900-1904",
+      "all_artist_num": 416,
+      "continents": {
+        "Europe": 209,
+        "North America": 172,
+        "South America": 18,
+        "Asia": 16,
+        "Oceania": 1
+      }
+    },
+    {
+      "time_bucket": "1905-1909",
+      "all_artist_num": 387,
+      "continents": {
+        "North America": 196,
+        "Europe": 156,
+        "Asia": 19,
+        "South America": 13,
+        "Oceania": 3
+      }
+    },
+    {
+      "time_bucket": "1910-1914",
+      "all_artist_num": 396,
+      "continents": {
+        "North America": 202,
+        "Europe": 147,
+        "South America": 27,
+        "Asia": 17,
+        "Oceania": 3
+      }
+    },
+    {
+      "time_bucket": "1915-1919",
+      "all_artist_num": 344,
+      "continents": {
+        "North America": 202,
+        "Europe": 102,
+        "Asia": 19,
+        "South America": 19,
+        "Oceania": 2
+      }
+    },
+    {
+      "time_bucket": "1920-1924",
+      "all_artist_num": 581,
+      "continents": {
+        "North America": 276,
+        "Europe": 209,
+        "South America": 59,
+        "Asia": 29,
+        "Africa": 7,
+        "Oceania": 1
+      }
+    },
+    {
+      "time_bucket": "1925-1929",
+      "all_artist_num": 613,
+      "continents": {
+        "North America": 281,
+        "Europe": 243,
+        "South America": 48,
+        "Asia": 36,
+        "Oceania": 3,
+        "Africa": 2
+      }
+    },
+    {
+      "time_bucket": "1930-1934",
+      "all_artist_num": 654,
+      "continents": {
+        "North America": 303,
+        "Europe": 236,
+        "Asia": 58,
+        "South America": 51,
+        "Africa": 4,
+        "Oceania": 2
+      }
+    },
+    {
+      "time_bucket": "1935-1939",
+      "all_artist_num": 743,
+      "continents": {
+        "North America": 357,
+        "Europe": 271,
+        "Asia": 58,
+        "South America": 44,
+        "Oceania": 7,
+        "Africa": 6
+      }
+    },
+    {
+      "time_bucket": "1940-1944",
+      "all_artist_num": 801,
+      "continents": {
+        "North America": 436,
+        "Europe": 265,
+        "Asia": 47,
+        "South America": 35,
+        "Africa": 9,
+        "Oceania": 9
+      }
+    },
+    {
+      "time_bucket": "1945-1949",
+      "all_artist_num": 669,
+      "continents": {
+        "North America": 402,
+        "Europe": 192,
+        "Asia": 35,
+        "South America": 31,
+        "Africa": 6,
+        "Oceania": 3
+      }
+    },
+    {
+      "time_bucket": "1950-1954",
+      "all_artist_num": 539,
+      "continents": {
+        "North America": 315,
+        "Europe": 167,
+        "Asia": 23,
+        "South America": 20,
+        "Africa": 11,
+        "Oceania": 3
+      }
+    },
+    {
+      "time_bucket": "1955-1959",
+      "all_artist_num": 547,
+      "continents": {
+        "North America": 272,
+        "Europe": 198,
+        "Asia": 49,
+        "South America": 20,
+        "Africa": 6,
+        "Oceania": 2
+      }
+    },
+    {
+      "time_bucket": "1960-1964",
+      "all_artist_num": 524,
+      "continents": {
+        "North America": 216,
+        "Europe": 204,
+        "Asia": 59,
+        "South America": 25,
+        "Africa": 14,
+        "Oceania": 6
+      }
+    },
+    {
+      "time_bucket": "1965-1969",
+      "all_artist_num": 499,
+      "continents": {
+        "Europe": 235,
+        "North America": 185,
+        "Asia": 54,
+        "South America": 17,
+        "Africa": 6,
+        "Oceania": 2
+      }
+    },
+    {
+      "time_bucket": "1970-1974",
+      "all_artist_num": 443,
+      "continents": {
+        "North America": 186,
+        "Europe": 169,
+        "Asia": 48,
+        "Africa": 19,
+        "South America": 18,
+        "Oceania": 3
+      }
+    },
+    {
+      "time_bucket": "1975-1979",
+      "all_artist_num": 325,
+      "continents": {
+        "North America": 151,
+        "Europe": 103,
+        "Asia": 39,
+        "South America": 20,
+        "Africa": 10,
+        "Oceania": 2
+      }
+    },
+    {
+      "time_bucket": "1980-1984",
+      "all_artist_num": 115,
+      "continents": {
+        "North America": 48,
+        "Europe": 38,
+        "Asia": 16,
+        "South America": 7,
+        "Africa": 4,
+        "Oceania": 2
+      }
+    },
+    {
+      "time_bucket": "1985-1989",
+      "all_artist_num": 44,
+      "continents": {
+        "North America": 23,
+        "Europe": 13,
+        "Asia": 5,
+        "Africa": 1,
+        "Oceania": 1,
+        "South America": 1
+      }
+    },
+    {
+      "time_bucket": "1990-1994",
+      "all_artist_num": 7,
+      "continents": {
+        "Europe": 3,
+        "North America": 3,
+        "Asia": 1
+      }
+    },
+    {
+      "time_bucket": "1995-1999",
+      "all_artist_num": 0,
+      "continents": {}
+    },
+    {
+      "time_bucket": "2000-2004",
+      "all_artist_num": 1,
+      "continents": {
+        "Europe": 1
+      }
+    }
+  ]
+}
