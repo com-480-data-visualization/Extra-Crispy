@@ -1,0 +1,636 @@
+Name,ConstituentID,Nationality,Continent,Rank,Count,Gender,BeginDate,EndDate,Plot_Path,Local_Image_Path
+Anri Sala,29622,Albanian,Europe,1,5,Male,1974,0,Country_strip\Anri Sala_29622.png,country_top10_artist_images/Anri Sala.jpg
+Adrian Paci,30621,Albanian,Europe,2,3,Male,1969,0,Country_strip\Adrian Paci_30621.png,country_top10_artist_images/Adrian Paci.jpg
+Bujar Alimani,43561,Albanian,Europe,3,1,Male,1969,0,Country_strip\Bujar Alimani_43561.png,
+Edi Rama,31324,Albanian,Europe,4,1,Male,1964,0,Country_strip\Edi Rama_31324.png,country_top10_artist_images/Edi Rama.jpg
+El Hadi Jazairy,70052,Algerian,Africa,1,4,Male,1970,0,Country_strip\El Hadi Jazairy_70052.png,country_top10_artist_images/El Hadi Jazairy.jpg
+M. Fiorini,1880,Algerian,Africa,2,2,Male,1922,2008,Country_strip\M Fiorini_1880.png,country_top10_artist_images/M. Fiorini.jpg
+Neïl Beloufa,49216,Algerian,Africa,3,2,Male,1985,0,Country_strip\Neïl Beloufa_49216.png,
+Djamila Sahraoui,43626,Algerian,Africa,4,1,Female,1950,0,Country_strip\Djamila Sahraoui_43626.png,country_top10_artist_images/Djamila Sahraoui.jpg
+Lyès Salem,43595,Algerian,Africa,5,1,Male,1973,0,Country_strip\Lyès Salem_43595.png,
+Ludwig Mies van der Rohe,7166,American,North America,1,654,Male,1886,1969,Country_strip\Ludwig Mies van der Rohe_7166.png,country_top10_artist_images/Ludwig Mies van der Rohe.jpg
+Louise Bourgeois,710,American,North America,2,504,Female,1911,2010,Country_strip\Louise Bourgeois_710.png,country_top10_artist_images/Louise Bourgeois.jpg
+George Maciunas,21398,American,North America,3,493,Male,1931,1978,Country_strip\George Maciunas_21398.png,country_top10_artist_images/George Maciunas.jpg
+Lee Friedlander,2002,American,North America,4,411,Male,1934,0,Country_strip\Lee Friedlander_2002.png,country_top10_artist_images/Lee Friedlander.jpg
+Jim Dine,1547,American,North America,5,372,Male,1935,0,Country_strip\Jim Dine_1547.png,country_top10_artist_images/Jim Dine.jpg
+Frank Lloyd Wright,6459,American,North America,6,371,Male,1867,1959,Country_strip\Frank Lloyd Wright_6459.png,country_top10_artist_images/Frank Lloyd Wright.jpg
+Ben Kinmont,41829,American,North America,7,328,Male,1963,0,Country_strip\Ben Kinmont_41829.png,
+Sol LeWitt,3528,American,North America,8,324,Male,1928,2007,Country_strip\Sol LeWitt_3528.png,country_top10_artist_images/Sol LeWitt.jpg
+Raymond Pettibon,7500,American,North America,9,298,Male,1957,0,Country_strip\Raymond Pettibon_7500.png,country_top10_artist_images/Raymond Pettibon.jpg
+Robert Rauschenberg,4823,American,North America,10,293,Male,1925,2008,Country_strip\Robert Rauschenberg_4823.png,country_top10_artist_images/Robert Rauschenberg.jpg
+León Ferrari,1859,Argentine,South America,1,40,Male,1920,2013,Country_strip\León Ferrari_1859.png,country_top10_artist_images/León Ferrari.jpg
+Libero Badii,278,Argentine,South America,2,33,Male,1916,2001,Country_strip\Libero Badii_278.png,country_top10_artist_images/Libero Badii.jpg
+Luis Seoane,5343,Argentine,South America,3,31,Male,1910,1979,Country_strip\Luis Seoane_5343.png,country_top10_artist_images/Luis Seoane.jpg
+Flora Manteola,44160,Argentine,South America,4,19,Female,1936,0,Country_strip\Flora Manteola_44160.png,
+Javier Sánchez Gómez,44161,Argentine,South America,5,19,Male,1936,0,Country_strip\Javier Sánchez Gómez_44161.png,country_top10_artist_images/Javier Sánchez Gómez.jpg
+Justo Solsona,44163,Argentine,South America,6,19,Male,1931,0,Country_strip\Justo Solsona_44163.png,country_top10_artist_images/Justo Solsona.jpg
+Josefa Santos,44162,Argentine,South America,7,18,Female,1931,0,Country_strip\Josefa Santos_44162.png,
+Antonio Segui,5319,Argentine,South America,8,16,Male,1934,0,Country_strip\Antonio Segui_5319.png,country_top10_artist_images/Antonio Segui.jpg
+Emilio Ambasz,141,Argentine,South America,9,13,Male,1943,0,Country_strip\Emilio Ambasz_141.png,country_top10_artist_images/Emilio Ambasz.jpg
+Guillermo Kuitca,7122,Argentine,South America,10,13,Male,1961,0,Country_strip\Guillermo Kuitca_7122.png,country_top10_artist_images/Guillermo Kuitca.jpg
+Sidney Nolan,4325,Australian,Oceania,1,58,Male,1917,1992,Country_strip\Sidney Nolan_4325.png,country_top10_artist_images/Sidney Nolan.jpg
+Richard Bosman,689,Australian,Oceania,2,45,Male,1944,0,Country_strip\Richard Bosman_689.png,
+Fred Williams,6378,Australian,Oceania,3,14,Male,1927,1982,Country_strip\Fred Williams_6378.png,
+Tracey Moffatt,8041,Australian,Oceania,4,12,Female,1960,0,Country_strip\Tracey Moffatt_8041.png,
+Denise Green,25599,Australian,Oceania,5,5,Female,1946,0,Country_strip\Denise Green_25599.png,
+Richard Tipping,36025,Australian,Oceania,6,5,Male,1949,0,Country_strip\Richard Tipping_36025.png,country_top10_artist_images/Richard Tipping.jpg
+Marc Newson,7999,Australian,Oceania,7,4,Male,1963,0,Country_strip\Marc Newson_7999.png,country_top10_artist_images/Marc Newson.jpg
+Clement Meadmore,3902,Australian,Oceania,8,3,Male,1929,2005,Country_strip\Clement Meadmore_3902.png,
+Colin Lanceley,3355,Australian,Oceania,9,3,Male,1938,0,Country_strip\Colin Lanceley_3355.png,
+James Gleeson,48276,Australian,Oceania,10,3,Male,1915,2008,Country_strip\James Gleeson_48276.png,
+Oskar Kokoschka,3197,Austrian,Europe,1,130,Male,1886,1980,Country_strip\Oskar Kokoschka_3197.png,country_top10_artist_images/Oskar Kokoschka.jpg
+VALIE EXPORT,7816,Austrian,Europe,2,49,Female,1940,0,Country_strip\VALIE EXPORT_7816.png,country_top10_artist_images/VALIE EXPORT.jpg
+Alfred Kubin,3276,Austrian,Europe,3,47,Male,1877,1959,Country_strip\Alfred Kubin_3276.png,country_top10_artist_images/Alfred Kubin.jpg
+Günter Brus,833,Austrian,Europe,4,41,Male,1938,0,Country_strip\Günter Brus_833.png,
+Franz West,7557,Austrian,Europe,5,26,Male,1947,2012,Country_strip\Franz West_7557.png,country_top10_artist_images/Franz West.jpg
+Arnulf Rainer,4792,Austrian,Europe,6,24,Male,1929,0,Country_strip\Arnulf Rainer_4792.png,country_top10_artist_images/Arnulf Rainer.jpg
+Egon Schiele,5215,Austrian,Europe,7,19,Male,1890,1918,Country_strip\Egon Schiele_5215.png,country_top10_artist_images/Egon Schiele.jpg
+Ingrid Wiener,36433,Austrian,Europe,8,18,Female,1942,0,Country_strip\Ingrid Wiener_36433.png,
+Josef Hoffmann,2694,Austrian,Europe,9,14,Male,1870,1956,Country_strip\Josef Hoffmann_2694.png,country_top10_artist_images/Josef Hoffmann.jpg
+Walter Pichler,4612,Austrian,Europe,10,13,Male,1936,2012,Country_strip\Walter Pichler_4612.png,
+Zeigam Azizov,30858,Azerbaijani,Europe,1,1,Male,1963,0,Country_strip\Zeigam Azizov_30858.png,
+Janine Antoni,8292,Bahamian,North America,1,3,Female,1964,0,Country_strip\Janine Antoni_8292.png,
+Naeem Mohaiemen,73945,Bangladeshi,Asia,1,2,Male,1969,0,Country_strip\Naeem Mohaiemen_73945.png,
+Pierre Alechinsky,107,Belgian,Europe,1,397,Male,1927,0,Country_strip\Pierre Alechinsky_107.png,country_top10_artist_images/Pierre Alechinsky.jpg
+Frans Masereel,3814,Belgian,Europe,2,195,Male,1889,1972,Country_strip\Frans Masereel_3814.png,country_top10_artist_images/Frans Masereel.jpg
+James Ensor,1739,Belgian,Europe,3,106,Male,1860,1949,Country_strip\James Ensor_1739.png,country_top10_artist_images/James Ensor.jpg
+Marcel Broodthaers,795,Belgian,Europe,4,74,Male,1924,1976,Country_strip\Marcel Broodthaers_795.png,country_top10_artist_images/Marcel Broodthaers.jpg
+Edgard Tytgat,5994,Belgian,Europe,5,43,Male,1879,1957,Country_strip\Edgard Tytgat_5994.png,
+Pol Bury,890,Belgian,Europe,6,35,Male,1922,2005,Country_strip\Pol Bury_890.png,country_top10_artist_images/Pol Bury.jpg
+Raoul Ubac,5997,Belgian,Europe,7,33,Male,1910,1985,Country_strip\Raoul Ubac_5997.png,
+Francis Alÿs,8383,Belgian,Europe,8,23,Male,1959,0,Country_strip\Francis Alÿs_8383.png,
+Luc Tuymans,7520,Belgian,Europe,9,18,Male,1958,0,Country_strip\Luc Tuymans_7520.png,country_top10_artist_images/Luc Tuymans.jpg
+Paul Delvaux,1485,Belgian,Europe,10,18,Male,1897,1994,Country_strip\Paul Delvaux_1485.png,country_top10_artist_images/Paul Delvaux.jpg
+Romuald Hazoumè,75465,Beninese,Africa,1,3,Male,1962,0,Country_strip\Romuald Hazoumè_75465.png,country_top10_artist_images/Romuald Hazoumè.jpg
+Alfredo da Silva,1353,Bolivian,South America,1,2,Male,1935,0,Country_strip\Alfredo da Silva_1353.png,
+Alejandro Mario Yllanes,6501,Bolivian,South America,2,1,Male,1913,1960,Country_strip\Alejandro Mario Yllanes_6501.png,
+Roberto Berdecio,487,Bolivian,South America,3,1,Male,1913,1996,Country_strip\Roberto Berdecio_487.png,
+Zlatko Ugljen,50030,Bosnian,Europe,1,4,Male,1929,0,Country_strip\Zlatko Ugljen_50030.png,
+Braco Dimitrijević,28358,Bosnian,Europe,2,2,Male,1948,0,Country_strip\Braco Dimitrijević_28358.png,
+Ivan Štraus,67097,Bosnian,Europe,3,2,Male,1928,2018,Country_strip\Ivan Štraus_67097.png,
+Fehim Demir/Agence France-Presse,8532,Bosnian,Europe,4,1,Male,1959,0,Country_strip\Fehim DemirAgence FrancePresse_8532.png,
+Jasmila Žbanić,49639,Bosnian,Europe,5,1,Female,1974,0,Country_strip\Jasmila Žbanić_49639.png,country_top10_artist_images/Jasmila Žbanić.jpg
+Sejla Kameric,30953,Bosnian,Europe,6,1,Female,1976,0,Country_strip\Sejla Kameric_30953.png,country_top10_artist_images/Sejla Kameric.jpg
+Vlada Petric,49714,Bosnian,Europe,7,1,Male,1928,0,Country_strip\Vlada Petric_49714.png,
+Carybé (Hector Bernabó),1003,Brazilian,South America,1,47,Male,1911,1997,Country_strip\Carybé Hector Bernabó_1003.png,country_top10_artist_images/Carybé (Hector Bernabó).jpg
+Vik Muniz,7818,Brazilian,South America,2,32,Male,1961,0,Country_strip\Vik Muniz_7818.png,country_top10_artist_images/Vik Muniz.jpg
+Mauro Restiffe,68281,Brazilian,South America,3,21,Male,1970,0,Country_strip\Mauro Restiffe_68281.png,
+Almir Mavignier,3858,Brazilian,South America,4,18,Male,1925,0,Country_strip\Almir Mavignier_3858.png,
+Lygia Clark,27445,Brazilian,South America,5,18,Female,1920,1988,Country_strip\Lygia Clark_27445.png,country_top10_artist_images/Lygia Clark.jpg
+Mira Schendel,7961,Brazilian,South America,6,17,Female,1919,1988,Country_strip\Mira Schendel_7961.png,
+Lasar Segall,5317,Brazilian,South America,7,15,Male,1889,1957,Country_strip\Lasar Segall_5317.png,country_top10_artist_images/Lasar Segall.jpg
+Hélio Oiticica,7715,Brazilian,South America,8,14,Male,1937,1980,Country_strip\Hélio Oiticica_7715.png,country_top10_artist_images/Hélio Oiticica.jpg
+Maria Martins,3767,Brazilian,South America,9,14,Female,1894,1973,Country_strip\Maria Martins_3767.png,
+Oscar Niemeyer,8103,Brazilian,South America,10,13,Male,1907,2012,Country_strip\Oscar Niemeyer_8103.png,country_top10_artist_images/Oscar Niemeyer.jpg
+Thomas Bewick,542,British,Europe,1,324,Male,1753,1828,Country_strip\Thomas Bewick_542.png,country_top10_artist_images/Thomas Bewick.jpg
+John Thomson,5863,British,Europe,2,237,Male,1837,1921,Country_strip\John Thomson_5863.png,country_top10_artist_images/John Thomson.jpg
+David Hockney,2678,British,Europe,3,214,Male,1937,0,Country_strip\David Hockney_2678.png,country_top10_artist_images/David Hockney.jpg
+Eduardo Paolozzi,4488,British,Europe,4,170,Male,1924,2005,Country_strip\Eduardo Paolozzi_4488.png,country_top10_artist_images/Eduardo Paolozzi.jpg
+Francis Frith,2015,British,Europe,5,152,Male,1822,1898,Country_strip\Francis Frith_2015.png,country_top10_artist_images/Francis Frith.jpg
+Alfred Capel Cure,959,British,Europe,6,141,Male,1826,1896,Country_strip\Alfred Capel Cure_959.png,
+Henry Moore,4071,British,Europe,7,111,Male,1898,1986,Country_strip\Henry Moore_4071.png,country_top10_artist_images/Henry Moore.jpg
+Edward Burne-Jones,879,British,Europe,8,89,Male,1833,1898,Country_strip\Edward BurneJones_879.png,country_top10_artist_images/Edward Burne-Jones.jpg
+Bruce McLean,3889,British,Europe,9,77,Male,1944,0,Country_strip\Bruce McLean_3889.png,
+Bill Brandt,740,British,Europe,10,76,Male,1904,1983,Country_strip\Bill Brandt_740.png,
+Nedko Solakov,8494,Bulgarian,Europe,1,6,Male,1957,0,Country_strip\Nedko Solakov_8494.png,
+Nikolay Diulgheroff,69486,Bulgarian,Europe,2,1,Male,1901,1982,Country_strip\Nikolay Diulgheroff_69486.png,country_top10_artist_images/Nikolay Diulgheroff.jpg
+Sanlé Sory,75015,Burkinabe,Africa,1,8,Male,1943,0,Country_strip\Sanlé Sory_75015.png,country_top10_artist_images/Sanlé Sory.jpg
+Nhem Ein,33069,Cambodian,Asia,1,6,Male,1959,0,Country_strip\Nhem Ein_33069.png,
+Barthelemy Toguo,38243,Cameroonian,Africa,1,13,Male,1967,0,Country_strip\Barthelemy Toguo_38243.png,country_top10_artist_images/Barthelemy Toguo.jpg
+General Idea,7474,Canadian,North America,1,104,Male,1969,1994,Country_strip\General Idea_7474.png,
+Steve Reinke,34915,Canadian,North America,2,100,Male,1963,0,Country_strip\Steve Reinke_34915.png,
+Rodney Graham,25983,Canadian,North America,3,57,Male,1949,0,Country_strip\Rodney Graham_25983.png,
+Rolf Harder,32655,Canadian,North America,4,50,Male,1929,2013,Country_strip\Rolf Harder_32655.png,country_top10_artist_images/Rolf Harder.jpg
+Roloff Beny,484,Canadian,North America,5,23,Male,1924,1984,Country_strip\Roloff Beny_484.png,country_top10_artist_images/Roloff Beny.jpg
+Alexander Henderson,2590,Canadian,North America,6,17,Male,1831,1913,Country_strip\Alexander Henderson_2590.png,
+Sara Cwynar,40166,Canadian,North America,7,16,Female,1985,0,Country_strip\Sara Cwynar_40166.png,
+Geoffrey James,7160,Canadian,North America,8,15,Male,1942,0,Country_strip\Geoffrey James_7160.png,country_top10_artist_images/Geoffrey James.jpg
+Jon Pylypchuk,28877,Canadian,North America,9,14,Male,1973,0,Country_strip\Jon Pylypchuk_28877.png,
+Marcel Dzama,27712,Canadian,North America,10,12,Male,1974,0,Country_strip\Marcel Dzama_27712.png,country_top10_artist_images/Marcel Dzama.jpg
+Akesuk Tudlik,5964,Canadian Inuit,North America,1,3,Male,1890,1966,Country_strip\Akesuk Tudlik_5964.png,
+Iyola,2852,Canadian Inuit,North America,2,2,Male,1933,2000,Country_strip\Iyola_2852.png,
+Parr,4505,Canadian Inuit,North America,3,2,Male,1893,1969,Country_strip\Parr_4505.png,country_top10_artist_images/Parr.jpg
+Roberto Matta,3842,Chilean,South America,1,205,Male,1911,2002,Country_strip\Roberto Matta_3842.png,country_top10_artist_images/Roberto Matta.jpg
+Enrique Zañartu,6541,Chilean,South America,2,26,Male,1921,2000,Country_strip\Enrique Zañartu_6541.png,
+Julio Palazuelos,4473,Chilean,South America,3,25,Male,1931,2014,Country_strip\Julio Palazuelos_4473.png,
+Salvador Bru,819,Chilean,South America,4,20,Male,1923,0,Country_strip\Salvador Bru_819.png,
+Juan Downey,1606,Chilean,South America,5,14,Male,1940,1993,Country_strip\Juan Downey_1606.png,
+Nemesio Antúnez,199,Chilean,South America,6,14,Male,1918,1993,Country_strip\Nemesio Antúnez_199.png,country_top10_artist_images/Nemesio Antúnez.jpg
+Sergio Gonzalez-Tornero,2232,Chilean,South America,7,10,Male,1927,0,Country_strip\Sergio GonzalezTornero_2232.png,country_top10_artist_images/Sergio Gonzalez-Tornero.jpg
+Alfredo Jaar,7477,Chilean,South America,8,6,Male,1956,0,Country_strip\Alfredo Jaar_7477.png,country_top10_artist_images/Alfredo Jaar.jpg
+Paz Errázuriz,49166,Chilean,South America,9,6,Female,1941,0,Country_strip\Paz Errázuriz_49166.png,
+Sandra Vásquez de la Horra,67675,Chilean,South America,10,6,Female,1967,0,Country_strip\Sandra Vásquez de la Horra_67675.png,
+Paul Chan,26867,Chinese,Asia,1,19,Male,1973,0,Country_strip\Paul Chan_26867.png,country_top10_artist_images/Paul Chan.jpg
+Hong Hao,26884,Chinese,Asia,2,15,Male,1965,0,Country_strip\Hong Hao_26884.png,country_top10_artist_images/Hong Hao.jpg
+Fang Lijun,26839,Chinese,Asia,3,14,Male,1963,0,Country_strip\Fang Lijun_26839.png,
+Qiu Anxiong,37946,Chinese,Asia,4,14,Male,1972,0,Country_strip\Qiu Anxiong_37946.png,
+Xu Bing,29817,Chinese,Asia,5,14,Male,1955,0,Country_strip\Xu Bing_29817.png,country_top10_artist_images/Xu Bing.jpg
+Ai Weiwei,34722,Chinese,Asia,6,13,Male,1957,0,Country_strip\Ai Weiwei_34722.png,country_top10_artist_images/Ai Weiwei.jpg
+Song Dong,36892,Chinese,Asia,7,11,Male,1966,0,Country_strip\Song Dong_36892.png,country_top10_artist_images/Song Dong.jpg
+Leng Lin,67453,Chinese,Asia,8,9,Male,1965,0,Country_strip\Leng Lin_67453.png,country_top10_artist_images/Leng Lin.jpg
+Liu Jianhua,67452,Chinese,Asia,9,9,Male,1962,0,Country_strip\Liu Jianhua_67452.png,country_top10_artist_images/Liu Jianhua.jpg
+Xiao Yu,67451,Chinese,Asia,10,9,Male,1965,0,Country_strip\Xiao Yu_67451.png,country_top10_artist_images/Xiao Yu.jpg
+José Antonio Suárez Londoño,26770,Colombian,South America,1,236,Male,1955,0,Country_strip\José Antonio Suárez Londoño_26770.png,country_top10_artist_images/José Antonio Suárez Londoño.jpg
+Omar Rayo,4831,Colombian,South America,2,53,Male,1928,2010,Country_strip\Omar Rayo_4831.png,country_top10_artist_images/Omar Rayo.jpg
+Nicolás Paris,43702,Colombian,South America,3,32,Male,1977,0,Country_strip\Nicolás Paris_43702.png,
+Leonel Gongora,2228,Colombian,South America,4,29,Male,1932,0,Country_strip\Leonel Gongora_2228.png,country_top10_artist_images/Leonel Gongora.jpg
+Álvaro Barrios,26617,Colombian,South America,5,25,Male,1945,0,Country_strip\Álvaro Barrios_26617.png,
+Beatriz González,36415,Colombian,South America,6,20,Female,1938,0,Country_strip\Beatriz González_36415.png,country_top10_artist_images/Beatriz González.jpg
+Mateo López,38678,Colombian,South America,7,10,Male,1978,0,Country_strip\Mateo López_38678.png,country_top10_artist_images/Mateo López.jpg
+Leo Matiz,33398,Colombian,South America,8,6,Male,1917,1998,Country_strip\Leo Matiz_33398.png,
+Raimond Chaves,35080,Colombian,South America,9,5,Male,1963,0,Country_strip\Raimond Chaves_35080.png,country_top10_artist_images/Raimond Chaves.jpg
+Rosemberg Sandoval,47554,Colombian,South America,10,5,Male,1959,0,Country_strip\Rosemberg Sandoval_47554.png,
+Jean Depara,75463,Congolese,Africa,1,9,Male,1928,1997,Country_strip\Jean Depara_75463.png,
+Bodys Isek Kingelez,68319,Congolese,Africa,2,3,Male,1948,2015,Country_strip\Bodys Isek Kingelez_68319.png,
+Chéri Samba,25299,Congolese,Africa,3,3,Male,1956,0,Country_strip\Chéri Samba_25299.png,
+"Ambroise Ngaimoko, Studio 3Z",75468,Congolese,Africa,4,2,Male,1949,0,Country_strip\Ambroise Ngaimoko Studio 3Z_75468.png,
+Christian Belpaire,458,Congolese,Africa,5,2,Male,1949,2003,Country_strip\Christian Belpaire_458.png,country_top10_artist_images/Christian Belpaire.jpg
+Moke,75467,Congolese,Africa,6,2,Male,1950,2001,Country_strip\Moke_75467.png,
+Max Jiménez,2915,Costa Rican,North America,1,62,Male,1908,1949,Country_strip\Max Jiménez_2915.png,
+Francisco Amighetti Ruiz,150,Costa Rican,North America,2,2,Male,1907,1998,Country_strip\Francisco Amighetti Ruiz_150.png,
+Boris Bućan,840,Croatian,Europe,1,22,Male,1947,0,Country_strip\Boris Bućan_840.png,country_top10_artist_images/Boris Bućan.jpg
+Sanja Iveković,30946,Croatian,Europe,2,17,Female,1949,0,Country_strip\Sanja Iveković_30946.png,country_top10_artist_images/Sanja Iveković.jpg
+Ivan Picelj,4611,Croatian,Europe,3,12,Male,1924,2011,Country_strip\Ivan Picelj_4611.png,
+Mangelos (Dimitrije Bašičević),29439,Croatian,Europe,4,10,Male,1921,0,Country_strip\Mangelos Dimitrije Bašičević_29439.png,
+Josip Vaništa,41131,Croatian,Europe,5,8,Male,1924,2018,Country_strip\Josip Vaništa_41131.png,
+Tomislav Gotovac,40680,Croatian,Europe,6,5,Male,1937,2010,Country_strip\Tomislav Gotovac_40680.png,
+David Maljković,32907,Croatian,Europe,7,4,Male,1973,0,Country_strip\David Maljković_32907.png,
+Dalibor Martinis,35617,Croatian,Europe,8,2,Male,1947,0,Country_strip\Dalibor Martinis_35617.png,
+Ivan Kožarić,41554,Croatian,Europe,9,2,Male,1921,0,Country_strip\Ivan Kožarić_41554.png,
+Radovan Sredić,48225,Croatian,Europe,10,2,Male,1955,0,Country_strip\Radovan Sredić_48225.png,
+Wifredo Lam,3349,Cuban,North America,1,18,Male,1902,1982,Country_strip\Wifredo Lam_3349.png,country_top10_artist_images/Wifredo Lam.jpg
+Antonio Fernandez Reboiro,48036,Cuban,North America,2,14,Male,1935,0,Country_strip\Antonio Fernandez Reboiro_48036.png,
+Agustín Fernández,1854,Cuban,North America,3,10,Male,1928,2006,Country_strip\Agustín Fernández_1854.png,
+Marco Castillo,8305,Cuban,North America,4,8,Male,1971,0,Country_strip\Marco Castillo_8305.png,
+Dagoberto Rodriguez,8307,Cuban,North America,5,7,Male,1969,0,Country_strip\Dagoberto Rodriguez_8307.png,country_top10_artist_images/Dagoberto Rodriguez.jpg
+Carmen Herrera,30075,Cuban,North America,6,5,Female,1915,0,Country_strip\Carmen Herrera_30075.png,
+Alexandre Arrechea,8306,Cuban,North America,7,4,Male,1970,0,Country_strip\Alexandre Arrechea_8306.png,country_top10_artist_images/Alexandre Arrechea.jpg
+Alfredo Rostgaard,5037,Cuban,North America,8,4,Male,1943,0,Country_strip\Alfredo Rostgaard_5037.png,
+Felix Beltran,42348,Cuban,North America,9,4,Male,1938,0,Country_strip\Felix Beltran_42348.png,
+Amelia Peláez Del Casal,4541,Cuban,North America,10,3,Female,1896,1968,Country_strip\Amelia Peláez Del Casal_4541.png,country_top10_artist_images/Amelia Peláez Del Casal.jpg
+Michael Anastassiades,29031,Cypriot,Europe,1,1,Male,1967,0,Country_strip\Michael Anastassiades_29031.png,
+František Kupka,3302,Czech,Europe,1,173,Male,1871,1957,Country_strip\František Kupka_3302.png,country_top10_artist_images/František Kupka.jpg
+Milan Knížák,29427,Czech,Europe,2,127,Male,1940,0,Country_strip\Milan Knížák_29427.png,country_top10_artist_images/Milan Knížák.jpg
+Zdeněk Rossmann,8254,Czech,Europe,3,48,Male,1905,1984,Country_strip\Zdeněk Rossmann_8254.png,
+Augustin Tschinkel,5952,Czech,Europe,4,29,Male,1905,0,Country_strip\Augustin Tschinkel_5952.png,
+František Kalivoda,8251,Czech,Europe,5,21,Male,1913,1971,Country_strip\František Kalivoda_8251.png,
+Jirí Balcar,303,Czech,Europe,6,21,Male,1929,1968,Country_strip\Jirí Balcar_303.png,
+Josef Koudelka,3229,Czech,Europe,7,15,Male,1938,0,Country_strip\Josef Koudelka_3229.png,country_top10_artist_images/Josef Koudelka.jpg
+Karel Teige,5826,Czech,Europe,8,7,Male,1900,1951,Country_strip\Karel Teige_5826.png,country_top10_artist_images/Karel Teige.jpg
+Alphonse Mucha,4136,Czech,Europe,9,6,Male,1860,1939,Country_strip\Alphonse Mucha_4136.png,country_top10_artist_images/Alphonse Mucha.jpg
+Jindrich Streit,6984,Czech,Europe,10,6,Male,1946,0,Country_strip\Jindrich Streit_6984.png,country_top10_artist_images/Jindrich Streit.jpg
+Petr Tučný,48669,Czechoslovakian,Europe,1,1,Male,1920,2012,Country_strip\Petr Tučný_48669.png,country_top10_artist_images/Petr Tučný.jpg
+Asger Jorn,2943,Danish,Europe,1,38,Male,1914,1973,Country_strip\Asger Jorn_2943.png,country_top10_artist_images/Asger Jorn.jpg
+Per Kirkeby,3118,Danish,Europe,2,32,Male,1938,2018,Country_strip\Per Kirkeby_3118.png,
+Troels Wörsel,6453,Danish,Europe,3,30,Male,1950,0,Country_strip\Troels Wörsel_6453.png,
+Axel Salto,5128,Danish,Europe,4,28,Male,1889,1961,Country_strip\Axel Salto_5128.png,
+Ulrik Heltoft,74387,Danish,Europe,5,25,Male,1973,0,Country_strip\Ulrik Heltoft_74387.png,
+Eric Andersen,36940,Danish,Europe,6,16,Male,1940,0,Country_strip\Eric Andersen_36940.png,country_top10_artist_images/Eric Andersen.jpg
+Jacob Jensen,2909,Danish,Europe,7,14,Male,1926,2015,Country_strip\Jacob Jensen_2909.png,country_top10_artist_images/Jacob Jensen.jpg
+Richard Mortensen,4113,Danish,Europe,8,14,Male,1910,1993,Country_strip\Richard Mortensen_4113.png,country_top10_artist_images/Richard Mortensen.jpg
+Arne Jacobsen,2869,Danish,Europe,9,12,Male,1902,1971,Country_strip\Arne Jacobsen_2869.png,country_top10_artist_images/Arne Jacobsen.jpg
+Henning Christiansen,36942,Danish,Europe,10,11,Male,1932,2008,Country_strip\Henning Christiansen_36942.png,
+Rudy VanderLans,30187,Dutch,Europe,1,70,Male,1955,0,Country_strip\Rudy VanderLans_30187.png,
+Piet Zwart,6592,Dutch,Europe,2,56,Male,1885,1977,Country_strip\Piet Zwart_6592.png,country_top10_artist_images/Piet Zwart.jpg
+Fré Cohen,67665,Dutch,Europe,3,48,Female,1903,1943,Country_strip\Fré Cohen_67665.png,country_top10_artist_images/Fré Cohen.jpg
+Irma Boom,33693,Dutch,Europe,4,43,Female,1960,0,Country_strip\Irma Boom_33693.png,country_top10_artist_images/Irma Boom.jpg
+Jan Dibbets,1533,Dutch,Europe,5,40,Male,1941,0,Country_strip\Jan Dibbets_1533.png,country_top10_artist_images/Jan Dibbets.jpg
+Theo van Doesburg,6076,Dutch,Europe,6,34,Male,1883,1931,Country_strip\Theo van Doesburg_6076.png,country_top10_artist_images/Theo van Doesburg.jpg
+Willem Jacob Henri Berend Sandberg,5144,Dutch,Europe,7,33,Male,1897,1984,Country_strip\Willem Jacob Henri Berend Sandberg_5144.png,country_top10_artist_images/Willem Jacob Henri Berend Sandberg.jpg
+Paul Schuitema,5273,Dutch,Europe,8,31,Male,1897,1973,Country_strip\Paul Schuitema_5273.png,country_top10_artist_images/Paul Schuitema.jpg
+Stanley Brouwn,29982,Dutch,Europe,9,27,Male,1935,2017,Country_strip\Stanley Brouwn_29982.png,country_top10_artist_images/Stanley Brouwn.jpg
+Diederick Van Kleef,6083,Dutch,Europe,10,24,Male,1954,0,Country_strip\Diederick Van Kleef_6083.png,
+Galo Galecio,2055,Ecuadorian,South America,1,3,Male,1908,1993,Country_strip\Galo Galecio_2055.png,
+Peter Mussfeldt,4190,Ecuadorian,South America,2,2,Male,1938,0,Country_strip\Peter Mussfeldt_4190.png,
+Diógenes Paredes,4494,Ecuadorian,South America,3,1,Male,1910,1968,Country_strip\Diógenes Paredes_4494.png,
+Oswaldo Guayasamín,2386,Ecuadorian,South America,4,1,Male,1919,1999,Country_strip\Oswaldo Guayasamín_2386.png,
+Wael Shawky,41664,Egyptian,Africa,1,16,Male,1971,0,Country_strip\Wael Shawky_41664.png,country_top10_artist_images/Wael Shawky.jpg
+Basim Magdy,47821,Egyptian,Africa,2,5,Male,1977,0,Country_strip\Basim Magdy_47821.png,country_top10_artist_images/Basim Magdy.jpg
+Ecke Bonk,30869,Egyptian,Africa,3,3,Male,1953,0,Country_strip\Ecke Bonk_30869.png,
+Iman Issa,49198,Egyptian,Africa,4,3,Female,1979,0,Country_strip\Iman Issa_49198.png,country_top10_artist_images/Iman Issa.jpg
+Karim Rashid,27759,Egyptian,Africa,5,1,Male,1960,0,Country_strip\Karim Rashid_27759.png,country_top10_artist_images/Karim Rashid.jpg
+Mohammad Shawky Hassan,67189,Egyptian,Africa,6,1,Male,1981,0,Country_strip\Mohammad Shawky Hassan_67189.png,country_top10_artist_images/Mohammad Shawky Hassan.jpg
+Farah Al Qasimi,131770,Emirati,Asia,1,5,Female,1991,0,Country_strip\Farah Al Qasimi_131770.png,
+Jüri Arrak,12,Estonian,Europe,1,1,Male,1936,0,Country_strip\Jüri Arrak_12.png,country_top10_artist_images/Jüri Arrak.jpg
+Skunder (Skunder Boghossian),5467,Ethiopian,Africa,1,1,Male,1937,2003,Country_strip\Skunder Skunder Boghossian_5467.png,country_top10_artist_images/Skunder (Skunder Boghossian).jpg
+Lav Diaz,48886,Filipino,Asia,1,4,Male,1958,0,Country_strip\Lav Diaz_48886.png,country_top10_artist_images/Lav Diaz.jpg
+David Medalla,72375,Filipino,Asia,2,1,Male,1942,0,Country_strip\David Medalla_72375.png,
+Alvar Aalto,34,Finnish,Europe,1,26,Male,1898,1976,Country_strip\Alvar Aalto_34.png,country_top10_artist_images/Alvar Aalto.jpg
+Riiko Sakkinen,28784,Finnish,Europe,2,18,Male,1976,0,Country_strip\Riiko Sakkinen_28784.png,
+Kaj Franck,1968,Finnish,Europe,3,12,Male,1911,1989,Country_strip\Kaj Franck_1968.png,country_top10_artist_images/Kaj Franck.jpg
+Timo Sarpaneva,5168,Finnish,Europe,4,11,Male,1926,2006,Country_strip\Timo Sarpaneva_5168.png,country_top10_artist_images/Timo Sarpaneva.jpg
+Tapio Wirkkala,6409,Finnish,Europe,5,9,Male,1915,1985,Country_strip\Tapio Wirkkala_6409.png,country_top10_artist_images/Tapio Wirkkala.jpg
+Caroline Slotte,131528,Finnish,Europe,6,6,Female,1975,0,Country_strip\Caroline Slotte_131528.png,
+Saara Hopea,2724,Finnish,Europe,7,6,Female,1925,1984,Country_strip\Saara Hopea_2724.png,country_top10_artist_images/Saara Hopea.jpg
+Antti Nurmesniemi,6613,Finnish,Europe,8,3,Male,1927,2003,Country_strip\Antti Nurmesniemi_6613.png,
+Göran Hongell,2720,Finnish,Europe,9,3,Male,1902,1973,Country_strip\Göran Hongell_2720.png,
+Tom of Finland,28835,Finnish,Europe,10,3,Male,1920,1991,Country_strip\Tom of Finland_28835.png,country_top10_artist_images/Tom of Finland.jpg
+Eugène Atget,229,French,Europe,1,2725,Male,1857,1927,Country_strip\Eugène Atget_229.png,country_top10_artist_images/Eugène Atget.jpg
+Jean Dubuffet,1633,French,Europe,2,987,Male,1901,1985,Country_strip\Jean Dubuffet_1633.png,country_top10_artist_images/Jean Dubuffet.jpg
+Henri Matisse,3832,French,Europe,3,979,Male,1869,1954,Country_strip\Henri Matisse_3832.png,country_top10_artist_images/Henri Matisse.jpg
+Marc Chagall,1055,French,Europe,4,972,Male,1887,1985,Country_strip\Marc Chagall_1055.png,country_top10_artist_images/Marc Chagall.jpg
+Pierre Bonnard,665,French,Europe,5,902,Male,1867,1947,Country_strip\Pierre Bonnard_665.png,country_top10_artist_images/Pierre Bonnard.jpg
+Émile Bernard,511,French,Europe,6,628,Male,1868,1941,Country_strip\Émile Bernard_511.png,country_top10_artist_images/Émile Bernard.jpg
+Georges Rouault,5053,French,Europe,7,590,Male,1871,1958,Country_strip\Georges Rouault_5053.png,country_top10_artist_images/Georges Rouault.jpg
+André Derain,1500,French,Europe,8,557,Male,1880,1954,Country_strip\André Derain_1500.png,country_top10_artist_images/André Derain.jpg
+Raoul Dufy,1646,French,Europe,9,527,Male,1877,1953,Country_strip\Raoul Dufy_1646.png,country_top10_artist_images/Raoul Dufy.jpg
+Maurice Denis,1492,French,Europe,10,494,Male,1870,1943,Country_strip\Maurice Denis_1492.png,country_top10_artist_images/Maurice Denis.jpg
+Andro Wekua,28852,Georgian,Europe,1,6,Male,1977,0,Country_strip\Andro Wekua_28852.png,
+Lado Gudiashvili,23528,Georgian,Europe,2,3,Male,1896,1980,Country_strip\Lado Gudiashvili_23528.png,country_top10_artist_images/Lado Gudiashvili.jpg
+Iraklii Gamrekeli,12650,Georgian,Europe,3,1,Male,1894,1943,Country_strip\Iraklii Gamrekeli_12650.png,
+Lana Gogoberidze,46057,Georgian,Europe,4,1,Female,1928,0,Country_strip\Lana Gogoberidze_46057.png,country_top10_artist_images/Lana Gogoberidze.jpg
+Thea Djordjadze,47891,Georgian,Europe,5,1,Female,1971,0,Country_strip\Thea Djordjadze_47891.png,
+August Sander,5145,German,Europe,1,553,Male,1876,1964,Country_strip\August Sander_5145.png,country_top10_artist_images/August Sander.jpg
+Martin Kippenberger,3111,German,Europe,2,217,Male,1953,1997,Country_strip\Martin Kippenberger_3111.png,country_top10_artist_images/Martin Kippenberger.jpg
+Max Beckmann,429,German,Europe,3,208,Male,1884,1950,Country_strip\Max Beckmann_429.png,country_top10_artist_images/Max Beckmann.jpg
+Thomas Schütte,5281,German,Europe,4,202,Male,1954,0,Country_strip\Thomas Schütte_5281.png,country_top10_artist_images/Thomas Schütte.jpg
+Lovis Corinth,1243,German,Europe,5,172,Male,1858,1925,Country_strip\Lovis Corinth_1243.png,country_top10_artist_images/Lovis Corinth.jpg
+Ernst Ludwig Kirchner,3115,German,Europe,6,162,Male,1880,1938,Country_strip\Ernst Ludwig Kirchner_3115.png,country_top10_artist_images/Ernst Ludwig Kirchner.jpg
+Michael Schmidt,5238,German,Europe,7,160,Male,1945,2014,Country_strip\Michael Schmidt_5238.png,country_top10_artist_images/Michael Schmidt.jpg
+Kurt Schwitters,5293,German,Europe,8,150,Male,1887,1948,Country_strip\Kurt Schwitters_5293.png,country_top10_artist_images/Kurt Schwitters.jpg
+Paul Klee,3130,German,Europe,9,141,Male,1879,1940,Country_strip\Paul Klee_3130.png,country_top10_artist_images/Paul Klee.jpg
+Franz Erhard Walther,7662,German,Europe,10,116,Male,1939,0,Country_strip\Franz Erhard Walther_7662.png,country_top10_artist_images/Franz Erhard Walther.jpg
+El Anatsui,34619,Ghanaian,Africa,1,3,Male,1944,0,Country_strip\El Anatsui_34619.png,
+Jannis Kounellis,3230,Greek,Europe,1,7,Male,1936,2017,Country_strip\Jannis Kounellis_3230.png,country_top10_artist_images/Jannis Kounellis.jpg
+Nikos Hadjikyriakos-Ghika,7050,Greek,Europe,2,2,Male,1906,1994,Country_strip\Nikos HadjikyriakosGhika_7050.png,
+Pavlos,4527,Greek,Europe,3,2,Male,1930,0,Country_strip\Pavlos_4527.png,country_top10_artist_images/Pavlos.jpg
+Constantine Manos,3734,Greek,Europe,4,1,Male,1934,0,Country_strip\Constantine Manos_3734.png,country_top10_artist_images/Constantine Manos.jpg
+Michail Bletsas,33373,Greek,Europe,5,1,Male,1967,0,Country_strip\Michail Bletsas_33373.png,country_top10_artist_images/Michail Bletsas.jpg
+Nelly (Elli Sougioultzoglou-Seraidari),131935,Greek,Europe,6,1,Female,1899,1998,Country_strip\Nelly Elli SougioultzoglouSeraidari_131935.png,country_top10_artist_images/Nelly (Elli Sougioultzoglou-Seraidari).jpg
+Takis Marthas,3786,Greek,Europe,7,1,Male,1905,1965,Country_strip\Takis Marthas_3786.png,country_top10_artist_images/Takis Marthas.jpg
+Théo Angelopoulos,46027,Greek,Europe,8,1,Male,1935,2012,Country_strip\Théo Angelopoulos_46027.png,country_top10_artist_images/Théo Angelopoulos.jpg
+Carlos Mérida,3935,Guatemalan,North America,1,23,Male,1891,1984,Country_strip\Carlos Mérida_3935.png,
+Rodolfo Abularach,52,Guatemalan,North America,2,8,Male,1933,0,Country_strip\Rodolfo Abularach_52.png,country_top10_artist_images/Rodolfo Abularach.jpg
+Regina José Galindo,67949,Guatemalan,North America,3,2,Female,1974,0,Country_strip\Regina José Galindo_67949.png,country_top10_artist_images/Regina José Galindo.jpg
+Roberto González Goyri,2230,Guatemalan,North America,4,1,Male,1924,2007,Country_strip\Roberto González Goyri_2230.png,
+Roberto Ossaye,4440,Guatemalan,North America,5,1,Male,1927,1954,Country_strip\Roberto Ossaye_4440.png,country_top10_artist_images/Roberto Ossaye.jpg
+Rodolfo (Rodolfo Mishaan Pinto) Mishaan,4020,Guatemalan,North America,6,1,Male,1924,0,Country_strip\Rodolfo Rodolfo Mishaan Pinto Mishaan_4020.png,
+Frank Bowling,719,Guyanese,South America,1,1,Male,1934,0,Country_strip\Frank Bowling_719.png,
+Castera Bazile,405,Haitian,North America,1,1,Male,1923,1966,Country_strip\Castera Bazile_405.png,country_top10_artist_images/Castera Bazile.jpg
+Enguérrand Gourgue,2272,Haitian,North America,2,1,Male,1930,1996,Country_strip\Enguérrand Gourgue_2272.png,
+Georges Liautaud,3535,Haitian,North America,3,1,Male,1899,1991,Country_strip\Georges Liautaud_3535.png,
+Hervé Télémaque,5827,Haitian,North America,4,1,Male,1937,0,Country_strip\Hervé Télémaque_5827.png,country_top10_artist_images/Hervé Télémaque.jpg
+Philomé Obin,4368,Haitian,North America,5,1,Male,1892,1986,Country_strip\Philomé Obin_4368.png,country_top10_artist_images/Philomé Obin.jpg
+René Vincent,6167,Haitian,North America,6,1,Male,1911,0,Country_strip\René Vincent_6167.png,country_top10_artist_images/René Vincent.jpg
+Roland Dorcély,1588,Haitian,North America,7,1,Male,1930,2017,Country_strip\Roland Dorcély_1588.png,
+Wilson Bigaud,557,Haitian,North America,8,1,Male,1931,2010,Country_strip\Wilson Bigaud_557.png,
+János Kender,38024,Hungarian,Europe,1,37,Male,1937,2009,Country_strip\János Kender_38024.png,
+Sándor (Alexander) Bortnyik,686,Hungarian,Europe,2,12,Male,1893,1976,Country_strip\Sándor Alexander Bortnyik_686.png,country_top10_artist_images/Sándor (Alexander) Bortnyik.jpg
+Lucien Hervé,41224,Hungarian,Europe,3,11,Male,1910,2007,Country_strip\Lucien Hervé_41224.png,country_top10_artist_images/Lucien Hervé.jpg
+Péter Forgács,34890,Hungarian,Europe,4,11,Male,1950,0,Country_strip\Péter Forgács_34890.png,country_top10_artist_images/Péter Forgács.jpg
+Dóra Maurer,42457,Hungarian,Europe,5,10,Female,1937,0,Country_strip\Dóra Maurer_42457.png,country_top10_artist_images/Dóra Maurer.jpg
+Katalin Ladik,47646,Hungarian,Europe,6,8,Female,1942,0,Country_strip\Katalin Ladik_47646.png,country_top10_artist_images/Katalin Ladik.jpg
+Lajos Kassák,3010,Hungarian,Europe,7,7,Male,1887,1967,Country_strip\Lajos Kassák_3010.png,country_top10_artist_images/Lajos Kassák.jpg
+András Wahorn,47288,Hungarian,Europe,8,5,Male,1953,0,Country_strip\András Wahorn_47288.png,country_top10_artist_images/András Wahorn.jpg
+Rogi André (Rozsa Klein),4996,Hungarian,Europe,9,5,Female,1905,1970,Country_strip\Rogi André Rozsa Klein_4996.png,
+Mihály Biró,36589,Hungarian,Europe,10,4,Male,1886,1949,Country_strip\Mihály Biró_36589.png,
+Steina,32428,Icelandic,Europe,1,24,Female,1940,0,Country_strip\Steina_32428.png,
+Olafur Eliasson,25982,Icelandic,Europe,2,9,Male,1967,0,Country_strip\Olafur Eliasson_25982.png,country_top10_artist_images/Olafur Eliasson.jpg
+Ragnar Kjartansson,37616,Icelandic,Europe,3,3,Male,1976,0,Country_strip\Ragnar Kjartansson_37616.png,country_top10_artist_images/Ragnar Kjartansson.jpg
+Svavar Gudnason,2391,Icelandic,Europe,4,3,Male,1909,1988,Country_strip\Svavar Gudnason_2391.png,
+Björk,38789,Icelandic,Europe,5,2,Female,1965,0,Country_strip\Björk_38789.png,country_top10_artist_images/Björk.jpg
+Erró (Gudmundur Gudmundsson),1754,Icelandic,Europe,6,2,Male,1932,0,Country_strip\Erró Gudmundur Gudmundsson_1754.png,country_top10_artist_images/Erró (Gudmundur Gudmundsson).jpg
+Jóhannes Sveinsson Kjarval,3124,Icelandic,Europe,7,1,Male,1885,1972,Country_strip\Jóhannes Sveinsson Kjarval_3124.png,country_top10_artist_images/Jóhannes Sveinsson Kjarval.jpg
+Nina Tryggvadottir,5948,Icelandic,Europe,8,1,Female,1913,1968,Country_strip\Nina Tryggvadottir_5948.png,
+Sjón (Sigurjón Birgir Sigurðsson),46142,Icelandic,Europe,9,1,Male,1962,0,Country_strip\Sjón Sigurjón Birgir Sigurðsson_46142.png,country_top10_artist_images/Sjón (Sigurjón Birgir Sigurðsson).jpg
+Ranjani Shettar,37577,Indian,Asia,1,18,Female,1977,0,Country_strip\Ranjani Shettar_37577.png,country_top10_artist_images/Ranjani Shettar.jpg
+Gauri Gill,67529,Indian,Asia,2,11,Female,1970,0,Country_strip\Gauri Gill_67529.png,country_top10_artist_images/Gauri Gill.jpg
+Nalini Malani,32825,Indian,Asia,3,11,Female,1946,0,Country_strip\Nalini Malani_32825.png,country_top10_artist_images/Nalini Malani.jpg
+Ketaki Sheth,70016,Indian,Asia,4,9,Female,1957,0,Country_strip\Ketaki Sheth_70016.png,
+Acharya Vyakul,22941,Indian,Asia,5,4,Male,1930,2000,Country_strip\Acharya Vyakul_22941.png,
+Raj Rewal,69904,Indian,Asia,6,4,Male,1934,0,Country_strip\Raj Rewal_69904.png,country_top10_artist_images/Raj Rewal.jpg
+Dayanita Singh,48057,Indian,Asia,7,3,Female,1961,0,Country_strip\Dayanita Singh_48057.png,country_top10_artist_images/Dayanita Singh.jpg
+Raghu Rai,74308,Indian,Asia,8,3,Male,1942,0,Country_strip\Raghu Rai_74308.png,country_top10_artist_images/Raghu Rai.jpg
+Ram Rahman,70015,Indian,Asia,9,3,Male,1955,0,Country_strip\Ram Rahman_70015.png,country_top10_artist_images/Ram Rahman.jpg
+Jyoti Bhatt,544,Indian,Asia,10,2,Male,1934,0,Country_strip\Jyoti Bhatt_544.png,
+Tala Madani,48117,Iranian,Asia,1,5,Female,1981,0,Country_strip\Tala Madani_48117.png,
+Farshid Moussavi,27436,Iranian,Asia,2,3,Female,1965,0,Country_strip\Farshid Moussavi_27436.png,country_top10_artist_images/Farshid Moussavi.jpg
+Mehrdad Yazdani,7530,Iranian,Asia,3,2,Male,1959,0,Country_strip\Mehrdad Yazdani_7530.png,
+Shirin Neshat,8349,Iranian,Asia,4,2,Female,1957,0,Country_strip\Shirin Neshat_8349.png,country_top10_artist_images/Shirin Neshat.jpg
+Charles Hossein Zenderoudi,6560,Iranian,Asia,5,1,Male,1937,0,Country_strip\Charles Hossein Zenderoudi_6560.png,country_top10_artist_images/Charles Hossein Zenderoudi.jpg
+Faramarz Pilaram,4622,Iranian,Asia,6,1,Male,1937,1982,Country_strip\Faramarz Pilaram_4622.png,
+Mani Haghighi,43551,Iranian,Asia,7,1,Male,1969,0,Country_strip\Mani Haghighi_43551.png,country_top10_artist_images/Mani Haghighi.jpg
+Natascha Sadr Haghighian,32692,Iranian,Asia,8,1,Female,1953,0,Country_strip\Natascha Sadr Haghighian_32692.png,
+Fergus Bourke,711,Irish,Europe,1,3,Male,1934,2004,Country_strip\Fergus Bourke_711.png,
+George Reavey,4833,Irish,Europe,2,3,Male,1907,1976,Country_strip\George Reavey_4833.png,
+Roderic O'Conor,4354,Irish,Europe,3,2,Male,1860,1940,Country_strip\Roderic OConor_4354.png,country_top10_artist_images/Roderic O'Conor.jpg
+Stefana McClure,27184,Irish,Europe,4,2,Female,1959,0,Country_strip\Stefana McClure_27184.png,
+Clegg and Guttmann,30882,Irish,Europe,5,1,Male,1957,0,Country_strip\Clegg and Guttmann_30882.png,
+Ian Stuart,5701,Irish,Europe,6,1,Male,1926,0,Country_strip\Ian Stuart_5701.png,
+John Gerrard,47582,Irish,Europe,7,1,Male,1974,0,Country_strip\John Gerrard_47582.png,
+John Shaw Smith,23962,Irish,Europe,8,1,Male,1811,1873,Country_strip\John Shaw Smith_23962.png,country_top10_artist_images/John Shaw Smith.jpg
+Malachi Farrell,35061,Irish,Europe,9,1,Male,1970,0,Country_strip\Malachi Farrell_35061.png,
+Mark McKeague,46527,Irish,Europe,10,1,Male,1989,0,Country_strip\Mark McKeague_46527.png,country_top10_artist_images/Mark McKeague.jpg
+Bezalel Schatz,5207,Israeli,Asia,1,47,Male,1913,0,Country_strip\Bezalel Schatz_5207.png,
+Zwi Milshtein,3996,Israeli,Asia,2,29,Male,1934,0,Country_strip\Zwi Milshtein_3996.png,
+William Brui,826,Israeli,Asia,3,25,Male,1946,0,Country_strip\William Brui_826.png,
+Reuven Rubin,5070,Israeli,Asia,4,15,Male,1893,1974,Country_strip\Reuven Rubin_5070.png,country_top10_artist_images/Reuven Rubin.jpg
+Marcel Janco,2881,Israeli,Asia,5,11,Male,1895,1984,Country_strip\Marcel Janco_2881.png,country_top10_artist_images/Marcel Janco.jpg
+Elad Lassry,38028,Israeli,Asia,6,8,Male,1977,0,Country_strip\Elad Lassry_38028.png,country_top10_artist_images/Elad Lassry.jpg
+Grete Wolf-Krakauer,6429,Israeli,Asia,7,7,Female,1890,1970,Country_strip\Grete WolfKrakauer_6429.png,
+Jakob Steinhardt,5633,Israeli,Asia,8,7,Male,1887,1968,Country_strip\Jakob Steinhardt_5633.png,country_top10_artist_images/Jakob Steinhardt.jpg
+Micha Bar-Am,8186,Israeli,Asia,9,6,Male,1930,0,Country_strip\Micha BarAm_8186.png,country_top10_artist_images/Micha Bar-Am.jpg
+Jacob El Hanani,1710,Israeli,Asia,10,4,Male,1947,0,Country_strip\Jacob El Hanani_1710.png,country_top10_artist_images/Jacob El Hanani.jpg
+Giorgio de Chirico,1106,Italian,Europe,1,111,Male,1888,1978,Country_strip\Giorgio de Chirico_1106.png,country_top10_artist_images/Giorgio de Chirico.jpg
+Alighiero Boetti,630,Italian,Europe,2,102,Male,1940,1994,Country_strip\Alighiero Boetti_630.png,country_top10_artist_images/Alighiero Boetti.jpg
+Felice Beato,416,Italian,Europe,3,91,Male,1825,1903,Country_strip\Felice Beato_416.png,country_top10_artist_images/Felice Beato.jpg
+Francesco Clemente,1145,Italian,Europe,4,75,Male,1952,0,Country_strip\Francesco Clemente_1145.png,country_top10_artist_images/Francesco Clemente.jpg
+Enrico Baj,292,Italian,Europe,5,56,Male,1924,2003,Country_strip\Enrico Baj_292.png,country_top10_artist_images/Enrico Baj.jpg
+A. G. Fronzoni,2017,Italian,Europe,6,55,Male,1923,2002,Country_strip\A G Fronzoni_2017.png,
+Giorgia Lupi,67122,Italian,Europe,7,53,Female,1981,0,Country_strip\Giorgia Lupi_67122.png,country_top10_artist_images/Giorgia Lupi.jpg
+Massimo Vignelli,6155,Italian,Europe,8,50,Male,1931,2014,Country_strip\Massimo Vignelli_6155.png,country_top10_artist_images/Massimo Vignelli.jpg
+Lauretta Vinciarelli,6168,Italian,Europe,9,43,Female,1943,2012,Country_strip\Lauretta Vinciarelli_6168.png,country_top10_artist_images/Lauretta Vinciarelli.jpg
+Cesare Peverelli,4590,Italian,Europe,10,34,Male,1922,2000,Country_strip\Cesare Peverelli_4590.png,
+Frédéric Bruly Bouabré,30876,Ivorian,Africa,1,481,Male,1923,2014,Country_strip\Frédéric Bruly Bouabré_30876.png,
+Yoshitomo Nara,25523,Japanese,Asia,1,145,Male,1959,0,Country_strip\Yoshitomo Nara_25523.png,country_top10_artist_images/Yoshitomo Nara.jpg
+Masuo Ikeda,2801,Japanese,Asia,2,90,Male,1934,1997,Country_strip\Masuo Ikeda_2801.png,country_top10_artist_images/Masuo Ikeda.jpg
+Tadanori Yokoo,6502,Japanese,Asia,3,83,Male,1936,0,Country_strip\Tadanori Yokoo_6502.png,
+Yutaka Matsuzawa,32795,Japanese,Asia,4,79,Male,1922,2006,Country_strip\Yutaka Matsuzawa_32795.png,
+Mieko Shiomi,5403,Japanese,Asia,5,73,Female,1938,0,Country_strip\Mieko Shiomi_5403.png,
+Ay-O,255,Japanese,Asia,6,43,Male,1931,0,Country_strip\AyO_255.png,country_top10_artist_images/Ay-O.jpg
+Madoka Takagi,7041,Japanese,Asia,7,39,Female,1956,2015,Country_strip\Madoka Takagi_7041.png,
+Shomei Tomatsu,5895,Japanese,Asia,8,29,Male,1930,2012,Country_strip\Shomei Tomatsu_5895.png,
+Shigeko Kubota,3277,Japanese,Asia,9,26,Female,1937,2015,Country_strip\Shigeko Kubota_3277.png,country_top10_artist_images/Shigeko Kubota.jpg
+Koichi Sato,5173,Japanese,Asia,10,21,Male,1944,0,Country_strip\Koichi Sato_5173.png,country_top10_artist_images/Koichi Sato.jpg
+Bakhtyar Khudojnazarov,74016,Kazakhstani,Europe,1,1,Male,1965,2015,Country_strip\Bakhtyar Khudojnazarov_74016.png,country_top10_artist_images/Bakhtyar Khudojnazarov.jpg
+Wangechi Mutu,28097,Kenyan,Africa,1,3,Female,1972,0,Country_strip\Wangechi Mutu_28097.png,
+Christopher Zalla,42846,Kenyan,Africa,2,1,Male,1974,0,Country_strip\Christopher Zalla_42846.png,country_top10_artist_images/Christopher Zalla.jpg
+Kim Beom,49061,Korean,Asia,1,12,male,1963,0,Country_strip\Kim Beom_49061.png,country_top10_artist_images/Kim Beom.jpg
+Haegue Yang,37934,Korean,Asia,2,8,Female,1971,0,Country_strip\Haegue Yang_37934.png,country_top10_artist_images/Haegue Yang.jpg
+Moon Hoon,49244,Korean,Asia,3,6,Male,1968,0,Country_strip\Moon Hoon_49244.png,
+SEO (Seo Soo-Kyoung),28803,Korean,Asia,4,6,Female,1977,0,Country_strip\SEO Seo SooKyoung_28803.png,
+Do Ho Suh,8198,Korean,Asia,5,5,Male,1962,0,Country_strip\Do Ho Suh_8198.png,country_top10_artist_images/Do Ho Suh.jpg
+Lee Ufan,6835,Korean,Asia,6,4,Male,1936,0,Country_strip\Lee Ufan_6835.png,country_top10_artist_images/Lee Ufan.jpg
+Hong Sang-soo,43533,Korean,Asia,7,3,Male,1961,0,Country_strip\Hong Sangsoo_43533.png,country_top10_artist_images/Hong Sang-soo.jpg
+Joong Seop Lee,3451,Korean,Asia,8,3,Male,1916,1956,Country_strip\Joong Seop Lee_3451.png,country_top10_artist_images/Joong Seop Lee.jpg
+Koo Jeong-a,31312,Korean,Asia,9,3,Female,1967,0,Country_strip\Koo Jeonga_31312.png,
+Jay Kyu Lee,22588,Korean,Asia,10,2,Male,1964,0,Country_strip\Jay Kyu Lee_22588.png,
+Munira Al-Kazi,94,Kuwaiti,Asia,1,1,Female,1939,0,Country_strip\Munira AlKazi_94.png,
+Gustav Klutsis,12501,Latvian,Europe,1,61,Male,1895,1938,Country_strip\Gustav Klutsis_12501.png,country_top10_artist_images/Gustav Klutsis.jpg
+Walter Zapp,6548,Latvian,Europe,2,1,Male,1905,2003,Country_strip\Walter Zapp_6548.png,country_top10_artist_images/Walter Zapp.jpg
+Walid Raad,35285,Lebanese,Asia,1,11,Male,1967,0,Country_strip\Walid Raad_35285.png,country_top10_artist_images/Walid Raad.jpg
+Akram Zaatari,41278,Lebanese,Asia,2,6,Male,1966,0,Country_strip\Akram Zaatari_41278.png,
+Rania Ghosn,70051,Lebanese,Asia,3,4,Female,1977,0,Country_strip\Rania Ghosn_70051.png,
+Rabih Mroué,42627,Lebanese,Asia,4,3,Male,1967,0,Country_strip\Rabih Mroué_42627.png,
+Saloua Raouda Choucair,74339,Lebanese,Asia,5,2,Female,1916,2017,Country_strip\Saloua Raouda Choucair_74339.png,country_top10_artist_images/Saloua Raouda Choucair.jpg
+Ayah Bdeir,39128,Lebanese,Asia,6,1,Female,1982,0,Country_strip\Ayah Bdeir_39128.png,country_top10_artist_images/Ayah Bdeir.jpg
+Salim Al-Kadi,67553,Lebanese,Asia,7,1,Male,1979,0,Country_strip\Salim AlKadi_67553.png,
+Algirdas Šeškus,74817,Lithuanian,Europe,1,8,Male,1945,0,Country_strip\Algirdas Šeškus_74817.png,
+Jonas Mekas,7930,Lithuanian,Europe,2,5,Male,1922,0,Country_strip\Jonas Mekas_7930.png,country_top10_artist_images/Jonas Mekas.jpg
+Deimantas Narkevicius,31384,Lithuanian,Europe,3,2,Male,1964,0,Country_strip\Deimantas Narkevicius_31384.png,
+Leon Krier,3250,Luxembourgish,Europe,1,10,Male,1946,0,Country_strip\Leon Krier_3250.png,country_top10_artist_images/Leon Krier.jpg
+Paul Kirps,27881,Luxembourgish,Europe,2,2,Male,1969,0,Country_strip\Paul Kirps_27881.png,country_top10_artist_images/Paul Kirps.jpg
+Romain Urhausen,49958,Luxembourgish,Europe,3,1,Male,1930,0,Country_strip\Romain Urhausen_49958.png,
+Janko Konstantinov,49951,Macedonian,Europe,1,3,Male,1926,2010,Country_strip\Janko Konstantinov_49951.png,
+Georgi Konstantinovski,49952,Macedonian,Europe,2,2,Male,1930,0,Country_strip\Georgi Konstantinovski_49952.png,country_top10_artist_images/Georgi Konstantinovski.jpg
+Iskra Grabulovski,67440,Macedonian,Europe,3,1,Female,1936,2008,Country_strip\Iskra Grabulovski_67440.png,country_top10_artist_images/Iskra Grabulovski.jpg
+Jordan Grabulovski,75110,Macedonian,Europe,4,1,Male,1925,1986,Country_strip\Jordan Grabulovski_75110.png,
+Teona Strugar Mitevska,43603,Macedonian,Europe,5,1,Female,1974,0,Country_strip\Teona Strugar Mitevska_43603.png,country_top10_artist_images/Teona Strugar Mitevska.jpg
+Simryn Gill,30916,Malaysian,Asia,1,3,Female,1959,0,Country_strip\Simryn Gill_30916.png,
+Hoy Cheong,30881,Malaysian,Asia,2,1,Male,1960,0,Country_strip\Hoy Cheong_30881.png,country_top10_artist_images/Hoy Cheong.jpg
+Tsai Ming-liang,48880,Malaysian,Asia,3,1,Male,1957,0,Country_strip\Tsai Mingliang_48880.png,country_top10_artist_images/Tsai Ming-liang.jpg
+Malick Sidibé,26555,Malian,Africa,1,6,Male,1936,2016,Country_strip\Malick Sidibé_26555.png,country_top10_artist_images/Malick Sidibé.jpg
+Seydou Keïta,8568,Malian,Africa,2,1,Male,1923,2001,Country_strip\Seydou Keïta_8568.png,
+José-Guadalupe Posada,4707,Mexican,North America,1,139,Male,1852,1913,Country_strip\JoséGuadalupe Posada_4707.png,country_top10_artist_images/José-Guadalupe Posada.jpg
+Leopoldo Méndez,3923,Mexican,North America,2,102,Male,1902,1969,Country_strip\Leopoldo Méndez_3923.png,country_top10_artist_images/Leopoldo Méndez.jpg
+José Luis Cuevas,1325,Mexican,North America,3,76,Male,1934,2017,Country_strip\José Luis Cuevas_1325.png,country_top10_artist_images/José Luis Cuevas.jpg
+Alfredo Zalce,6537,Mexican,North America,4,63,Male,1908,2003,Country_strip\Alfredo Zalce_6537.png,country_top10_artist_images/Alfredo Zalce.jpg
+Rufino Tamayo,5795,Mexican,North America,5,63,Male,1899,1991,Country_strip\Rufino Tamayo_5795.png,country_top10_artist_images/Rufino Tamayo.jpg
+Manuel Álvarez Bravo,135,Mexican,North America,6,47,Male,1902,2002,Country_strip\Manuel Álvarez Bravo_135.png,country_top10_artist_images/Manuel Álvarez Bravo.jpg
+Diego Rivera,4942,Mexican,North America,7,44,Male,1886,1957,Country_strip\Diego Rivera_4942.png,country_top10_artist_images/Diego Rivera.jpg
+José Chávez Morado,1084,Mexican,North America,8,34,Male,1909,2002,Country_strip\José Chávez Morado_1084.png,
+José Clemente Orozco,4430,Mexican,North America,9,34,Male,1883,1949,Country_strip\José Clemente Orozco_4430.png,country_top10_artist_images/José Clemente Orozco.jpg
+Eduardo Terrazas,5834,Mexican,North America,10,33,Male,1936,0,Country_strip\Eduardo Terrazas_5834.png,
+Yto Barrada,42323,Moroccan,Africa,1,9,Female,1971,0,Country_strip\Yto Barrada_42323.png,
+Bouchra Khalili,47100,Moroccan,Africa,2,2,Female,1975,0,Country_strip\Bouchra Khalili_47100.png,
+Ahmed Yacoubi,6476,Moroccan,Africa,3,1,Male,1928,1985,Country_strip\Ahmed Yacoubi_6476.png,
+Mohamed Melehi,3914,Moroccan,Africa,4,1,Male,1936,0,Country_strip\Mohamed Melehi_3914.png,country_top10_artist_images/Mohamed Melehi.jpg
+William N. Touzani,5911,Moroccan,Africa,5,1,Male,1954,0,Country_strip\William N Touzani_5911.png,
+John Muafangejo,32115,Namibian,Africa,1,1,Male,1943,1987,Country_strip\John Muafangejo_32115.png,
+"Victor Masayesva, Jr.",34926,Native American,North America,1,2,Male,1951,0,Country_strip\Victor Masayesva Jr_34926.png,"country_top10_artist_images/Victor Masayesva, Jr..jpg"
+Cara Romero,132372,Native American,North America,2,1,Female,1977,0,Country_strip\Cara Romero_132372.png,
+Hulleah J. Tsinhnahjinnie,132407,Native American,North America,3,1,Female,1954,0,Country_strip\Hulleah J Tsinhnahjinnie_132407.png,country_top10_artist_images/Hulleah J. Tsinhnahjinnie.jpg
+Simon Denny,46033,New Zealander,Oceania,1,4,Male,1982,0,Country_strip\Simon Denny_46033.png,country_top10_artist_images/Simon Denny.jpg
+Dean Edgington,34309,New Zealander,Oceania,2,1,Male,1976,0,Country_strip\Dean Edgington_34309.png,country_top10_artist_images/Dean Edgington.jpg
+Michael Stevenson,67641,New Zealander,Oceania,3,1,Male,1964,0,Country_strip\Michael Stevenson_67641.png,country_top10_artist_images/Michael Stevenson.jpg
+Murray Broom,26932,New Zealander,Oceania,4,1,Male,1955,0,Country_strip\Murray Broom_26932.png,country_top10_artist_images/Murray Broom.jpg
+Peter Jackson,37061,New Zealander,Oceania,5,1,Male,1961,0,Country_strip\Peter Jackson_37061.png,country_top10_artist_images/Peter Jackson.jpg
+Reginald Orton,47076,New Zealander,Oceania,6,1,Male,1981,0,Country_strip\Reginald Orton_47076.png,
+Vernon Pascoe,28076,New Zealander,Oceania,7,1,Male,1942,1999,Country_strip\Vernon Pascoe_28076.png,
+Armando Morales Sequeira,4078,Nicaraguan,North America,1,1,Male,1927,2011,Country_strip\Armando Morales Sequeira_4078.png,
+Uche Okeke,47956,Nigerian,Africa,1,6,Male,1933,2016,Country_strip\Uche Okeke_47956.png,
+J.D. 'Okhai Ojeikere,44110,Nigerian,Africa,2,3,Male,1930,2014,Country_strip\JD Okhai Ojeikere_44110.png,
+Ghariokwu Lemi,28692,Nigerian,Africa,3,1,Male,1955,0,Country_strip\Ghariokwu Lemi_28692.png,country_top10_artist_images/Ghariokwu Lemi.jpg
+Edvard Munch,4164,Norwegian,Europe,1,67,Male,1863,1944,Country_strip\Edvard Munch_4164.png,country_top10_artist_images/Edvard Munch.jpg
+Rolf Nesch,4266,Norwegian,Europe,2,9,Male,1893,1975,Country_strip\Rolf Nesch_4266.png,
+Torbjørn Rødland,46381,Norwegian,Europe,3,3,Male,1970,0,Country_strip\Torbjørn Rødland_46381.png,
+Vibeke Tandberg,42752,Norwegian,Europe,4,3,Female,1967,0,Country_strip\Vibeke Tandberg_42752.png,
+Einar Hareide,28478,Norwegian,Europe,5,2,Male,1959,0,Country_strip\Einar Hareide_28478.png,
+Olav Christopher Jenssen,32568,Norwegian,Europe,6,2,Male,1954,0,Country_strip\Olav Christopher Jenssen_32568.png,
+Aleksander Borgenhov,37940,Norwegian,Europe,7,1,Male,1971,0,Country_strip\Aleksander Borgenhov_37940.png,
+Christian Leborg,7047,Norwegian,Europe,8,1,Male,1966,0,Country_strip\Christian Leborg_7047.png,
+Dag Alveng,136,Norwegian,Europe,9,1,Male,1953,0,Country_strip\Dag Alveng_136.png,
+Gardar Eide Einarsson,42464,Norwegian,Europe,10,1,Male,1976,0,Country_strip\Gardar Eide Einarsson_42464.png,
+Shahzia Sikander,8197,Pakistani,Asia,1,18,Female,1969,0,Country_strip\Shahzia Sikander_8197.png,
+Bani Abidi,35392,Pakistani,Asia,2,14,Female,1971,0,Country_strip\Bani Abidi_35392.png,
+Seher Shah,35282,Pakistani,Asia,3,2,Female,1975,0,Country_strip\Seher Shah_35282.png,
+Rasheed Araeen,74933,Pakistani,Asia,4,1,Male,1935,0,Country_strip\Rasheed Araeen_74933.png,country_top10_artist_images/Rasheed Araeen.jpg
+Basel Abbas,49569,Palestinian,Asia,1,6,Male,1983,0,Country_strip\Basel Abbas_49569.png,country_top10_artist_images/Basel Abbas.jpg
+Ruanne Abou-Rahme,49570,Palestinian,Asia,2,6,Female,1983,0,Country_strip\Ruanne AbouRahme_49570.png,country_top10_artist_images/Ruanne Abou-Rahme.jpg
+Elia Suleiman,42110,Palestinian,Asia,3,1,Male,1960,0,Country_strip\Elia Suleiman_42110.png,country_top10_artist_images/Elia Suleiman.jpg
+Jumana Manna,49222,Palestinian,Asia,4,1,Female,1987,0,Country_strip\Jumana Manna_49222.png,
+Alberto Dutary,1663,Panamanian,North America,1,2,Male,1932,1998,Country_strip\Alberto Dutary_1663.png,
+Julio Augusto Zachrisson,6531,Panamanian,North America,2,2,Male,1930,0,Country_strip\Julio Augusto Zachrisson_6531.png,
+Fernando Grillón,6793,Paraguayan,South America,1,2,Male,1931,0,Country_strip\Fernando Grillón_6793.png,country_top10_artist_images/Fernando Grillón.jpg
+Martín Chambi,1063,Peruvian,South America,1,30,Male,1891,1973,Country_strip\Martín Chambi_1063.png,country_top10_artist_images/Martín Chambi.jpg
+Armando Andrade Tudela,39487,Peruvian,South America,2,3,Male,1975,0,Country_strip\Armando Andrade Tudela_39487.png,
+Edi Hirose,44774,Peruvian,South America,3,3,Male,1975,0,Country_strip\Edi Hirose_44774.png,
+Gilda Mantilla,35082,Peruvian,South America,4,3,Female,1967,0,Country_strip\Gilda Mantilla_35082.png,
+Fernando Bryce,26155,Peruvian,South America,5,2,Male,1965,0,Country_strip\Fernando Bryce_26155.png,
+Fernando Szyszlo,5766,Peruvian,South America,6,2,Male,1925,0,Country_strip\Fernando Szyszlo_5766.png,
+Frederick Cooper Llosa,44956,Peruvian,South America,7,2,Male,1939,0,Country_strip\Frederick Cooper Llosa_44956.png,
+José Sabogal,5106,Peruvian,South America,8,2,Male,1888,1956,Country_strip\José Sabogal_5106.png,country_top10_artist_images/José Sabogal.jpg
+Miguel Rodrigo Mazuré,44954,Peruvian,South America,9,2,Male,1926,2014,Country_strip\Miguel Rodrigo Mazuré_44954.png,
+Sandra Gamarra,32909,Peruvian,South America,10,2,Female,1972,0,Country_strip\Sandra Gamarra_32909.png,country_top10_artist_images/Sandra Gamarra.jpg
+Louis Marcoussis,3757,Polish,Europe,1,46,Male,1883,1941,Country_strip\Louis Marcoussis_3757.png,country_top10_artist_images/Louis Marcoussis.jpg
+Franciszek Starowieyski,5607,Polish,Europe,2,38,Male,1930,2009,Country_strip\Franciszek Starowieyski_5607.png,country_top10_artist_images/Franciszek Starowieyski.jpg
+Jan Lenica,3480,Polish,Europe,3,20,Male,1928,2001,Country_strip\Jan Lenica_3480.png,country_top10_artist_images/Jan Lenica.jpg
+Wladyslaw Strzemiński,5700,Polish,Europe,4,12,Male,1893,1952,Country_strip\Wladyslaw Strzemiński_5700.png,country_top10_artist_images/Wladyslaw Strzemiński.jpg
+Edward Krasiński,37440,Polish,Europe,5,10,Male,1925,2004,Country_strip\Edward Krasiński_37440.png,
+Henryk Tomaszewski,5894,Polish,Europe,6,10,Male,1914,2005,Country_strip\Henryk Tomaszewski_5894.png,
+Jan Sawka,5189,Polish,Europe,7,10,Male,1946,2012,Country_strip\Jan Sawka_5189.png,
+Paulina Olowska,28742,Polish,Europe,8,10,Female,1976,0,Country_strip\Paulina Olowska_28742.png,country_top10_artist_images/Paulina Olowska.jpg
+Henryk Berlewi,501,Polish,Europe,9,8,Male,1894,1967,Country_strip\Henryk Berlewi_501.png,country_top10_artist_images/Henryk Berlewi.jpg
+Andrzej Pagowski,4468,Polish,Europe,10,7,Male,1953,0,Country_strip\Andrzej Pagowski_4468.png,country_top10_artist_images/Andrzej Pagowski.jpg
+René Bertholo,527,Portuguese,Europe,1,6,Male,1935,2005,Country_strip\René Bertholo_527.png,
+Álvaro Siza,29732,Portuguese,Europe,2,5,Male,1933,0,Country_strip\Álvaro Siza_29732.png,country_top10_artist_images/Álvaro Siza.jpg
+Julião Sarmento,7534,Portuguese,Europe,3,3,Male,1948,0,Country_strip\Julião Sarmento_7534.png,country_top10_artist_images/Julião Sarmento.jpg
+Susana Soares,33004,Portuguese,Europe,4,3,Female,1977,0,Country_strip\Susana Soares_33004.png,
+Fernando Guerra,46421,Portuguese,Europe,5,2,Male,1970,0,Country_strip\Fernando Guerra_46421.png,
+Pedro Costa,43535,Portuguese,Europe,6,2,Male,1958,0,Country_strip\Pedro Costa_43535.png,country_top10_artist_images/Pedro Costa.jpg
+Carlos Bunga,42485,Portuguese,Europe,7,1,Male,1976,0,Country_strip\Carlos Bunga_42485.png,
+João Bizarro Da Nave Filho,49600,Portuguese,Europe,8,1,Male,1908,0,Country_strip\João Bizarro Da Nave Filho_49600.png,
+Miguel Gomes,43534,Portuguese,Europe,9,1,Male,1972,0,Country_strip\Miguel Gomes_43534.png,
+Victor Brauner,751,Romanian,Europe,1,11,Male,1903,1966,Country_strip\Victor Brauner_751.png,country_top10_artist_images/Victor Brauner.jpg
+Geta Brătescu,43150,Romanian,Europe,2,9,Female,1926,2018,Country_strip\Geta Brătescu_43150.png,
+Pic Adrian,72,Romanian,Europe,3,7,Male,1910,0,Country_strip\Pic Adrian_72.png,
+Avigdor Arikha,216,Romanian,Europe,4,4,Male,1929,2010,Country_strip\Avigdor Arikha_216.png,country_top10_artist_images/Avigdor Arikha.jpg
+Dan Perjovschi,29430,Romanian,Europe,5,3,Male,1961,0,Country_strip\Dan Perjovschi_29430.png,country_top10_artist_images/Dan Perjovschi.jpg
+Ion Grigorescu,39193,Romanian,Europe,6,3,Male,1945,0,Country_strip\Ion Grigorescu_39193.png,
+Adrian Ghenie,68023,Romanian,Europe,7,2,Male,1977,0,Country_strip\Adrian Ghenie_68023.png,country_top10_artist_images/Adrian Ghenie.jpg
+Ion Bitzan,580,Romanian,Europe,8,2,Male,1924,1997,Country_strip\Ion Bitzan_580.png,
+Marcel Chirnoaga,1107,Romanian,Europe,9,2,Male,1930,2008,Country_strip\Marcel Chirnoaga_1107.png,
+Mircea Cantor,30879,Romanian,Europe,10,2,Male,1977,0,Country_strip\Mircea Cantor_30879.png,
+Aleksandr Rodchenko,4975,Russian,Europe,1,178,Male,1891,1956,Country_strip\Aleksandr Rodchenko_4975.png,country_top10_artist_images/Aleksandr Rodchenko.jpg
+Olga Rozanova,5066,Russian,Europe,2,161,Female,1886,1918,Country_strip\Olga Rozanova_5066.png,country_top10_artist_images/Olga Rozanova.jpg
+Natalia Goncharova,2229,Russian,Europe,3,138,Female,1881,1962,Country_strip\Natalia Goncharova_2229.png,country_top10_artist_images/Natalia Goncharova.jpg
+Anatoli Lvovich Kaplan,2991,Russian,Europe,4,120,Male,1902,1980,Country_strip\Anatoli Lvovich Kaplan_2991.png,
+El Lissitzky,3569,Russian,Europe,5,106,Male,1890,1941,Country_strip\El Lissitzky_3569.png,country_top10_artist_images/El Lissitzky.jpg
+Kazimir Malevich,3710,Russian,Europe,6,83,Male,1878,1935,Country_strip\Kazimir Malevich_3710.png,country_top10_artist_images/Kazimir Malevich.jpg
+Mikhail Larionov,3389,Russian,Europe,7,69,Male,1881,1964,Country_strip\Mikhail Larionov_3389.png,country_top10_artist_images/Mikhail Larionov.jpg
+Aleksei Kruchenykh,3263,Russian,Europe,8,48,Male,1886,1969,Country_strip\Aleksei Kruchenykh_3263.png,country_top10_artist_images/Aleksei Kruchenykh.jpg
+Varvara Stepanova,5643,Russian,Europe,9,44,Female,1894,1958,Country_strip\Varvara Stepanova_5643.png,country_top10_artist_images/Varvara Stepanova.jpg
+Nikolai Kul'bin,12171,Russian,Europe,10,35,Male,1868,1917,Country_strip\Nikolai Kulbin_12171.png,
+Guadalupe Maravilla,131948,Salvadoran,North America,1,2,Male,1976,0,Country_strip\Guadalupe Maravilla_131948.png,
+Douglas Gordon,7805,Scottish,Europe,1,20,Male,1966,0,Country_strip\Douglas Gordon_7805.png,country_top10_artist_images/Douglas Gordon.jpg
+Jim Lambie,22939,Scottish,Europe,2,5,Male,1964,0,Country_strip\Jim Lambie_22939.png,
+Donald Urquhart,28839,Scottish,Europe,3,3,Male,1963,0,Country_strip\Donald Urquhart_28839.png,
+Martin Boyce,42340,Scottish,Europe,4,2,Male,1967,0,Country_strip\Martin Boyce_42340.png,
+Sally Osborn,28746,Scottish,Europe,5,2,Female,1961,0,Country_strip\Sally Osborn_28746.png,
+Armando Iannucci,37798,Scottish,Europe,6,1,Male,1963,0,Country_strip\Armando Iannucci_37798.png,country_top10_artist_images/Armando Iannucci.jpg
+Elsa Stansfield,35564,Scottish,Europe,7,1,Female,1945,2004,Country_strip\Elsa Stansfield_35564.png,country_top10_artist_images/Elsa Stansfield.jpg
+Geoffrey Mann,33837,Scottish,Europe,8,1,Male,1980,0,Country_strip\Geoffrey Mann_33837.png,country_top10_artist_images/Geoffrey Mann.jpg
+Hayley Tompkins,28836,Scottish,Europe,9,1,Female,1971,0,Country_strip\Hayley Tompkins_28836.png,
+Hill Jephson Robb,27879,Scottish,Europe,10,1,Male,1970,0,Country_strip\Hill Jephson Robb_27879.png,
+Moustapha Dimé,7390,Senegalese,Africa,1,1,Male,1952,1998,Country_strip\Moustapha Dimé_7390.png,
+Ousmane Sembène,41512,Senegalese,Africa,2,1,Male,1923,2007,Country_strip\Ousmane Sembène_41512.png,country_top10_artist_images/Ousmane Sembène.jpg
+Dargoljub Pavlov,49541,Serbian,Europe,1,8,Male,1940,0,Country_strip\Dargoljub Pavlov_49541.png,
+Bogdan Bogdanović,67233,Serbian,Europe,2,3,Male,1922,2010,Country_strip\Bogdan Bogdanović_67233.png,
+Aleksandar Stjepanović,68050,Serbian,Europe,3,2,Male,1931,0,Country_strip\Aleksandar Stjepanović_68050.png,
+Božidar Janković,68051,Serbian,Europe,4,2,Male,1931,0,Country_strip\Božidar Janković_68051.png,country_top10_artist_images/Božidar Janković.jpg
+Branislav Karadžić,68052,Serbian,Europe,5,2,Male,1929,2007,Country_strip\Branislav Karadžić_68052.png,
+Darko Marušić,68163,Serbian,Europe,6,1,Male,1940,0,Country_strip\Darko Marušić_68163.png,country_top10_artist_images/Darko Marušić.jpg
+Dejan Grba,30925,Serbian,Europe,7,1,Male,1967,0,Country_strip\Dejan Grba_30925.png,country_top10_artist_images/Dejan Grba.jpg
+Goran Paskaljević,115004,Serbian,Europe,8,1,Male,1947,0,Country_strip\Goran Paskaljević_115004.png,country_top10_artist_images/Goran Paskaljević.jpg
+Milenija Marušić,68164,Serbian,Europe,9,1,Female,1940,0,Country_strip\Milenija Marušić_68164.png,
+Vladan Joler,132163,Serbian,Europe,10,1,Male,1977,0,Country_strip\Vladan Joler_132163.png,country_top10_artist_images/Vladan Joler.jpg
+Abu Bakarr Mansaray,75466,Sierra Leonean,Africa,1,1,Male,1970,0,Country_strip\Abu Bakarr Mansaray_75466.png,
+Ming Wong,131860,Singaporean,Asia,1,1,Male,1971,0,Country_strip\Ming Wong_131860.png,country_top10_artist_images/Ming Wong.jpg
+Zuzana Licko,30188,Slovak,Europe,1,70,Female,1961,0,Country_strip\Zuzana Licko_30188.png,
+Roman Ondak,31335,Slovak,Europe,2,2,Male,1966,0,Country_strip\Roman Ondak_31335.png,country_top10_artist_images/Roman Ondak.jpg
+Julius Koller,31342,Slovak,Europe,3,1,Male,1939,2007,Country_strip\Julius Koller_31342.png,
+Tomáš Gabzdil Libertíny,33112,Slovak,Europe,4,1,Male,1979,0,Country_strip\Tomáš Gabzdil Libertíny_33112.png,
+Zoran Mušič,4189,Slovenian,Europe,1,8,Male,1909,2005,Country_strip\Zoran Mušič_4189.png,country_top10_artist_images/Zoran Mušič.jpg
+Marko Mušič,49950,Slovenian,Europe,2,2,Male,1941,0,Country_strip\Marko Mušič_49950.png,country_top10_artist_images/Marko Mušič.jpg
+Marko Turk,5974,Slovenian,Europe,3,2,Male,1920,1999,Country_strip\Marko Turk_5974.png,
+Niko Kralj,50084,Slovenian,Europe,4,2,Male,1920,2013,Country_strip\Niko Kralj_50084.png,
+Tobias Putrih,28769,Slovenian,Europe,5,2,Male,1972,0,Country_strip\Tobias Putrih_28769.png,
+Davorin Savnik,38326,Slovenian,Europe,6,1,Male,1929,2014,Country_strip\Davorin Savnik_38326.png,
+Marjetica Potrč,28766,Slovenian,Europe,7,1,Female,1953,0,Country_strip\Marjetica Potrč_28766.png,country_top10_artist_images/Marjetica Potrč.jpg
+William Kentridge,7919,South African,Africa,1,77,Male,1955,0,Country_strip\William Kentridge_7919.png,country_top10_artist_images/William Kentridge.jpg
+David Goldblatt,2214,South African,Africa,2,48,Male,1930,2018,Country_strip\David Goldblatt_2214.png,
+Diane Victor,28199,South African,Africa,3,18,Female,1964,0,Country_strip\Diane Victor_28199.png,country_top10_artist_images/Diane Victor.jpg
+Marlene Dumas,7521,South African,Africa,4,16,Female,1953,0,Country_strip\Marlene Dumas_7521.png,country_top10_artist_images/Marlene Dumas.jpg
+Claudette Schreuders,28218,South African,Africa,5,11,Female,1973,0,Country_strip\Claudette Schreuders_28218.png,
+Mikhael Subotzky,30365,South African,Africa,6,8,Male,1981,0,Country_strip\Mikhael Subotzky_30365.png,
+Guy Tillim,30156,South African,Africa,7,7,Male,1962,0,Country_strip\Guy Tillim_30156.png,
+Norman Catherine,28197,South African,Africa,8,6,Male,1949,0,Country_strip\Norman Catherine_28197.png,
+Vuyile Voyiya,33760,South African,Africa,9,6,Male,1961,0,Country_strip\Vuyile Voyiya_33760.png,
+Zanele Muholi,42455,South African,Africa,10,6,Female,1972,0,Country_strip\Zanele Muholi_42455.png,country_top10_artist_images/Zanele Muholi.jpg
+Pablo Picasso,4609,Spanish,Europe,1,1132,Male,1881,1973,Country_strip\Pablo Picasso_4609.png,country_top10_artist_images/Pablo Picasso.jpg
+Joan Miró,4016,Spanish,Europe,2,429,Male,1893,1983,Country_strip\Joan Miró_4016.png,country_top10_artist_images/Joan Miró.jpg
+Francisco de Goya,2274,Spanish,Europe,3,180,Male,1746,1828,Country_strip\Francisco de Goya_2274.png,country_top10_artist_images/Francisco de Goya.jpg
+Antoni Tàpies,5809,Spanish,Europe,4,161,Male,1923,2012,Country_strip\Antoni Tàpies_5809.png,country_top10_artist_images/Antoni Tàpies.jpg
+Antonio Saura,5181,Spanish,Europe,5,116,Male,1930,1998,Country_strip\Antonio Saura_5181.png,
+Salvador Dalí,1364,Spanish,Europe,6,82,Male,1904,1989,Country_strip\Salvador Dalí_1364.png,country_top10_artist_images/Salvador Dalí.jpg
+Juan Gris,2349,Spanish,Europe,7,55,Male,1887,1927,Country_strip\Juan Gris_2349.png,country_top10_artist_images/Juan Gris.jpg
+Juan Hidalgo,6972,Spanish,Europe,8,54,Male,1927,0,Country_strip\Juan Hidalgo_6972.png,
+Rafael Canogar,952,Spanish,Europe,9,30,Male,1935,0,Country_strip\Rafael Canogar_952.png,
+Eduardo Chillida,1104,Spanish,Europe,10,29,Male,1924,2002,Country_strip\Eduardo Chillida_1104.png,country_top10_artist_images/Eduardo Chillida.jpg
+Ibrahim El-Salahi,5121,Sudanese,Africa,1,9,Male,1930,0,Country_strip\Ibrahim ElSalahi_5121.png,
+Öyvind Fahlström,1790,Swedish,Europe,1,23,Male,1928,1976,Country_strip\Öyvind Fahlström_1790.png,country_top10_artist_images/Öyvind Fahlström.jpg
+Peter Freudenthal,1995,Swedish,Europe,2,18,Male,1938,0,Country_strip\Peter Freudenthal_1995.png,
+Birgit Skiöld,5462,Swedish,Europe,3,10,Female,1923,1982,Country_strip\Birgit Skiöld_5462.png,
+Sven-Eric Juhlin,2950,Swedish,Europe,4,10,Male,1940,0,Country_strip\SvenEric Juhlin_2950.png,
+Maria Benktzon,6935,Swedish,Europe,5,9,Female,1946,0,Country_strip\Maria Benktzon_6935.png,
+Jockum Nordström,8452,Swedish,Europe,6,7,Male,1963,0,Country_strip\Jockum Nordström_8452.png,country_top10_artist_images/Jockum Nordström.jpg
+Erik Gunnar Asplund,27,Swedish,Europe,7,6,Male,1885,1940,Country_strip\Erik Gunnar Asplund_27.png,country_top10_artist_images/Erik Gunnar Asplund.jpg
+Bruno Mathsson,3830,Swedish,Europe,8,5,Male,1907,1988,Country_strip\Bruno Mathsson_3830.png,country_top10_artist_images/Bruno Mathsson.jpg
+Jan Forsberg,1945,Swedish,Europe,9,5,Male,1932,0,Country_strip\Jan Forsberg_1945.png,country_top10_artist_images/Jan Forsberg.jpg
+Klara Liden,35986,Swedish,Europe,10,5,Female,1979,0,Country_strip\Klara Liden_35986.png,
+Dieter Roth,5042,Swiss,Europe,1,143,Male,1930,1998,Country_strip\Dieter Roth_5042.png,country_top10_artist_images/Dieter Roth.jpg
+Roman Signer,7824,Swiss,Europe,2,98,Male,1938,0,Country_strip\Roman Signer_7824.png,
+Alberto Giacometti,2141,Swiss,Europe,3,95,Male,1901,1966,Country_strip\Alberto Giacometti_2141.png,country_top10_artist_images/Alberto Giacometti.jpg
+Hans Erni,1750,Swiss,Europe,4,81,Male,1909,2015,Country_strip\Hans Erni_1750.png,country_top10_artist_images/Hans Erni.jpg
+Gottfried Honegger,2719,Swiss,Europe,5,45,Male,1917,2016,Country_strip\Gottfried Honegger_2719.png,country_top10_artist_images/Gottfried Honegger.jpg
+Bernhard Luginbühl,6976,Swiss,Europe,6,39,Male,1929,2011,Country_strip\Bernhard Luginbühl_6976.png,
+Max Bill,559,Swiss,Europe,7,39,Male,1908,1994,Country_strip\Max Bill_559.png,country_top10_artist_images/Max Bill.jpg
+Daniel Spoerri,5569,Swiss,Europe,8,34,Male,1930,0,Country_strip\Daniel Spoerri_5569.png,country_top10_artist_images/Daniel Spoerri.jpg
+Thomas Hirschhorn,8276,Swiss,Europe,9,33,Male,1957,0,Country_strip\Thomas Hirschhorn_8276.png,country_top10_artist_images/Thomas Hirschhorn.jpg
+Jan Tschichold,5951,Swiss,Europe,10,31,Male,1902,1974,Country_strip\Jan Tschichold_5951.png,country_top10_artist_images/Jan Tschichold.jpg
+Charlene Liu,28693,Taiwanese,Asia,1,2,Female,1975,0,Country_strip\Charlene Liu_28693.png,
+Li-Fa Shaih,5368,Taiwanese,Asia,2,1,Male,1938,0,Country_strip\LiFa Shaih_5368.png,
+Shu Lea Cheang,34804,Taiwanese,Asia,3,1,Female,1954,0,Country_strip\Shu Lea Cheang_34804.png,country_top10_artist_images/Shu Lea Cheang.jpg
+Sam Joseph Ntiro,4345,Tanzanian,Africa,1,1,Male,1923,1993,Country_strip\Sam Joseph Ntiro_4345.png,
+Rirkrit Tiravanija,7479,Thai,Asia,1,25,Male,1961,0,Country_strip\Rirkrit Tiravanija_7479.png,
+Apichatpong Weerasethakul,42736,Thai,Asia,2,5,Male,1970,0,Country_strip\Apichatpong Weerasethakul_42736.png,country_top10_artist_images/Apichatpong Weerasethakul.jpg
+Navin Rawanchaikul,31016,Thai,Asia,3,1,Male,1971,0,Country_strip\Navin Rawanchaikul_31016.png,
+Hüseyin Bahri Alptekin,30848,Turkish,Asia,1,8,Male,1957,2007,Country_strip\Hüseyin Bahri Alptekin_30848.png,
+Burhan Dogancay,1569,Turkish,Asia,2,3,Male,1929,2013,Country_strip\Burhan Dogancay_1569.png,country_top10_artist_images/Burhan Dogancay.jpg
+Aslı Çavuşoğlu,49614,Turkish,Asia,3,2,Female,1982,0,Country_strip\Aslı Çavuşoğlu_49614.png,
+Halil Altindere,44653,Turkish,Asia,4,2,Male,1971,0,Country_strip\Halil Altindere_44653.png,
+Ali Gedik,30912,Turkish,Asia,5,1,Male,1972,0,Country_strip\Ali Gedik_30912.png,
+Ayse Birsel,22568,Turkish,Asia,6,1,Female,1964,0,Country_strip\Ayse Birsel_22568.png,
+Bedri Rahmi,4790,Turkish,Asia,7,1,Male,1913,1975,Country_strip\Bedri Rahmi_4790.png,country_top10_artist_images/Bedri Rahmi.jpg
+Cengiz Çekil,38946,Turkish,Asia,8,1,Male,1945,2015,Country_strip\Cengiz Çekil_38946.png,
+Erol (Erol Akyavas),1753,Turkish,Asia,9,1,Male,1932,1999,Country_strip\Erol Erol Akyavas_1753.png,
+Fatih Aydogdu,30857,Turkish,Asia,10,1,Female,1963,0,Country_strip\Fatih Aydogdu_30857.png,
+Kanuge John Bosco,38188,Ugandan,Africa,1,1,Male,1968,0,Country_strip\Kanuge John Bosco_38188.png,
+David Burliuk,877,Ukrainian,Europe,1,24,Male,1882,1967,Country_strip\David Burliuk_877.png,country_top10_artist_images/David Burliuk.jpg
+Vladimir Burliuk,12001,Ukrainian,Europe,2,22,Male,1886,1917,Country_strip\Vladimir Burliuk_12001.png,country_top10_artist_images/Vladimir Burliuk.jpg
+Anatol' Petryts'kyi,24211,Ukrainian,Europe,3,6,Male,1895,1964,Country_strip\Anatol Petrytskyi_24211.png,
+Alexander Dovzhenko,32230,Ukrainian,Europe,4,2,Male,1894,1956,Country_strip\Alexander Dovzhenko_32230.png,country_top10_artist_images/Alexander Dovzhenko.jpg
+Peter Weibel,31069,Ukrainian,Europe,5,2,Male,1944,0,Country_strip\Peter Weibel_31069.png,country_top10_artist_images/Peter Weibel.jpg
+Alexander Roitburd,35448,Ukrainian,Europe,6,1,Male,1961,0,Country_strip\Alexander Roitburd_35448.png,
+Boris Mikhailov,8168,Ukrainian,Europe,7,1,Male,1938,0,Country_strip\Boris Mikhailov_8168.png,
+Mane-Katz,23522,Ukrainian,Europe,8,1,Male,1894,1962,Country_strip\ManeKatz_23522.png,country_top10_artist_images/Mane-Katz.jpg
+Mykhailo Semenko,23842,Ukrainian,Europe,9,1,Male,1892,1937,Country_strip\Mykhailo Semenko_23842.png,
+Vasyl Krychevsky,3248,Ukrainian,Europe,10,1,Male,1927,0,Country_strip\Vasyl Krychevsky_3248.png,country_top10_artist_images/Vasyl Krychevsky.jpg
+Luis Camnitzer,934,Uruguayan,South America,1,39,Male,1937,0,Country_strip\Luis Camnitzer_934.png,
+Joaquín Torres-García,5907,Uruguayan,South America,2,10,Male,1874,1949,Country_strip\Joaquín TorresGarcía_5907.png,country_top10_artist_images/Joaquín Torres-García.jpg
+Marco Maggi,26382,Uruguayan,South America,3,6,Male,1957,0,Country_strip\Marco Maggi_26382.png,country_top10_artist_images/Marco Maggi.jpg
+Luis Alberto Solari,5512,Uruguayan,South America,4,3,Male,1918,1993,Country_strip\Luis Alberto Solari_5512.png,country_top10_artist_images/Luis Alberto Solari.jpg
+Alejandro Cesarco,67946,Uruguayan,South America,5,2,Male,1975,0,Country_strip\Alejandro Cesarco_67946.png,
+Gustavo Lazarini Terradas,3423,Uruguayan,South America,6,2,Male,1918,1987,Country_strip\Gustavo Lazarini Terradas_3423.png,
+Arturo Villaamil,44876,Uruguayan,South America,7,1,Male,1947,0,Country_strip\Arturo Villaamil_44876.png,
+Carmelo Arden Quin,68088,Uruguayan,South America,8,1,Male,1913,2010,Country_strip\Carmelo Arden Quin_68088.png,country_top10_artist_images/Carmelo Arden Quin.jpg
+Eladio Dieste,44844,Uruguayan,South America,9,1,Male,1917,2000,Country_strip\Eladio Dieste_44844.png,country_top10_artist_images/Eladio Dieste.jpg
+Enrique Aguerre,35504,Uruguayan,South America,10,1,Male,1964,0,Country_strip\Enrique Aguerre_35504.png,country_top10_artist_images/Enrique Aguerre.jpg
+Gego (Gertrud Goldschmidt),2107,Venezuelan,South America,1,33,Female,1912,1994,Country_strip\Gego Gertrud Goldschmidt_2107.png,country_top10_artist_images/Gego (Gertrud Goldschmidt).jpg
+Marisol (Marisol Escobar),3774,Venezuelan,South America,2,26,Female,1930,2016,Country_strip\Marisol Marisol Escobar_3774.png,country_top10_artist_images/Marisol (Marisol Escobar).jpg
+Gerd Leufert,3502,Venezuelan,South America,3,25,Male,1914,1998,Country_strip\Gerd Leufert_3502.png,
+Alejandro Otero,4445,Venezuelan,South America,4,24,Male,1921,1990,Country_strip\Alejandro Otero_4445.png,
+Luisa Zuloaga de Palacios,4471,Venezuelan,South America,5,14,Female,1923,1990,Country_strip\Luisa Zuloaga de Palacios_4471.png,
+Alfredo Cortina,44727,Venezuelan,South America,6,13,Male,1903,1988,Country_strip\Alfredo Cortina_44727.png,
+Jesús Rafael Soto,5535,Venezuelan,South America,7,11,Male,1923,2005,Country_strip\Jesús Rafael Soto_5535.png,country_top10_artist_images/Jesús Rafael Soto.jpg
+Paolo Gasparini,2088,Venezuelan,South America,8,10,Male,1934,0,Country_strip\Paolo Gasparini_2088.png,
+Carlos Cruz-Diez,1321,Venezuelan,South America,9,7,Male,1923,2019,Country_strip\Carlos CruzDiez_1321.png,country_top10_artist_images/Carlos Cruz-Diez.jpg
+Daniel González,69644,Venezuelan,South America,10,6,Male,1934,0,Country_strip\Daniel González_69644.png,
+Hai Quoc Tran,37483,Vietnamese,Asia,1,1,Male,1960,0,Country_strip\Hai Quoc Tran_37483.png,
+Phu Nam,48188,Vietnamese,Asia,2,1,Male,1974,0,Country_strip\Phu Nam_48188.png,
+Lucy Jones,67735,Welsh,Europe,1,1,Female,1991,0,Country_strip\Lucy Jones_67735.png,country_top10_artist_images/Lucy Jones.jpg
+Edo Murtic,4187,Yugoslav,Europe,1,60,Male,1921,2005,Country_strip\Edo Murtic_4187.png,country_top10_artist_images/Edo Murtic.jpg
+Marina Abramović,26439,Yugoslav,Europe,2,21,Female,1946,0,Country_strip\Marina Abramović_26439.png,country_top10_artist_images/Marina Abramović.jpg
+Vladimir Velickovic,6125,Yugoslav,Europe,3,10,Male,1935,0,Country_strip\Vladimir Velickovic_6125.png,country_top10_artist_images/Vladimir Velickovic.jpg
+Julije Knifer,30437,Yugoslav,Europe,4,6,Male,1924,2004,Country_strip\Julije Knifer_30437.png,
+Janez Bernik,518,Yugoslav,Europe,5,3,Male,1933,2016,Country_strip\Janez Bernik_518.png,country_top10_artist_images/Janez Bernik.jpg
+Riko Debenjak,1461,Yugoslav,Europe,6,3,Male,1908,1987,Country_strip\Riko Debenjak_1461.png,
+Ernst Roch,32656,Yugoslav,Europe,7,2,Male,1928,2003,Country_strip\Ernst Roch_32656.png,
+Majda Dobravec-Lajovic,37496,Yugoslav,Europe,8,2,Female,1931,0,Country_strip\Majda DobravecLajovic_37496.png,
+Marjan Pogacnik,4659,Yugoslav,Europe,9,2,Male,1920,2005,Country_strip\Marjan Pogacnik_4659.png,
+Miroslav Sutej,5737,Yugoslav,Europe,10,2,Male,1936,2005,Country_strip\Miroslav Sutej_5737.png,
+Kudzanai Chiurai,38241,Zimbabwean,Africa,1,4,Male,1981,0,Country_strip\Kudzanai Chiurai_38241.png,country_top10_artist_images/Kudzanai Chiurai.jpg
+Thomas Mukarobgwa,4144,Zimbabwean,Africa,2,4,Male,1924,1999,Country_strip\Thomas Mukarobgwa_4144.png,
+Gareth Nyandoro,74435,Zimbabwean,Africa,3,1,Male,1982,0,Country_strip\Gareth Nyandoro_74435.png,
+Joseph Ndandarika,4247,Zimbabwean,Africa,4,1,Male,1944,1991,Country_strip\Joseph Ndandarika_4247.png,
+Kumberai Mapanda,3744,Zimbabwean,Africa,5,1,Male,1940,0,Country_strip\Kumberai Mapanda_3744.png,
