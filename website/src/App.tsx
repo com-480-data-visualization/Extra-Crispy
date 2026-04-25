@@ -15,14 +15,11 @@ import IntroAnimation from './components/IntroAnimation';
 
 export type ViewMode = 'artworks' | 'artists';
 
-const baseUrl = (import.meta as ImportMeta & { env?: { BASE_URL?: string } }).env?.BASE_URL ?? '/';
-const routerBasename = baseUrl === '/' ? undefined : baseUrl.replace(/\/$/, '');
-
 export default function App() {
   const [showIntro, setShowIntro] = useState(true);
 
   return (
-    <Router basename={routerBasename}>
+    <Router>
       {showIntro ? (
         <IntroAnimation onComplete={() => setShowIntro(false)} />
       ) : (

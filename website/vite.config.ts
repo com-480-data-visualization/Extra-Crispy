@@ -1,22 +1,23 @@
 import tailwindcss from '@tailwindcss/vite';
 import react from '@vitejs/plugin-react';
 import path from 'path';
-import {defineConfig} from 'vite';
+import {defineConfig, loadEnv} from 'vite';
 
-export default defineConfig(() => {
-  const isGitHubActionsBuild = process.env.GITHUB_ACTIONS === 'true';
-
+export default defineConfig(({mode}) => {
+  const env = loadEnv(mode, '.', '');
   return {
-    // GitHub Pages serves project sites from /<repo>/, while local dev stays at /.
-    base: isGitHubActionsBuild ? '/Extra-Crispy/' : '/',
     plugins: [react(), tailwindcss()],
+    define: {
+      'process.env.GEMINI_API_KEY': JSON.stringify(env.GEMINI_API_KEY),
+    },
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
       },
     },
     server: {
-      // HMR can be toggled via the DISABLE_HMR environment variable.
+      // HMR is disabled in AI Studio via DISABLE_HMR env var.
+      // Do not modifyâfile watching is disabled to prevent flickering during agent edits.
       hmr: process.env.DISABLE_HMR !== 'true',
     },
   };

@@ -7,6 +7,7 @@ import { artworks, artists, countryData } from '../data/mockData';
 import { ViewMode } from '../App';
 
 const RADIUS = 5;
+const MAX_ALL_TIME_ARTWORKS_PER_COUNTRY = 40;
 
 function latLngToVector3(lat: number, lng: number, radius: number) {
   const phi = (90 - lat) * (Math.PI / 180);
@@ -421,6 +422,18 @@ function Globe({ selectedCountry, mode, selectedDecade, hideImages, borderMode =
     return item ? item.lng : null;
   }, [selectedCountry, displayData]);
 
+  const visibleMarkers = useMemo(() => {
+    if (mode !== 'artworks' || selectedDecade !== null) return displayData;
+
+    const countryCounts = new Map<string, number>();
+    return displayData.filter(item => {
+      const count = countryCounts.get(item.country) || 0;
+      if (count >= MAX_ALL_TIME_ARTWORKS_PER_COUNTRY) return false;
+      countryCounts.set(item.country, count + 1);
+      return true;
+    });
+  }, [displayData, mode, selectedDecade]);
+
   useFrame(() => {
     if (globeRef.current) {
       if (targetLng !== null) {
@@ -476,7 +489,7 @@ function Globe({ selectedCountry, mode, selectedDecade, hideImages, borderMode =
 
       {showBorders && (borderMode === 'country' ? <CountryBorders /> : <LandBorders />)}
 
-      {!hideImages && displayData.map(data => (
+      {!hideImages && visibleMarkers.map(data => (
         <Marker 
           key={data.id} 
           data={data} 
