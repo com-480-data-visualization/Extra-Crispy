@@ -3,13 +3,14 @@ import React from 'react';
 interface TimelineBarProps {
   selectedDecade: number | null;
   onSelectDecade: (decade: number | null) => void;
+  fullWidth?: boolean;
 }
 
-export default function TimelineBar({ selectedDecade, onSelectDecade }: TimelineBarProps) {
+export default function TimelineBar({ selectedDecade, onSelectDecade, fullWidth = false }: TimelineBarProps) {
   const decades = Array.from({ length: 18 }, (_, i) => 1850 + i * 10);
 
   return (
-    <div className="absolute bottom-0 left-80 right-0 z-20 bg-[#F4EFE6]/70 backdrop-blur-md border-t border-[#D3CDBF]/50 py-4 px-8 shadow-[0_-4px_24px_rgba(0,0,0,0.05)]">
+    <div className={`absolute bottom-0 right-0 z-20 bg-[#F4EFE6]/70 backdrop-blur-md border-t border-[#D3CDBF]/50 py-4 px-8 shadow-[0_-4px_24px_rgba(0,0,0,0.05)] ${fullWidth ? 'left-0' : 'left-80'}`}>
       <div className="flex items-center justify-between max-w-5xl mx-auto">
         <button
           onClick={() => onSelectDecade(null)}
