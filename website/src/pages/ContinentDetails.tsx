@@ -2,6 +2,7 @@ import React, { useState, useMemo } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell } from 'recharts';
 import { ArrowLeft, X } from 'lucide-react';
+import { getChartImageUrl, getDistributionCount } from '../data/distributionData';
 
 // Mock data for the bar chart
 const generateMockArtists = (continentName: string) => {
@@ -21,6 +22,20 @@ export default function ContinentDetails() {
 
   const decodedContinentName = decodeURIComponent(continentName || 'Unknown');
   const mockArtists = useMemo(() => generateMockArtists(decodedContinentName), [decodedContinentName]);
+  const artworkCount = getDistributionCount({
+    mode: 'artworks',
+    borderMode: 'continent',
+    region: decodedContinentName,
+    selectedCategory: null,
+    selectedDecade: null,
+  });
+  const artistCount = getDistributionCount({
+    mode: 'artists',
+    borderMode: 'continent',
+    region: decodedContinentName,
+    selectedCategory: null,
+    selectedDecade: null,
+  });
 
   return (
     <div className="relative h-screen w-full bg-[#EAE5D9] text-[#3A352D] font-sans overflow-hidden flex flex-col">
@@ -46,26 +61,30 @@ export default function ContinentDetails() {
         <div className="w-[30%] grid grid-cols-2 grid-rows-2 gap-4 h-full">
           {/* Artwork Count */}
           <div className="bg-[#F4EFE6]/70 backdrop-blur-md border border-[#D3CDBF]/50 rounded-xl p-4 shadow-[0_8px_32px_rgba(0,0,0,0.05)] flex flex-col">
-            <h3 className="font-serif font-bold text-sm text-[#3A352D] border-b border-[#D3CDBF]/50 pb-2 mb-3">Artwork Count</h3>
+            <div className="border-b border-[#D3CDBF]/50 pb-2 mb-3">
+              <h3 className="font-serif font-bold text-sm text-[#3A352D]">Artwork Count</h3>
+              <p className="text-xs font-mono text-[#8C857B]">{artworkCount.toLocaleString()} artworks</p>
+            </div>
             <div className="flex-1 rounded-lg overflow-hidden relative bg-[#D3CDBF]/30 flex items-center justify-center">
               <img 
-                src={`https://picsum.photos/seed/${decodedContinentName}-stats1/400/300`} 
-                alt="Artwork Stats" 
-                className="absolute inset-0 w-full h-full object-cover"
-                referrerPolicy="no-referrer"
+                src={getChartImageUrl('artworks', decodedContinentName)}
+                alt={`${decodedContinentName} artwork count over five-year periods`}
+                className="absolute inset-0 w-full h-full object-contain p-2"
               />
             </div>
           </div>
           
           {/* Artist Count */}
           <div className="bg-[#F4EFE6]/70 backdrop-blur-md border border-[#D3CDBF]/50 rounded-xl p-4 shadow-[0_8px_32px_rgba(0,0,0,0.05)] flex flex-col">
-            <h3 className="font-serif font-bold text-sm text-[#3A352D] border-b border-[#D3CDBF]/50 pb-2 mb-3">Artist Count</h3>
+            <div className="border-b border-[#D3CDBF]/50 pb-2 mb-3">
+              <h3 className="font-serif font-bold text-sm text-[#3A352D]">Artist Count</h3>
+              <p className="text-xs font-mono text-[#8C857B]">{artistCount.toLocaleString()} artists</p>
+            </div>
             <div className="flex-1 rounded-lg overflow-hidden relative bg-[#D3CDBF]/30 flex items-center justify-center">
               <img 
-                src={`https://picsum.photos/seed/${decodedContinentName}-stats2/400/300`} 
-                alt="Artist Stats" 
-                className="absolute inset-0 w-full h-full object-cover"
-                referrerPolicy="no-referrer"
+                src={getChartImageUrl('artists', decodedContinentName)}
+                alt={`${decodedContinentName} artist count over five-year periods`}
+                className="absolute inset-0 w-full h-full object-contain p-2"
               />
             </div>
           </div>

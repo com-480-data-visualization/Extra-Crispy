@@ -4,10 +4,11 @@ interface TimelineBarProps {
   selectedDecade: number | null;
   onSelectDecade: (decade: number | null) => void;
   fullWidth?: boolean;
+  decades?: number[];
 }
 
-export default function TimelineBar({ selectedDecade, onSelectDecade, fullWidth = false }: TimelineBarProps) {
-  const decades = Array.from({ length: 18 }, (_, i) => 1850 + i * 10);
+export default function TimelineBar({ selectedDecade, onSelectDecade, fullWidth = false, decades }: TimelineBarProps) {
+  const timelineDecades = decades ?? Array.from({ length: 18 }, (_, i) => 1850 + i * 10);
 
   return (
     <div className={`absolute bottom-0 right-0 z-20 bg-[#F4EFE6]/70 backdrop-blur-md border-t border-[#D3CDBF]/50 py-4 px-8 shadow-[0_-4px_24px_rgba(0,0,0,0.05)] ${fullWidth ? 'left-0' : 'left-80'}`}>
@@ -27,8 +28,9 @@ export default function TimelineBar({ selectedDecade, onSelectDecade, fullWidth 
           {/* Timeline track */}
           <div className="absolute left-0 right-0 h-[2px] bg-[#D3CDBF] top-1/2 -translate-y-1/2 -z-10"></div>
           
-          {decades.map(decade => {
+          {timelineDecades.map((decade, index) => {
             const isSelected = selectedDecade === decade;
+            const showLabel = timelineDecades.length <= 20 || index % 2 === 0 || isSelected;
             return (
               <div key={decade} className="flex flex-col items-center group relative">
                 <button
@@ -40,7 +42,7 @@ export default function TimelineBar({ selectedDecade, onSelectDecade, fullWidth 
                   }`}
                 />
                 <span 
-                  className={`absolute top-4 text-xs font-mono transition-colors ${
+                  className={`absolute top-4 text-xs font-mono transition-colors ${showLabel ? '' : 'opacity-0 group-hover:opacity-100'} ${
                     isSelected ? 'text-[#D95C3A] font-bold' : 'text-[#8C857B] group-hover:text-[#3A352D]'
                   }`}
                 >

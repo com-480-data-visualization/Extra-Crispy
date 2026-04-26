@@ -1,0 +1,1409 @@
+﻿{
+  "genders": [
+    "Male",
+    "Female"
+  ],
+  "decades": [
+    {
+      "decade": "1730s",
+      "all_artist_num": 1,
+      "genders": {
+        "Male": {
+          "total": 1,
+          "nationalities": {
+            "British": 1
+          }
+        },
+        "Female": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1740s",
+      "all_artist_num": 1,
+      "genders": {
+        "Male": {
+          "total": 1,
+          "nationalities": {
+            "Spanish": 1
+          }
+        },
+        "Female": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1750s",
+      "all_artist_num": 1,
+      "genders": {
+        "Male": {
+          "total": 1,
+          "nationalities": {
+            "British": 1
+          }
+        },
+        "Female": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1760s",
+      "all_artist_num": 0,
+      "genders": {
+        "Male": {
+          "total": 0,
+          "nationalities": {}
+        },
+        "Female": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1770s",
+      "all_artist_num": 1,
+      "genders": {
+        "Male": {
+          "total": 1,
+          "nationalities": {
+            "American": 1
+          }
+        },
+        "Female": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1780s",
+      "all_artist_num": 4,
+      "genders": {
+        "Male": {
+          "total": 4,
+          "nationalities": {
+            "French": 2,
+            "Austrian": 1,
+            "German": 1
+          }
+        },
+        "Female": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1790s",
+      "all_artist_num": 10,
+      "genders": {
+        "Male": {
+          "total": 9,
+          "nationalities": {
+            "French": 5,
+            "Austrian": 2,
+            "American": 1,
+            "British": 1
+          }
+        },
+        "Female": {
+          "total": 1,
+          "nationalities": {
+            "British": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1800s",
+      "all_artist_num": 18,
+      "genders": {
+        "Male": {
+          "total": 18,
+          "nationalities": {
+            "French": 11,
+            "British": 6,
+            "German": 1
+          }
+        },
+        "Female": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    },
+    {
+      "decade": "1810s",
+      "all_artist_num": 48,
+      "genders": {
+        "Male": {
+          "total": 47,
+          "nationalities": {
+            "French": 22,
+            "British": 16,
+            "American": 3,
+            "Austrian": 2,
+            "Italian": 2,
+            "Irish": 1,
+            "Scottish": 1
+          }
+        },
+        "Female": {
+          "total": 1,
+          "nationalities": {
+            "British": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1820s",
+      "all_artist_num": 52,
+      "genders": {
+        "Male": {
+          "total": 51,
+          "nationalities": {
+            "French": 22,
+            "British": 12,
+            "American": 11,
+            "Italian": 2,
+            "Austrian": 1,
+            "Canadian": 1,
+            "Dutch": 1,
+            "German": 1
+          }
+        },
+        "Female": {
+          "total": 1,
+          "nationalities": {
+            "British": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1830s",
+      "all_artist_num": 48,
+      "genders": {
+        "Male": {
+          "total": 46,
+          "nationalities": {
+            "French": 19,
+            "American": 10,
+            "British": 10,
+            "German": 2,
+            "Austrian": 1,
+            "Canadian": 1,
+            "Italian": 1,
+            "Norwegian": 1,
+            "Turkish": 1
+          }
+        },
+        "Female": {
+          "total": 2,
+          "nationalities": {
+            "American": 2
+          }
+        }
+      }
+    },
+    {
+      "decade": "1840s",
+      "all_artist_num": 62,
+      "genders": {
+        "Male": {
+          "total": 60,
+          "nationalities": {
+            "French": 25,
+            "American": 19,
+            "German": 6,
+            "Austrian": 5,
+            "Belgian": 1,
+            "British": 1,
+            "Canadian": 1,
+            "Dutch": 1,
+            "Swiss": 1
+          }
+        },
+        "Female": {
+          "total": 2,
+          "nationalities": {
+            "American": 1,
+            "French": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1850s",
+      "all_artist_num": 88,
+      "genders": {
+        "Male": {
+          "total": 85,
+          "nationalities": {
+            "French": 37,
+            "American": 27,
+            "British": 6,
+            "German": 4,
+            "Italian": 3,
+            "Dutch": 2,
+            "Mexican": 2,
+            "Belgian": 1,
+            "Russian": 1,
+            "Spanish": 1,
+            "Swiss": 1
+          }
+        },
+        "Female": {
+          "total": 3,
+          "nationalities": {
+            "American": 2,
+            "Swiss": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1860s",
+      "all_artist_num": 195,
+      "genders": {
+        "Male": {
+          "total": 183,
+          "nationalities": {
+            "French": 64,
+            "American": 47,
+            "German": 18,
+            "British": 16,
+            "Austrian": 9,
+            "Belgian": 9,
+            "Russian": 5,
+            "Swiss": 3,
+            "Dutch": 2,
+            "Italian": 2,
+            "Norwegian": 2,
+            "Brazilian": 1,
+            "Czech": 1,
+            "Finnish": 1,
+            "Irish": 1,
+            "Polish": 1,
+            "Uruguayan": 1
+          }
+        },
+        "Female": {
+          "total": 12,
+          "nationalities": {
+            "American": 6,
+            "French": 4,
+            "British": 1,
+            "German": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1870s",
+      "all_artist_num": 252,
+      "genders": {
+        "Male": {
+          "total": 227,
+          "nationalities": {
+            "American": 65,
+            "French": 47,
+            "German": 37,
+            "Austrian": 15,
+            "British": 15,
+            "Swiss": 10,
+            "Russian": 7,
+            "Italian": 5,
+            "Belgian": 3,
+            "Czech": 3,
+            "Dutch": 3,
+            "Spanish": 3,
+            "Danish": 2,
+            "Mexican": 2,
+            "Swedish": 2,
+            "Canadian": 1,
+            "Chilean": 1,
+            "Finnish": 1,
+            "Hungarian": 1,
+            "Japanese": 1,
+            "Peruvian": 1,
+            "Romanian": 1,
+            "Uruguayan": 1
+          }
+        },
+        "Female": {
+          "total": 25,
+          "nationalities": {
+            "American": 10,
+            "German": 6,
+            "British": 4,
+            "French": 4,
+            "Austrian": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1880s",
+      "all_artist_num": 498,
+      "genders": {
+        "Male": {
+          "total": 452,
+          "nationalities": {
+            "American": 132,
+            "German": 96,
+            "French": 58,
+            "Russian": 27,
+            "British": 22,
+            "Italian": 16,
+            "Dutch": 15,
+            "Swiss": 13,
+            "Austrian": 8,
+            "Belgian": 6,
+            "Czech": 6,
+            "Hungarian": 6,
+            "Japanese": 5,
+            "Mexican": 5,
+            "Polish": 5,
+            "Swedish": 5,
+            "Spanish": 4,
+            "Australian": 3,
+            "Canadian": 3,
+            "Ukrainian": 3,
+            "Danish": 2,
+            "Norwegian": 2,
+            "Scottish": 2,
+            "Argentine": 1,
+            "Brazilian": 1,
+            "Cuban": 1,
+            "Icelandic": 1,
+            "Israeli": 1,
+            "Palestinian": 1,
+            "Peruvian": 1,
+            "Venezuelan": 1
+          }
+        },
+        "Female": {
+          "total": 46,
+          "nationalities": {
+            "American": 18,
+            "Russian": 7,
+            "French": 5,
+            "German": 5,
+            "Austrian": 4,
+            "British": 2,
+            "Swiss": 2,
+            "Brazilian": 1,
+            "Canadian": 1,
+            "Polish": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1890s",
+      "all_artist_num": 641,
+      "genders": {
+        "Male": {
+          "total": 543,
+          "nationalities": {
+            "American": 170,
+            "German": 73,
+            "French": 57,
+            "Russian": 44,
+            "British": 29,
+            "Italian": 27,
+            "Japanese": 17,
+            "Dutch": 14,
+            "Spanish": 11,
+            "Swiss": 11,
+            "Argentine": 8,
+            "Austrian": 8,
+            "Hungarian": 8,
+            "Mexican": 8,
+            "Polish": 8,
+            "Belgian": 5,
+            "Brazilian": 5,
+            "Czech": 5,
+            "Israeli": 4,
+            "Ukrainian": 4,
+            "Danish": 3,
+            "Peruvian": 3,
+            "Swedish": 3,
+            "Canadian Inuit": 2,
+            "Chilean": 2,
+            "Georgian": 2,
+            "Haitian": 2,
+            "Bulgarian": 1,
+            "Canadian": 1,
+            "Colombian": 1,
+            "Cuban": 1,
+            "Finnish": 1,
+            "Guatemalan": 1,
+            "Latvian": 1,
+            "Norwegian": 1,
+            "Uruguayan": 1,
+            "Yugoslav": 1
+          }
+        },
+        "Female": {
+          "total": 98,
+          "nationalities": {
+            "American": 48,
+            "German": 12,
+            "French": 7,
+            "British": 6,
+            "Russian": 6,
+            "Austrian": 3,
+            "Israeli": 2,
+            "Polish": 2,
+            "Swiss": 2,
+            "Belgian": 1,
+            "Brazilian": 1,
+            "Canadian": 1,
+            "Cuban": 1,
+            "Danish": 1,
+            "Dutch": 1,
+            "Finnish": 1,
+            "Greek": 1,
+            "Italian": 1,
+            "Swedish": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1900s",
+      "all_artist_num": 803,
+      "genders": {
+        "Male": {
+          "total": 683,
+          "nationalities": {
+            "American": 279,
+            "French": 61,
+            "German": 49,
+            "British": 39,
+            "Italian": 39,
+            "Japanese": 30,
+            "Swiss": 30,
+            "Russian": 27,
+            "Mexican": 14,
+            "Dutch": 12,
+            "Spanish": 9,
+            "Swedish": 9,
+            "Brazilian": 8,
+            "Czech": 8,
+            "Argentine": 7,
+            "Austrian": 7,
+            "Canadian": 5,
+            "Danish": 5,
+            "Australian": 4,
+            "Finnish": 4,
+            "Venezuelan": 4,
+            "Hungarian": 3,
+            "Peruvian": 3,
+            "Polish": 3,
+            "Belgian": 2,
+            "Costa Rican": 2,
+            "Cuban": 2,
+            "Greek": 2,
+            "Israeli": 2,
+            "Bulgarian": 1,
+            "Chilean": 1,
+            "Colombian": 1,
+            "Ecuadorian": 1,
+            "Icelandic": 1,
+            "Indian": 1,
+            "Irish": 1,
+            "Korean": 1,
+            "Latvian": 1,
+            "Portuguese": 1,
+            "Romanian": 1,
+            "Slovenian": 1,
+            "Turkish": 1,
+            "Yugoslav": 1
+          }
+        },
+        "Female": {
+          "total": 120,
+          "nationalities": {
+            "American": 63,
+            "German": 13,
+            "British": 9,
+            "Russian": 7,
+            "French": 6,
+            "Argentine": 5,
+            "Dutch": 4,
+            "Czech": 2,
+            "Mexican": 2,
+            "Austrian": 1,
+            "Belgian": 1,
+            "Brazilian": 1,
+            "Canadian": 1,
+            "Finnish": 1,
+            "Hungarian": 1,
+            "Italian": 1,
+            "Spanish": 1,
+            "Swedish": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1910s",
+      "all_artist_num": 740,
+      "genders": {
+        "Male": {
+          "total": 635,
+          "nationalities": {
+            "American": 313,
+            "Italian": 41,
+            "Japanese": 30,
+            "British": 25,
+            "German": 25,
+            "French": 24,
+            "Danish": 19,
+            "Swiss": 18,
+            "Mexican": 14,
+            "Spanish": 11,
+            "Dutch": 10,
+            "Argentine": 9,
+            "Russian": 9,
+            "Swedish": 9,
+            "Cuban": 8,
+            "Polish": 8,
+            "Brazilian": 7,
+            "Canadian": 6,
+            "Uruguayan": 6,
+            "Australian": 5,
+            "Belgian": 5,
+            "Czech": 5,
+            "Austrian": 3,
+            "Chilean": 3,
+            "Finnish": 3,
+            "Venezuelan": 3,
+            "Bolivian": 2,
+            "Colombian": 2,
+            "Ecuadorian": 2,
+            "Haitian": 2,
+            "Romanian": 2,
+            "Hungarian": 1,
+            "Israeli": 1,
+            "Korean": 1,
+            "Norwegian": 1,
+            "Peruvian": 1,
+            "Turkish": 1
+          }
+        },
+        "Female": {
+          "total": 105,
+          "nationalities": {
+            "American": 58,
+            "Brazilian": 5,
+            "British": 5,
+            "German": 5,
+            "Swiss": 5,
+            "Austrian": 2,
+            "Danish": 2,
+            "Mexican": 2,
+            "Polish": 2,
+            "Russian": 2,
+            "Swedish": 2,
+            "Argentine": 1,
+            "Chilean": 1,
+            "Cuban": 1,
+            "Dutch": 1,
+            "French": 1,
+            "Icelandic": 1,
+            "Israeli": 1,
+            "Italian": 1,
+            "Japanese": 1,
+            "Lebanese": 1,
+            "Paraguayan": 1,
+            "Peruvian": 1,
+            "Spanish": 1,
+            "Uruguayan": 1,
+            "Venezuelan": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1920s",
+      "all_artist_num": 1194,
+      "genders": {
+        "Male": {
+          "total": 1029,
+          "nationalities": {
+            "American": 417,
+            "Italian": 69,
+            "French": 65,
+            "German": 50,
+            "Japanese": 43,
+            "British": 39,
+            "Brazilian": 33,
+            "Argentine": 23,
+            "Swiss": 22,
+            "Dutch": 21,
+            "Austrian": 20,
+            "Canadian": 18,
+            "Spanish": 17,
+            "Polish": 16,
+            "Danish": 15,
+            "Belgian": 12,
+            "Swedish": 12,
+            "Colombian": 9,
+            "Czech": 9,
+            "Mexican": 9,
+            "Cuban": 8,
+            "Venezuelan": 8,
+            "Croatian": 7,
+            "Finnish": 7,
+            "Peruvian": 7,
+            "Russian": 6,
+            "Chilean": 5,
+            "Indian": 5,
+            "Yugoslav": 5,
+            "Israeli": 4,
+            "Australian": 3,
+            "Bosnian": 3,
+            "Guatemalan": 3,
+            "Haitian": 3,
+            "Hungarian": 3,
+            "Irish": 3,
+            "Slovenian": 3,
+            "Iranian": 2,
+            "Korean": 2,
+            "Macedonian": 2,
+            "Romanian": 2,
+            "Serbian": 2,
+            "Turkish": 2,
+            "Uruguayan": 2,
+            "Algerian": 1,
+            "Congolese": 1,
+            "Czechoslovakian": 1,
+            "Ivorian": 1,
+            "Lithuanian": 1,
+            "Malian": 1,
+            "Moroccan": 1,
+            "Nicaraguan": 1,
+            "Senegalese": 1,
+            "South African": 1,
+            "Tanzanian": 1,
+            "Ukrainian": 1,
+            "Zimbabwean": 1
+          }
+        },
+        "Female": {
+          "total": 165,
+          "nationalities": {
+            "American": 91,
+            "Brazilian": 9,
+            "Italian": 8,
+            "French": 7,
+            "Japanese": 6,
+            "Chilean": 4,
+            "Venezuelan": 4,
+            "Argentine": 3,
+            "Canadian": 3,
+            "Mexican": 3,
+            "Polish": 3,
+            "Swedish": 3,
+            "Austrian": 2,
+            "British": 2,
+            "Czech": 2,
+            "Finnish": 2,
+            "German": 2,
+            "Hungarian": 2,
+            "Australian": 1,
+            "Cuban": 1,
+            "Danish": 1,
+            "Dutch": 1,
+            "Georgian": 1,
+            "Romanian": 1,
+            "Russian": 1,
+            "Spanish": 1,
+            "Swiss": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1930s",
+      "all_artist_num": 1397,
+      "genders": {
+        "Male": {
+          "total": 1199,
+          "nationalities": {
+            "American": 502,
+            "German": 83,
+            "Italian": 83,
+            "Japanese": 78,
+            "British": 75,
+            "French": 42,
+            "Swiss": 31,
+            "Argentine": 22,
+            "Polish": 21,
+            "Dutch": 17,
+            "Canadian": 16,
+            "Mexican": 15,
+            "Venezuelan": 15,
+            "Chilean": 14,
+            "Spanish": 14,
+            "Swedish": 11,
+            "Austrian": 10,
+            "Israeli": 10,
+            "Russian": 10,
+            "Colombian": 9,
+            "Brazilian": 8,
+            "Australian": 7,
+            "Belgian": 7,
+            "Czech": 6,
+            "Cuban": 5,
+            "Greek": 5,
+            "Haitian": 5,
+            "Hungarian": 5,
+            "Uruguayan": 5,
+            "Croatian": 4,
+            "Danish": 4,
+            "Indian": 4,
+            "Korean": 4,
+            "Yugoslav": 4,
+            "Finnish": 3,
+            "Romanian": 3,
+            "South African": 3,
+            "Iranian": 2,
+            "Nigerian": 2,
+            "Norwegian": 2,
+            "Panamanian": 2,
+            "Peruvian": 2,
+            "Portuguese": 2,
+            "Serbian": 2,
+            "Slovak": 2,
+            "Turkish": 2,
+            "Bolivian": 1,
+            "Canadian Inuit": 1,
+            "Chinese": 1,
+            "Ecuadorian": 1,
+            "Estonian": 1,
+            "Ethiopian": 1,
+            "Guatemalan": 1,
+            "Guyanese": 1,
+            "Icelandic": 1,
+            "Irish": 1,
+            "Luxembourgish": 1,
+            "Macedonian": 1,
+            "Malian": 1,
+            "Moroccan": 1,
+            "New Zealander": 1,
+            "Pakistani": 1,
+            "Paraguayan": 1,
+            "Scottish": 1,
+            "Sudanese": 1,
+            "Taiwanese": 1,
+            "Ukrainian": 1
+          }
+        },
+        "Female": {
+          "total": 198,
+          "nationalities": {
+            "American": 110,
+            "British": 12,
+            "Japanese": 10,
+            "German": 9,
+            "Italian": 8,
+            "Argentine": 5,
+            "Brazilian": 5,
+            "French": 5,
+            "Colombian": 4,
+            "Finnish": 3,
+            "Swiss": 3,
+            "Canadian": 2,
+            "Indian": 2,
+            "Polish": 2,
+            "Venezuelan": 2,
+            "Yugoslav": 2,
+            "Australian": 1,
+            "Austrian": 1,
+            "Belgian": 1,
+            "Czech": 1,
+            "Dutch": 1,
+            "Hungarian": 1,
+            "Kuwaiti": 1,
+            "Macedonian": 1,
+            "Mexican": 1,
+            "Norwegian": 1,
+            "Portuguese": 1,
+            "South African": 1,
+            "Spanish": 1,
+            "Swedish": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1940s",
+      "all_artist_num": 1470,
+      "genders": {
+        "Male": {
+          "total": 1148,
+          "nationalities": {
+            "American": 574,
+            "British": 82,
+            "German": 70,
+            "Japanese": 57,
+            "Italian": 46,
+            "French": 30,
+            "Swiss": 29,
+            "Canadian": 28,
+            "Austrian": 21,
+            "Dutch": 18,
+            "Danish": 12,
+            "Polish": 12,
+            "Argentine": 11,
+            "Brazilian": 11,
+            "Spanish": 10,
+            "Swedish": 10,
+            "Australian": 9,
+            "Chilean": 9,
+            "Colombian": 9,
+            "Russian": 9,
+            "Czech": 8,
+            "Belgian": 6,
+            "Israeli": 6,
+            "Venezuelan": 6,
+            "Finnish": 5,
+            "South African": 5,
+            "Cuban": 4,
+            "Indian": 4,
+            "Mexican": 4,
+            "Congolese": 3,
+            "Croatian": 3,
+            "Hungarian": 3,
+            "Peruvian": 3,
+            "Serbian": 3,
+            "Uruguayan": 3,
+            "Yugoslav": 3,
+            "Korean": 2,
+            "New Zealander": 2,
+            "Norwegian": 2,
+            "Zimbabwean": 2,
+            "Bosnian": 1,
+            "Burkinabe": 1,
+            "Chinese": 1,
+            "Filipino": 1,
+            "Ghanaian": 1,
+            "Greek": 1,
+            "Lithuanian": 1,
+            "Luxembourgish": 1,
+            "Namibian": 1,
+            "Portuguese": 1,
+            "Romanian": 1,
+            "Slovenian": 1,
+            "Turkish": 1,
+            "Ukrainian": 1
+          }
+        },
+        "Female": {
+          "total": 322,
+          "nationalities": {
+            "American": 224,
+            "German": 13,
+            "British": 9,
+            "Chilean": 7,
+            "French": 7,
+            "Dutch": 6,
+            "Japanese": 6,
+            "Austrian": 5,
+            "Italian": 5,
+            "Polish": 5,
+            "Brazilian": 3,
+            "Swiss": 3,
+            "Canadian": 2,
+            "Indian": 2,
+            "Mexican": 2,
+            "Russian": 2,
+            "Spanish": 2,
+            "Swedish": 2,
+            "Venezuelan": 2,
+            "Argentine": 1,
+            "Australian": 1,
+            "Belgian": 1,
+            "Chinese": 1,
+            "Colombian": 1,
+            "Croatian": 1,
+            "Czech": 1,
+            "Egyptian": 1,
+            "Hungarian": 1,
+            "Icelandic": 1,
+            "Scottish": 1,
+            "Serbian": 1,
+            "South African": 1,
+            "Turkish": 1,
+            "Yugoslav": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1950s",
+      "all_artist_num": 1086,
+      "genders": {
+        "Male": {
+          "total": 812,
+          "nationalities": {
+            "American": 380,
+            "British": 61,
+            "German": 50,
+            "Japanese": 29,
+            "Austrian": 26,
+            "Dutch": 24,
+            "Canadian": 22,
+            "Italian": 21,
+            "Russian": 20,
+            "French": 19,
+            "Spanish": 18,
+            "Swiss": 14,
+            "Brazilian": 13,
+            "Belgian": 9,
+            "Chinese": 9,
+            "Polish": 9,
+            "Chilean": 7,
+            "South African": 6,
+            "Danish": 5,
+            "Hungarian": 5,
+            "Israeli": 5,
+            "Colombian": 4,
+            "Mexican": 4,
+            "Swedish": 4,
+            "Argentine": 3,
+            "Australian": 3,
+            "Czech": 3,
+            "Indian": 3,
+            "Korean": 3,
+            "Norwegian": 3,
+            "Venezuelan": 3,
+            "Bulgarian": 2,
+            "Congolese": 2,
+            "Irish": 2,
+            "Romanian": 2,
+            "Bosnian": 1,
+            "Cambodian": 1,
+            "Croatian": 1,
+            "Cuban": 1,
+            "Egyptian": 1,
+            "Filipino": 1,
+            "Ghanaian": 1,
+            "Iranian": 1,
+            "Malaysian": 1,
+            "Moroccan": 1,
+            "Native American": 1,
+            "New Zealander": 1,
+            "Nigerian": 1,
+            "Peruvian": 1,
+            "Portuguese": 1,
+            "Senegalese": 1,
+            "Turkish": 1,
+            "Uruguayan": 1,
+            "Yugoslav": 1
+          }
+        },
+        "Female": {
+          "total": 274,
+          "nationalities": {
+            "American": 164,
+            "British": 18,
+            "German": 14,
+            "Canadian": 12,
+            "French": 6,
+            "Japanese": 6,
+            "Austrian": 4,
+            "Colombian": 3,
+            "Dutch": 3,
+            "Indian": 3,
+            "Irish": 3,
+            "Israeli": 3,
+            "South African": 3,
+            "Spanish": 3,
+            "Danish": 2,
+            "Iranian": 2,
+            "Italian": 2,
+            "Peruvian": 2,
+            "Russian": 2,
+            "Swiss": 2,
+            "Algerian": 1,
+            "Argentine": 1,
+            "Belgian": 1,
+            "Brazilian": 1,
+            "Chinese": 1,
+            "Cuban": 1,
+            "Czech": 1,
+            "Finnish": 1,
+            "Korean": 1,
+            "Malaysian": 1,
+            "Mexican": 1,
+            "Native American": 1,
+            "New Zealander": 1,
+            "Slovenian": 1,
+            "Swedish": 1,
+            "Taiwanese": 1,
+            "Venezuelan": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1960s",
+      "all_artist_num": 1023,
+      "genders": {
+        "Male": {
+          "total": 713,
+          "nationalities": {
+            "American": 241,
+            "British": 76,
+            "German": 58,
+            "Chinese": 28,
+            "Japanese": 27,
+            "French": 26,
+            "Dutch": 24,
+            "Austrian": 23,
+            "Russian": 17,
+            "Italian": 16,
+            "Canadian": 15,
+            "Brazilian": 13,
+            "Spanish": 12,
+            "Swiss": 10,
+            "South African": 9,
+            "Korean": 8,
+            "Mexican": 8,
+            "Belgian": 7,
+            "Danish": 7,
+            "Argentine": 5,
+            "Polish": 5,
+            "Scottish": 5,
+            "Australian": 4,
+            "Cuban": 4,
+            "Norwegian": 4,
+            "Albanian": 3,
+            "Czech": 3,
+            "Indian": 3,
+            "Israeli": 3,
+            "Lebanese": 3,
+            "Chilean": 2,
+            "Colombian": 2,
+            "Croatian": 2,
+            "Hungarian": 2,
+            "Icelandic": 2,
+            "Iranian": 2,
+            "Irish": 2,
+            "New Zealander": 2,
+            "Peruvian": 2,
+            "Romanian": 2,
+            "Turkish": 2,
+            "Venezuelan": 2,
+            "Azerbaijani": 1,
+            "Bangladeshi": 1,
+            "Beninese": 1,
+            "Cameroonian": 1,
+            "Cypriot": 1,
+            "Egyptian": 1,
+            "Finnish": 1,
+            "Greek": 1,
+            "Kazakhstani": 1,
+            "Lithuanian": 1,
+            "Luxembourgish": 1,
+            "Malaysian": 1,
+            "Palestinian": 1,
+            "Serbian": 1,
+            "Singaporean": 1,
+            "Slovak": 1,
+            "Swedish": 1,
+            "Thai": 1,
+            "Ugandan": 1,
+            "Ukrainian": 1,
+            "Uruguayan": 1,
+            "Vietnamese": 1
+          }
+        },
+        "Female": {
+          "total": 310,
+          "nationalities": {
+            "American": 116,
+            "German": 34,
+            "British": 24,
+            "Dutch": 10,
+            "Austrian": 9,
+            "Canadian": 8,
+            "French": 8,
+            "Chinese": 7,
+            "Italian": 7,
+            "Japanese": 7,
+            "South African": 7,
+            "Brazilian": 6,
+            "Israeli": 5,
+            "Swiss": 5,
+            "Cuban": 4,
+            "Mexican": 4,
+            "Norwegian": 4,
+            "Swedish": 4,
+            "Belgian": 3,
+            "Chilean": 3,
+            "Finnish": 3,
+            "Indian": 3,
+            "Russian": 3,
+            "Spanish": 3,
+            "Turkish": 3,
+            "Argentine": 2,
+            "Australian": 2,
+            "Scottish": 2,
+            "Venezuelan": 2,
+            "Bahamian": 1,
+            "Bosnian": 1,
+            "Colombian": 1,
+            "Croatian": 1,
+            "Hungarian": 1,
+            "Icelandic": 1,
+            "Iranian": 1,
+            "Irish": 1,
+            "Korean": 1,
+            "Pakistani": 1,
+            "Peruvian": 1,
+            "Slovak": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1970s",
+      "all_artist_num": 767,
+      "genders": {
+        "Male": {
+          "total": 533,
+          "nationalities": {
+            "American": 200,
+            "British": 38,
+            "German": 32,
+            "Dutch": 20,
+            "Japanese": 19,
+            "Canadian": 15,
+            "Austrian": 13,
+            "Swiss": 13,
+            "Chinese": 12,
+            "Italian": 11,
+            "South African": 11,
+            "Mexican": 10,
+            "Cuban": 9,
+            "Danish": 9,
+            "French": 8,
+            "Israeli": 8,
+            "Spanish": 8,
+            "Brazilian": 6,
+            "Colombian": 6,
+            "Argentine": 4,
+            "Belgian": 4,
+            "Chilean": 4,
+            "Finnish": 4,
+            "Korean": 4,
+            "Norwegian": 4,
+            "Peruvian": 4,
+            "Turkish": 4,
+            "Irish": 3,
+            "Portuguese": 3,
+            "Scottish": 3,
+            "Swedish": 3,
+            "Algerian": 2,
+            "Australian": 2,
+            "Czech": 2,
+            "Egyptian": 2,
+            "Indian": 2,
+            "Polish": 2,
+            "Romanian": 2,
+            "Russian": 2,
+            "Slovak": 2,
+            "Thai": 2,
+            "Uruguayan": 2,
+            "Venezuelan": 2,
+            "Albanian": 1,
+            "Bulgarian": 1,
+            "Croatian": 1,
+            "Georgian": 1,
+            "Guatemalan": 1,
+            "Icelandic": 1,
+            "Kenyan": 1,
+            "Kyrgyzstani": 1,
+            "Lebanese": 1,
+            "New Zealander": 1,
+            "Nigerian": 1,
+            "Salvadoran": 1,
+            "Serbian": 1,
+            "Sierra Leonean": 1,
+            "Singaporean": 1,
+            "Slovenian": 1,
+            "Vietnamese": 1
+          }
+        },
+        "Female": {
+          "total": 234,
+          "nationalities": {
+            "American": 92,
+            "German": 19,
+            "Japanese": 11,
+            "British": 10,
+            "Austrian": 7,
+            "Dutch": 7,
+            "South African": 7,
+            "Israeli": 6,
+            "Swiss": 6,
+            "Argentine": 4,
+            "Danish": 4,
+            "French": 4,
+            "Polish": 4,
+            "Swedish": 4,
+            "Brazilian": 3,
+            "Canadian": 3,
+            "Indian": 3,
+            "Korean": 3,
+            "Mexican": 3,
+            "Spanish": 3,
+            "Bosnian": 2,
+            "Chinese": 2,
+            "Finnish": 2,
+            "Moroccan": 2,
+            "Pakistani": 2,
+            "Peruvian": 2,
+            "Afghan": 1,
+            "Australian": 1,
+            "Belgian": 1,
+            "Colombian": 1,
+            "Egyptian": 1,
+            "Georgian": 1,
+            "Guatemalan": 1,
+            "Italian": 1,
+            "Kenyan": 1,
+            "Lebanese": 1,
+            "Macedonian": 1,
+            "Native American": 1,
+            "New Zealander": 1,
+            "Norwegian": 1,
+            "Portuguese": 1,
+            "Russian": 1,
+            "Scottish": 1,
+            "Slovak": 1,
+            "Taiwanese": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1980s",
+      "all_artist_num": 158,
+      "genders": {
+        "Male": {
+          "total": 88,
+          "nationalities": {
+            "American": 38,
+            "British": 10,
+            "French": 5,
+            "Chinese": 4,
+            "Dutch": 3,
+            "Argentine": 2,
+            "Brazilian": 2,
+            "German": 2,
+            "New Zealander": 2,
+            "Swiss": 2,
+            "Zimbabwean": 2,
+            "Algerian": 1,
+            "Australian": 1,
+            "Belgian": 1,
+            "Canadian": 1,
+            "Cuban": 1,
+            "Egyptian": 1,
+            "Irish": 1,
+            "Israeli": 1,
+            "Italian": 1,
+            "Japanese": 1,
+            "Kyrgyzstani": 1,
+            "Mexican": 1,
+            "Palestinian": 1,
+            "Scottish": 1,
+            "South African": 1,
+            "Turkish": 1
+          }
+        },
+        "Female": {
+          "total": 70,
+          "nationalities": {
+            "American": 28,
+            "Japanese": 5,
+            "French": 4,
+            "German": 4,
+            "Italian": 4,
+            "Austrian": 3,
+            "Brazilian": 3,
+            "British": 2,
+            "Canadian": 2,
+            "Dutch": 2,
+            "Palestinian": 2,
+            "Chinese": 1,
+            "Colombian": 1,
+            "Czech": 1,
+            "Iranian": 1,
+            "Israeli": 1,
+            "Lebanese": 1,
+            "Polish": 1,
+            "Russian": 1,
+            "Spanish": 1,
+            "Swiss": 1,
+            "Turkish": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1990s",
+      "all_artist_num": 7,
+      "genders": {
+        "Male": {
+          "total": 4,
+          "nationalities": {
+            "American": 2,
+            "British": 1,
+            "Irish": 1
+          }
+        },
+        "Female": {
+          "total": 3,
+          "nationalities": {
+            "American": 1,
+            "Emirati": 1,
+            "Welsh": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "2000s",
+      "all_artist_num": 1,
+      "genders": {
+        "Male": {
+          "total": 1,
+          "nationalities": {
+            "French": 1
+          }
+        },
+        "Female": {
+          "total": 0,
+          "nationalities": {}
+        }
+      }
+    }
+  ]
+}
