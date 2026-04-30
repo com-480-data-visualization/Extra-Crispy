@@ -4,6 +4,7 @@ import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell } from 
 import { ArrowLeft, X } from 'lucide-react';
 import { ContinentTopArtist, getContinentTopArtists } from '../data/continentTopArtists';
 import { getContinentBubble } from '../data/continentBubbles';
+import { getChartImageUrl, getDistributionCount } from '../data/distributionData';
 
 export default function ContinentDetails() {
   const { continentName } = useParams<{ continentName: string }>();
@@ -14,7 +15,20 @@ export default function ContinentDetails() {
   const topArtists = useMemo(() => getContinentTopArtists(decodedContinentName), [decodedContinentName]);
   const artistBubble = useMemo(() => getContinentBubble(decodedContinentName, 'Artist'), [decodedContinentName]);
   const artworkBubble = useMemo(() => getContinentBubble(decodedContinentName, 'Artwork'), [decodedContinentName]);
-  const totalWorks = useMemo(() => topArtists.reduce((sum, artist) => sum + artist.count, 0), [topArtists]);
+  const artworkCount = getDistributionCount({
+    mode: 'artworks',
+    borderMode: 'continent',
+    region: decodedContinentName,
+    selectedCategory: null,
+    selectedDecade: null,
+  });
+  const artistCount = getDistributionCount({
+    mode: 'artists',
+    borderMode: 'continent',
+    region: decodedContinentName,
+    selectedCategory: null,
+    selectedDecade: null,
+  });
 
   useEffect(() => {
     setSelectedArtist(null);
@@ -37,16 +51,24 @@ export default function ContinentDetails() {
       </div>
 
       <div className="flex-1 flex w-full h-full pt-24 pb-6 px-6 gap-6 z-10">
-        <div className="w-[30%] grid grid-cols-2 grid-rows-2 gap-4 h-full">
-          <SummaryCard label="Top Artist Works" value={totalWorks.toLocaleString()} detail="Works represented by the continent's listed artists" tone="warm" />
-          <SummaryCard label="Artists Listed" value={topArtists.length.toString()} detail="Ranked by artwork count in the dataset" tone="cool" />
-          <BubbleCard label="Artist Bubble" imageUrl={artistBubble?.imageUrl} />
-          <BubbleCard label="Artwork Bubble" imageUrl={artworkBubble?.imageUrl} />
+        <div className="w-[30%] grid grid-cols-1 grid-rows-2 gap-4 h-full">
+          <ChartCard
+            label="Artwork Count"
+            countLabel={`${artworkCount.toLocaleString()} artworks`}
+            imageUrl={getChartImageUrl('artworks', decodedContinentName)}
+            alt={`${decodedContinentName} artwork count over five-year periods`}
+          />
+          <ChartCard
+            label="Artist Count"
+            countLabel={`${artistCount.toLocaleString()} artists`}
+            imageUrl={getChartImageUrl('artists', decodedContinentName)}
+            alt={`${decodedContinentName} artist count over five-year periods`}
+          />
         </div>
 
         <div className="flex-1 relative rounded-xl overflow-hidden border border-[#D3CDBF]/30 bg-[#EAE5D9] shadow-inner p-2">
           {selectedArtist ? (
-            <div className="w-full h-full bg-[#F4EFE6]/95 backdrop-blur-xl rounded-lg p-6 flex flex-col gap-4 animate-in fade-in duration-300 overflow-y-auto custom-scrollbar relative">
+            <div className="w-full h-full bg-[#F4EFE6]/95 backdrop-blur-xl rounded-lg p-8 flex flex-col gap-5 animate-in fade-in duration-300 overflow-y-auto custom-scrollbar relative">
               <button
                 onClick={() => setSelectedArtist(null)}
                 className="absolute top-4 right-4 text-[#8C857B] hover:text-[#3A352D] transition-colors z-10"
@@ -55,8 +77,8 @@ export default function ContinentDetails() {
                 <X size={20} />
               </button>
 
-              <div className="flex gap-6 shrink-0 pr-10">
-                <div className="w-32 h-40 shrink-0 rounded-lg overflow-hidden border-4 border-[#EAE5D9] shadow-md bg-[#D3CDBF]/30 flex items-center justify-center">
+              <div className="grid grid-cols-[180px_minmax(0,1fr)] gap-x-8 gap-y-5 pr-10">
+                <div className="w-44 h-56 shrink-0 rounded-lg overflow-hidden border-4 border-[#EAE5D9] shadow-md bg-[#D3CDBF]/30 flex items-center justify-center">
                   {selectedArtist.photoUrl ? (
                     <img
                       src={selectedArtist.photoUrl}
@@ -69,9 +91,9 @@ export default function ContinentDetails() {
                   )}
                 </div>
 
-                <div className="flex-1 flex flex-col justify-center">
-                  <h2 className="font-serif text-2xl font-bold text-[#3A352D] mb-2">{selectedArtist.name}</h2>
-                  <div className="flex flex-wrap items-center gap-3 mb-3">
+                <div className="flex flex-col justify-end max-w-[560px]">
+                  <h2 className="font-serif text-3xl font-bold text-[#3A352D] mb-4 leading-tight">{selectedArtist.name}</h2>
+                  <div className="flex flex-wrap items-center gap-3">
                     <span className="px-3 py-1 bg-[#D3CDBF]/40 rounded-full text-xs font-medium text-[#5C554A]">
                       {selectedArtist.nationality}
                     </span>
@@ -82,18 +104,19 @@ export default function ContinentDetails() {
                       Rank #{selectedArtist.rank}
                     </span>
                   </div>
-                  <p className="text-[#5C554A] text-sm leading-relaxed">
-                    {selectedArtist.description}
-                  </p>
                 </div>
+
+                <p className="col-span-2 max-w-[620px] text-justify text-[#5C554A] text-base leading-7">
+                  {selectedArtist.description}
+                </p>
               </div>
 
-              <div className="w-full flex-1 min-h-[240px] rounded-xl overflow-hidden border border-[#D3CDBF]/50 mt-2 relative">
+              <div className="w-full flex-1 min-h-[380px] rounded-xl overflow-hidden border border-[#D3CDBF]/50 mt-2 relative">
                 {selectedArtist.plotUrl ? (
                   <img
                     src={selectedArtist.plotUrl}
                     alt={`${selectedArtist.name} creative timeline`}
-                    className="absolute inset-0 w-full h-full object-contain p-4"
+                    className="absolute inset-0 w-full h-full object-contain p-2"
                     referrerPolicy="no-referrer"
                   />
                 ) : (
@@ -105,25 +128,10 @@ export default function ContinentDetails() {
             <div className="w-full h-full rounded-lg bg-[#F4EFE6]/80 p-8 flex flex-col justify-center">
               <p className="text-sm uppercase tracking-widest text-[#8C857B] mb-3">Continent Profile</p>
               <h2 className="font-serif text-5xl font-bold text-[#3A352D] mb-6">{decodedContinentName}</h2>
-              {topArtists.length > 0 ? (
-                <div className="grid grid-cols-2 gap-3 max-w-3xl">
-                  {topArtists.slice(0, 6).map(artist => (
-                    <button
-                      key={artist.id}
-                      onClick={() => setSelectedArtist(artist)}
-                      className="text-left bg-[#EAE5D9]/70 border border-[#D3CDBF]/60 rounded-lg p-4 hover:bg-[#EAE5D9] transition-colors"
-                    >
-                      <div className="text-xs font-mono text-[#8C857B]">#{artist.rank}</div>
-                      <div className="font-serif font-bold text-[#3A352D] truncate">{artist.name}</div>
-                      <div className="text-sm text-[#8C857B]">{artist.count.toLocaleString()} artworks</div>
-                    </button>
-                  ))}
-                </div>
-              ) : (
-                <p className="max-w-xl text-[#5C554A] leading-relaxed">
-                  No top artist data is available for this continent in the current dataset.
-                </p>
-              )}
+              <div className="grid grid-cols-1 grid-rows-2 gap-4 max-w-3xl h-[430px]">
+                <BubbleCard label="Artist Bubble" imageUrl={artistBubble?.imageUrl} />
+                <BubbleCard label="Artwork Bubble" imageUrl={artworkBubble?.imageUrl} />
+              </div>
             </div>
           )}
         </div>
@@ -155,7 +163,10 @@ export default function ContinentDetails() {
                   <Bar
                     dataKey="count"
                     radius={[0, 4, 4, 0]}
-                    onClick={(data) => setSelectedArtist(data)}
+                    onClick={(data) => {
+                      const artist = topArtists.find(item => item.id === data.id);
+                      if (artist) setSelectedArtist(artist);
+                    }}
                     className="cursor-pointer transition-opacity hover:opacity-80"
                   >
                     {topArtists.map((entry) => (
@@ -177,14 +188,20 @@ export default function ContinentDetails() {
   );
 }
 
-function SummaryCard({ label, value, detail, tone }: { label: string; value: string; detail: string; tone: 'warm' | 'cool' | 'dark' }) {
-  const valueColor = tone === 'warm' ? 'text-[#D95C3A]' : tone === 'cool' ? 'text-[#4A6D7C]' : 'text-[#3A352D]';
-
+function ChartCard({ label, countLabel, imageUrl, alt }: { label: string; countLabel: string; imageUrl: string; alt: string }) {
   return (
-    <div className="bg-[#F4EFE6]/70 backdrop-blur-md border border-[#D3CDBF]/50 rounded-xl p-4 shadow-[0_8px_32px_rgba(0,0,0,0.05)] flex flex-col justify-center">
-      <h3 className="font-serif font-bold text-sm text-[#3A352D] border-b border-[#D3CDBF]/50 pb-2 mb-3">{label}</h3>
-      <div className={`text-3xl font-serif font-bold ${valueColor}`}>{value}</div>
-      <p className="text-xs text-[#8C857B] mt-2 leading-relaxed">{detail}</p>
+    <div className="bg-[#F4EFE6]/70 backdrop-blur-md border border-[#D3CDBF]/50 rounded-xl p-4 shadow-[0_8px_32px_rgba(0,0,0,0.05)] flex flex-col min-h-0">
+      <div className="border-b border-[#D3CDBF]/50 pb-2 mb-3">
+        <h3 className="font-serif font-bold text-sm text-[#3A352D]">{label}</h3>
+        <p className="text-xs font-mono text-[#8C857B]">{countLabel}</p>
+      </div>
+      <div className="flex-1 min-h-0 rounded-lg overflow-hidden relative bg-[#D3CDBF]/30 flex items-center justify-center">
+        <img
+          src={imageUrl}
+          alt={alt}
+          className="absolute inset-0 w-full h-full object-contain p-2"
+        />
+      </div>
     </div>
   );
 }
@@ -198,7 +215,7 @@ function BubbleCard({ label, imageUrl }: { label: string; imageUrl?: string }) {
           <img
             src={imageUrl}
             alt={label}
-            className="w-[130%] h-[130%] max-w-none object-contain"
+            className="w-full h-full object-contain p-2"
             referrerPolicy="no-referrer"
           />
         ) : (

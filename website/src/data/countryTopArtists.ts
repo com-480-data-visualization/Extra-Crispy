@@ -10178,7 +10178,16 @@ export const countryTopArtists: CountryTopArtist[] = [
     }
 ];
 
-export const getCountryTopArtists = (country: string): CountryTopArtist[] =>
-  countryTopArtists
-    .filter(artist => artist.country === country)
+const normalizeRegionName = (value: string) => value.trim().toLowerCase();
+
+export const getCountryTopArtists = (country: string): CountryTopArtist[] => {
+  const normalizedCountry = normalizeRegionName(country);
+
+  return countryTopArtists
+    .filter(artist => (
+      normalizeRegionName(artist.country) === normalizedCountry ||
+      normalizeRegionName(artist.nationality) === normalizedCountry ||
+      normalizeRegionName(artist.nationalityLabel) === normalizedCountry
+    ))
     .sort((a, b) => b.count - a.count || a.rank - b.rank);
+};

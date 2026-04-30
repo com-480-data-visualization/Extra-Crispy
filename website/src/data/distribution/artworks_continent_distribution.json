@@ -1,0 +1,4652 @@
+﻿{
+  "classifications": [
+    "(not assigned)",
+    "Architectural Model",
+    "Architecture",
+    "Audio",
+    "Collage",
+    "Design",
+    "Digital",
+    "Drawing",
+    "Ephemera",
+    "Film",
+    "Film (object)",
+    "Frank Lloyd Wright Archive",
+    "Furniture and Interiors",
+    "Graphic Design",
+    "Illustrated Book",
+    "Installation",
+    "Media",
+    "Mies van der Rohe Archive",
+    "Multiple",
+    "Painting",
+    "Performance",
+    "Periodical",
+    "Photograph",
+    "Photography Research/Reference",
+    "Poster",
+    "Print",
+    "Publication",
+    "Sculpture",
+    "Software",
+    "Textile",
+    "Video",
+    "Work on Paper"
+  ],
+  "decades": [
+    {
+      "decade": "1760s",
+      "all_artwork_num": 2,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Audio": {
+          "total": 0,
+          "continents": {}
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 2,
+          "continents": {
+            "Europe": 2
+          }
+        },
+        "Digital": {
+          "total": 0,
+          "continents": {}
+        },
+        "Drawing": {
+          "total": 0,
+          "continents": {}
+        },
+        "Ephemera": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Illustrated Book": {
+          "total": 0,
+          "continents": {}
+        },
+        "Installation": {
+          "total": 0,
+          "continents": {}
+        },
+        "Media": {
+          "total": 0,
+          "continents": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "continents": {}
+        },
+        "Painting": {
+          "total": 0,
+          "continents": {}
+        },
+        "Performance": {
+          "total": 0,
+          "continents": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photograph": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 0,
+          "continents": {}
+        },
+        "Print": {
+          "total": 0,
+          "continents": {}
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 0,
+          "continents": {}
+        },
+        "Video": {
+          "total": 0,
+          "continents": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1770s",
+      "all_artwork_num": 0,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Audio": {
+          "total": 0,
+          "continents": {}
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Digital": {
+          "total": 0,
+          "continents": {}
+        },
+        "Drawing": {
+          "total": 0,
+          "continents": {}
+        },
+        "Ephemera": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Illustrated Book": {
+          "total": 0,
+          "continents": {}
+        },
+        "Installation": {
+          "total": 0,
+          "continents": {}
+        },
+        "Media": {
+          "total": 0,
+          "continents": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "continents": {}
+        },
+        "Painting": {
+          "total": 0,
+          "continents": {}
+        },
+        "Performance": {
+          "total": 0,
+          "continents": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photograph": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 0,
+          "continents": {}
+        },
+        "Print": {
+          "total": 0,
+          "continents": {}
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 0,
+          "continents": {}
+        },
+        "Video": {
+          "total": 0,
+          "continents": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1780s",
+      "all_artwork_num": 0,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Audio": {
+          "total": 0,
+          "continents": {}
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Digital": {
+          "total": 0,
+          "continents": {}
+        },
+        "Drawing": {
+          "total": 0,
+          "continents": {}
+        },
+        "Ephemera": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Illustrated Book": {
+          "total": 0,
+          "continents": {}
+        },
+        "Installation": {
+          "total": 0,
+          "continents": {}
+        },
+        "Media": {
+          "total": 0,
+          "continents": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "continents": {}
+        },
+        "Painting": {
+          "total": 0,
+          "continents": {}
+        },
+        "Performance": {
+          "total": 0,
+          "continents": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photograph": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 0,
+          "continents": {}
+        },
+        "Print": {
+          "total": 0,
+          "continents": {}
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 0,
+          "continents": {}
+        },
+        "Video": {
+          "total": 0,
+          "continents": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1790s",
+      "all_artwork_num": 80,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Audio": {
+          "total": 0,
+          "continents": {}
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Digital": {
+          "total": 0,
+          "continents": {}
+        },
+        "Drawing": {
+          "total": 0,
+          "continents": {}
+        },
+        "Ephemera": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Illustrated Book": {
+          "total": 80,
+          "continents": {
+            "Europe": 80
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "continents": {}
+        },
+        "Media": {
+          "total": 0,
+          "continents": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "continents": {}
+        },
+        "Painting": {
+          "total": 0,
+          "continents": {}
+        },
+        "Performance": {
+          "total": 0,
+          "continents": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photograph": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 0,
+          "continents": {}
+        },
+        "Print": {
+          "total": 0,
+          "continents": {}
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 0,
+          "continents": {}
+        },
+        "Video": {
+          "total": 0,
+          "continents": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1800s",
+      "all_artwork_num": 0,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Audio": {
+          "total": 0,
+          "continents": {}
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Digital": {
+          "total": 0,
+          "continents": {}
+        },
+        "Drawing": {
+          "total": 0,
+          "continents": {}
+        },
+        "Ephemera": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Illustrated Book": {
+          "total": 0,
+          "continents": {}
+        },
+        "Installation": {
+          "total": 0,
+          "continents": {}
+        },
+        "Media": {
+          "total": 0,
+          "continents": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "continents": {}
+        },
+        "Painting": {
+          "total": 0,
+          "continents": {}
+        },
+        "Performance": {
+          "total": 0,
+          "continents": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photograph": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 0,
+          "continents": {}
+        },
+        "Print": {
+          "total": 0,
+          "continents": {}
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 0,
+          "continents": {}
+        },
+        "Video": {
+          "total": 0,
+          "continents": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1810s",
+      "all_artwork_num": 423,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Audio": {
+          "total": 0,
+          "continents": {}
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Digital": {
+          "total": 0,
+          "continents": {}
+        },
+        "Drawing": {
+          "total": 0,
+          "continents": {}
+        },
+        "Ephemera": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Illustrated Book": {
+          "total": 422,
+          "continents": {
+            "Europe": 422
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "continents": {}
+        },
+        "Media": {
+          "total": 0,
+          "continents": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "continents": {}
+        },
+        "Painting": {
+          "total": 0,
+          "continents": {}
+        },
+        "Performance": {
+          "total": 0,
+          "continents": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photograph": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 0,
+          "continents": {}
+        },
+        "Print": {
+          "total": 1,
+          "continents": {
+            "Europe": 1
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 0,
+          "continents": {}
+        },
+        "Video": {
+          "total": 0,
+          "continents": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1820s",
+      "all_artwork_num": 19,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Audio": {
+          "total": 0,
+          "continents": {}
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 1,
+          "continents": {
+            "Europe": 1
+          }
+        },
+        "Digital": {
+          "total": 0,
+          "continents": {}
+        },
+        "Drawing": {
+          "total": 0,
+          "continents": {}
+        },
+        "Ephemera": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Illustrated Book": {
+          "total": 18,
+          "continents": {
+            "Europe": 18
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "continents": {}
+        },
+        "Media": {
+          "total": 0,
+          "continents": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "continents": {}
+        },
+        "Painting": {
+          "total": 0,
+          "continents": {}
+        },
+        "Performance": {
+          "total": 0,
+          "continents": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photograph": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 0,
+          "continents": {}
+        },
+        "Print": {
+          "total": 0,
+          "continents": {}
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 0,
+          "continents": {}
+        },
+        "Video": {
+          "total": 0,
+          "continents": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1830s",
+      "all_artwork_num": 14,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Audio": {
+          "total": 0,
+          "continents": {}
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Digital": {
+          "total": 0,
+          "continents": {}
+        },
+        "Drawing": {
+          "total": 0,
+          "continents": {}
+        },
+        "Ephemera": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Illustrated Book": {
+          "total": 7,
+          "continents": {
+            "Europe": 7
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "continents": {}
+        },
+        "Media": {
+          "total": 0,
+          "continents": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "continents": {}
+        },
+        "Painting": {
+          "total": 0,
+          "continents": {}
+        },
+        "Performance": {
+          "total": 0,
+          "continents": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photograph": {
+          "total": 5,
+          "continents": {
+            "Europe": 4,
+            "North America": 1
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 0,
+          "continents": {}
+        },
+        "Print": {
+          "total": 2,
+          "continents": {
+            "Europe": 2
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 0,
+          "continents": {}
+        },
+        "Video": {
+          "total": 0,
+          "continents": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1840s",
+      "all_artwork_num": 140,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Audio": {
+          "total": 0,
+          "continents": {}
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Digital": {
+          "total": 0,
+          "continents": {}
+        },
+        "Drawing": {
+          "total": 0,
+          "continents": {}
+        },
+        "Ephemera": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Illustrated Book": {
+          "total": 0,
+          "continents": {}
+        },
+        "Installation": {
+          "total": 0,
+          "continents": {}
+        },
+        "Media": {
+          "total": 0,
+          "continents": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "continents": {}
+        },
+        "Painting": {
+          "total": 0,
+          "continents": {}
+        },
+        "Performance": {
+          "total": 0,
+          "continents": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photograph": {
+          "total": 133,
+          "continents": {
+            "Europe": 133
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 0,
+          "continents": {}
+        },
+        "Print": {
+          "total": 7,
+          "continents": {
+            "Europe": 7
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 0,
+          "continents": {}
+        },
+        "Video": {
+          "total": 0,
+          "continents": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1850s",
+      "all_artwork_num": 596,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Audio": {
+          "total": 0,
+          "continents": {}
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Digital": {
+          "total": 0,
+          "continents": {}
+        },
+        "Drawing": {
+          "total": 0,
+          "continents": {}
+        },
+        "Ephemera": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Illustrated Book": {
+          "total": 103,
+          "continents": {
+            "Europe": 103
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "continents": {}
+        },
+        "Media": {
+          "total": 0,
+          "continents": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "continents": {}
+        },
+        "Painting": {
+          "total": 0,
+          "continents": {}
+        },
+        "Performance": {
+          "total": 0,
+          "continents": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photograph": {
+          "total": 485,
+          "continents": {
+            "Europe": 454,
+            "North America": 31
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 0,
+          "continents": {}
+        },
+        "Print": {
+          "total": 8,
+          "continents": {
+            "Europe": 6,
+            "North America": 2
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 0,
+          "continents": {}
+        },
+        "Video": {
+          "total": 0,
+          "continents": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1860s",
+      "all_artwork_num": 826,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Audio": {
+          "total": 0,
+          "continents": {}
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 3,
+          "continents": {
+            "Europe": 3
+          }
+        },
+        "Digital": {
+          "total": 0,
+          "continents": {}
+        },
+        "Drawing": {
+          "total": 6,
+          "continents": {
+            "Europe": 6
+          }
+        },
+        "Ephemera": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Illustrated Book": {
+          "total": 21,
+          "continents": {
+            "Europe": 21
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "continents": {}
+        },
+        "Media": {
+          "total": 0,
+          "continents": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "continents": {}
+        },
+        "Painting": {
+          "total": 0,
+          "continents": {}
+        },
+        "Performance": {
+          "total": 0,
+          "continents": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photograph": {
+          "total": 786,
+          "continents": {
+            "North America": 458,
+            "Europe": 328
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 0,
+          "continents": {}
+        },
+        "Print": {
+          "total": 10,
+          "continents": {
+            "Europe": 9,
+            "North America": 1
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 0,
+          "continents": {}
+        },
+        "Video": {
+          "total": 0,
+          "continents": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1870s",
+      "all_artwork_num": 618,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Audio": {
+          "total": 0,
+          "continents": {}
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 8,
+          "continents": {
+            "Europe": 7,
+            "North America": 1
+          }
+        },
+        "Digital": {
+          "total": 0,
+          "continents": {}
+        },
+        "Drawing": {
+          "total": 9,
+          "continents": {
+            "Europe": 8,
+            "North America": 1
+          }
+        },
+        "Ephemera": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Illustrated Book": {
+          "total": 15,
+          "continents": {
+            "Europe": 15
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "continents": {}
+        },
+        "Media": {
+          "total": 0,
+          "continents": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "continents": {}
+        },
+        "Painting": {
+          "total": 8,
+          "continents": {
+            "Europe": 8
+          }
+        },
+        "Performance": {
+          "total": 0,
+          "continents": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photograph": {
+          "total": 553,
+          "continents": {
+            "Europe": 361,
+            "North America": 192
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 0,
+          "continents": {}
+        },
+        "Print": {
+          "total": 24,
+          "continents": {
+            "Europe": 19,
+            "North America": 5
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 1,
+          "continents": {
+            "Europe": 1
+          }
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 0,
+          "continents": {}
+        },
+        "Video": {
+          "total": 0,
+          "continents": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1880s",
+      "all_artwork_num": 465,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 1,
+          "continents": {
+            "Europe": 1
+          }
+        },
+        "Audio": {
+          "total": 0,
+          "continents": {}
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 15,
+          "continents": {
+            "Europe": 15
+          }
+        },
+        "Digital": {
+          "total": 0,
+          "continents": {}
+        },
+        "Drawing": {
+          "total": 21,
+          "continents": {
+            "Europe": 21
+          }
+        },
+        "Ephemera": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 2,
+          "continents": {
+            "North America": 2
+          }
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Illustrated Book": {
+          "total": 84,
+          "continents": {
+            "Europe": 84
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "continents": {}
+        },
+        "Media": {
+          "total": 0,
+          "continents": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "continents": {}
+        },
+        "Painting": {
+          "total": 14,
+          "continents": {
+            "Europe": 14
+          }
+        },
+        "Performance": {
+          "total": 0,
+          "continents": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photograph": {
+          "total": 195,
+          "continents": {
+            "North America": 105,
+            "Europe": 90
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 0,
+          "continents": {}
+        },
+        "Print": {
+          "total": 131,
+          "continents": {
+            "Europe": 121,
+            "North America": 10
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 2,
+          "continents": {
+            "Europe": 2
+          }
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 0,
+          "continents": {}
+        },
+        "Video": {
+          "total": 0,
+          "continents": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1890s",
+      "all_artwork_num": 1993,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 6,
+          "continents": {
+            "North America": 4,
+            "Europe": 2
+          }
+        },
+        "Audio": {
+          "total": 0,
+          "continents": {}
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 94,
+          "continents": {
+            "Europe": 73,
+            "North America": 21
+          }
+        },
+        "Digital": {
+          "total": 0,
+          "continents": {}
+        },
+        "Drawing": {
+          "total": 39,
+          "continents": {
+            "Europe": 35,
+            "North America": 4
+          }
+        },
+        "Ephemera": {
+          "total": 2,
+          "continents": {
+            "Europe": 1,
+            "North America": 1
+          }
+        },
+        "Film": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film (object)": {
+          "total": 1,
+          "continents": {
+            "Europe": 1
+          }
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 22,
+          "continents": {
+            "North America": 22
+          }
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Illustrated Book": {
+          "total": 637,
+          "continents": {
+            "Europe": 636,
+            "North America": 1
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "continents": {}
+        },
+        "Media": {
+          "total": 0,
+          "continents": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "continents": {}
+        },
+        "Painting": {
+          "total": 11,
+          "continents": {
+            "Europe": 10,
+            "North America": 1
+          }
+        },
+        "Performance": {
+          "total": 0,
+          "continents": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photograph": {
+          "total": 554,
+          "continents": {
+            "Europe": 324,
+            "North America": 230
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 0,
+          "continents": {}
+        },
+        "Print": {
+          "total": 617,
+          "continents": {
+            "Europe": 559,
+            "North America": 58
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 10,
+          "continents": {
+            "Europe": 10
+          }
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 0,
+          "continents": {}
+        },
+        "Video": {
+          "total": 0,
+          "continents": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1900s",
+      "all_artwork_num": 3019,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 14,
+          "continents": {
+            "Europe": 11,
+            "North America": 3
+          }
+        },
+        "Audio": {
+          "total": 0,
+          "continents": {}
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 177,
+          "continents": {
+            "Europe": 147,
+            "North America": 30
+          }
+        },
+        "Digital": {
+          "total": 0,
+          "continents": {}
+        },
+        "Drawing": {
+          "total": 104,
+          "continents": {
+            "Europe": 83,
+            "North America": 21
+          }
+        },
+        "Ephemera": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film": {
+          "total": 2,
+          "continents": {
+            "North America": 2
+          }
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 40,
+          "continents": {
+            "North America": 40
+          }
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Illustrated Book": {
+          "total": 727,
+          "continents": {
+            "Europe": 725,
+            "North America": 2
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "continents": {}
+        },
+        "Media": {
+          "total": 0,
+          "continents": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "continents": {}
+        },
+        "Painting": {
+          "total": 48,
+          "continents": {
+            "Europe": 46,
+            "North America": 2
+          }
+        },
+        "Performance": {
+          "total": 0,
+          "continents": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photograph": {
+          "total": 1549,
+          "continents": {
+            "Europe": 1232,
+            "North America": 300,
+            "Asia": 17
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 0,
+          "continents": {}
+        },
+        "Print": {
+          "total": 349,
+          "continents": {
+            "Europe": 252,
+            "North America": 95,
+            "Asia": 1,
+            "South America": 1
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 9,
+          "continents": {
+            "Europe": 9
+          }
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 0,
+          "continents": {}
+        },
+        "Video": {
+          "total": 0,
+          "continents": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1910s",
+      "all_artwork_num": 4789,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 28,
+          "continents": {
+            "North America": 19,
+            "Europe": 9
+          }
+        },
+        "Audio": {
+          "total": 1,
+          "continents": {
+            "North America": 1
+          }
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 194,
+          "continents": {
+            "Europe": 99,
+            "North America": 95
+          }
+        },
+        "Digital": {
+          "total": 3,
+          "continents": {
+            "North America": 3
+          }
+        },
+        "Drawing": {
+          "total": 404,
+          "continents": {
+            "Europe": 252,
+            "North America": 149,
+            "South America": 3
+          }
+        },
+        "Ephemera": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film": {
+          "total": 4,
+          "continents": {
+            "North America": 4
+          }
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 40,
+          "continents": {
+            "North America": 40
+          }
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 1,
+          "continents": {
+            "Europe": 1
+          }
+        },
+        "Illustrated Book": {
+          "total": 1699,
+          "continents": {
+            "Europe": 1591,
+            "North America": 97,
+            "Asia": 11
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "continents": {}
+        },
+        "Media": {
+          "total": 0,
+          "continents": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 4,
+          "continents": {
+            "North America": 4
+          }
+        },
+        "Multiple": {
+          "total": 0,
+          "continents": {}
+        },
+        "Painting": {
+          "total": 162,
+          "continents": {
+            "Europe": 140,
+            "North America": 22
+          }
+        },
+        "Performance": {
+          "total": 0,
+          "continents": {}
+        },
+        "Periodical": {
+          "total": 141,
+          "continents": {
+            "Europe": 141
+          }
+        },
+        "Photograph": {
+          "total": 1092,
+          "continents": {
+            "Europe": 847,
+            "North America": 243,
+            "Asia": 1,
+            "Oceania": 1
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 4,
+          "continents": {
+            "North America": 4
+          }
+        },
+        "Poster": {
+          "total": 0,
+          "continents": {}
+        },
+        "Print": {
+          "total": 958,
+          "continents": {
+            "Europe": 680,
+            "North America": 273,
+            "Asia": 5
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 35,
+          "continents": {
+            "Europe": 26,
+            "North America": 9
+          }
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 0,
+          "continents": {}
+        },
+        "Video": {
+          "total": 0,
+          "continents": {}
+        },
+        "Work on Paper": {
+          "total": 19,
+          "continents": {
+            "North America": 18,
+            "Europe": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1920s",
+      "all_artwork_num": 8299,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 58,
+          "continents": {
+            "Europe": 34,
+            "North America": 24
+          }
+        },
+        "Audio": {
+          "total": 0,
+          "continents": {}
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 900,
+          "continents": {
+            "Europe": 705,
+            "North America": 195
+          }
+        },
+        "Digital": {
+          "total": 2,
+          "continents": {
+            "Europe": 1,
+            "North America": 1
+          }
+        },
+        "Drawing": {
+          "total": 470,
+          "continents": {
+            "Europe": 302,
+            "North America": 163,
+            "South America": 5
+          }
+        },
+        "Ephemera": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film": {
+          "total": 18,
+          "continents": {
+            "North America": 11,
+            "Europe": 6,
+            "Oceania": 1
+          }
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 64,
+          "continents": {
+            "North America": 64
+          }
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Illustrated Book": {
+          "total": 3436,
+          "continents": {
+            "Europe": 3221,
+            "North America": 190,
+            "Asia": 25
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "continents": {}
+        },
+        "Media": {
+          "total": 0,
+          "continents": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 224,
+          "continents": {
+            "North America": 222,
+            "Europe": 2
+          }
+        },
+        "Multiple": {
+          "total": 1,
+          "continents": {
+            "Europe": 1
+          }
+        },
+        "Painting": {
+          "total": 145,
+          "continents": {
+            "Europe": 81,
+            "North America": 64
+          }
+        },
+        "Performance": {
+          "total": 0,
+          "continents": {}
+        },
+        "Periodical": {
+          "total": 53,
+          "continents": {
+            "Europe": 48,
+            "South America": 5
+          }
+        },
+        "Photograph": {
+          "total": 1395,
+          "continents": {
+            "Europe": 1035,
+            "North America": 349,
+            "South America": 10,
+            "Asia": 1
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 1,
+          "continents": {
+            "Europe": 1
+          }
+        },
+        "Poster": {
+          "total": 0,
+          "continents": {}
+        },
+        "Print": {
+          "total": 1490,
+          "continents": {
+            "Europe": 1004,
+            "North America": 479,
+            "South America": 5,
+            "Asia": 2
+          }
+        },
+        "Publication": {
+          "total": 1,
+          "continents": {
+            "Europe": 1
+          }
+        },
+        "Sculpture": {
+          "total": 41,
+          "continents": {
+            "Europe": 22,
+            "North America": 19
+          }
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 0,
+          "continents": {}
+        },
+        "Video": {
+          "total": 0,
+          "continents": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1930s",
+      "all_artwork_num": 7155,
+      "classifications": {
+        "(not assigned)": {
+          "total": 1,
+          "continents": {
+            "Europe": 1
+          }
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 59,
+          "continents": {
+            "Europe": 32,
+            "North America": 23,
+            "South America": 4
+          }
+        },
+        "Audio": {
+          "total": 0,
+          "continents": {}
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 996,
+          "continents": {
+            "Europe": 638,
+            "North America": 351,
+            "Asia": 4,
+            "South America": 3
+          }
+        },
+        "Digital": {
+          "total": 2,
+          "continents": {
+            "North America": 2
+          }
+        },
+        "Drawing": {
+          "total": 426,
+          "continents": {
+            "North America": 281,
+            "Europe": 134,
+            "South America": 10,
+            "Oceania": 1
+          }
+        },
+        "Ephemera": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film": {
+          "total": 19,
+          "continents": {
+            "North America": 16,
+            "Europe": 3
+          }
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 59,
+          "continents": {
+            "North America": 59
+          }
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Illustrated Book": {
+          "total": 2600,
+          "continents": {
+            "Europe": 2177,
+            "North America": 412,
+            "South America": 6,
+            "Asia": 5
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "continents": {}
+        },
+        "Media": {
+          "total": 0,
+          "continents": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 308,
+          "continents": {
+            "North America": 242,
+            "Europe": 66
+          }
+        },
+        "Multiple": {
+          "total": 0,
+          "continents": {}
+        },
+        "Painting": {
+          "total": 129,
+          "continents": {
+            "North America": 62,
+            "Europe": 57,
+            "South America": 9,
+            "Oceania": 1
+          }
+        },
+        "Performance": {
+          "total": 0,
+          "continents": {}
+        },
+        "Periodical": {
+          "total": 7,
+          "continents": {
+            "Europe": 6,
+            "North America": 1
+          }
+        },
+        "Photograph": {
+          "total": 1723,
+          "continents": {
+            "North America": 1246,
+            "Europe": 428,
+            "South America": 33,
+            "Asia": 16
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 0,
+          "continents": {}
+        },
+        "Print": {
+          "total": 760,
+          "continents": {
+            "North America": 422,
+            "Europe": 310,
+            "South America": 27,
+            "Asia": 1
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 66,
+          "continents": {
+            "Europe": 35,
+            "North America": 30,
+            "South America": 1
+          }
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 0,
+          "continents": {}
+        },
+        "Video": {
+          "total": 0,
+          "continents": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1940s",
+      "all_artwork_num": 7588,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 25,
+          "continents": {
+            "North America": 18,
+            "Europe": 5,
+            "South America": 2
+          }
+        },
+        "Audio": {
+          "total": 0,
+          "continents": {}
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 686,
+          "continents": {
+            "North America": 435,
+            "Europe": 239,
+            "Oceania": 9,
+            "Asia": 2,
+            "South America": 1
+          }
+        },
+        "Digital": {
+          "total": 0,
+          "continents": {}
+        },
+        "Drawing": {
+          "total": 485,
+          "continents": {
+            "North America": 273,
+            "Europe": 197,
+            "South America": 15
+          }
+        },
+        "Ephemera": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film": {
+          "total": 31,
+          "continents": {
+            "North America": 27,
+            "Europe": 4
+          }
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 44,
+          "continents": {
+            "North America": 44
+          }
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Illustrated Book": {
+          "total": 4290,
+          "continents": {
+            "Europe": 3766,
+            "North America": 458,
+            "Asia": 57,
+            "South America": 7,
+            "Africa": 2
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "continents": {}
+        },
+        "Media": {
+          "total": 0,
+          "continents": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 93,
+          "continents": {
+            "North America": 91,
+            "Europe": 2
+          }
+        },
+        "Multiple": {
+          "total": 0,
+          "continents": {}
+        },
+        "Painting": {
+          "total": 222,
+          "continents": {
+            "North America": 146,
+            "Europe": 57,
+            "South America": 19
+          }
+        },
+        "Performance": {
+          "total": 0,
+          "continents": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photograph": {
+          "total": 938,
+          "continents": {
+            "North America": 773,
+            "Europe": 127,
+            "South America": 20,
+            "Asia": 18
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 0,
+          "continents": {}
+        },
+        "Print": {
+          "total": 721,
+          "continents": {
+            "North America": 351,
+            "Europe": 332,
+            "South America": 35,
+            "Asia": 2,
+            "Oceania": 1
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 53,
+          "continents": {
+            "North America": 28,
+            "Europe": 21,
+            "South America": 4
+          }
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 0,
+          "continents": {}
+        },
+        "Video": {
+          "total": 0,
+          "continents": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    },
+    {
+      "decade": "1950s",
+      "all_artwork_num": 6410,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 83,
+          "continents": {
+            "North America": 50,
+            "Europe": 21,
+            "South America": 12
+          }
+        },
+        "Audio": {
+          "total": 12,
+          "continents": {
+            "North America": 10,
+            "Europe": 2
+          }
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 875,
+          "continents": {
+            "Europe": 434,
+            "North America": 393,
+            "Asia": 33,
+            "South America": 15
+          }
+        },
+        "Digital": {
+          "total": 0,
+          "continents": {}
+        },
+        "Drawing": {
+          "total": 415,
+          "continents": {
+            "North America": 224,
+            "Europe": 108,
+            "South America": 59,
+            "Asia": 21,
+            "Africa": 2,
+            "Oceania": 1
+          }
+        },
+        "Ephemera": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film": {
+          "total": 30,
+          "continents": {
+            "North America": 27,
+            "Europe": 2,
+            "South America": 1
+          }
+        },
+        "Film (object)": {
+          "total": 2,
+          "continents": {
+            "North America": 2
+          }
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 59,
+          "continents": {
+            "North America": 59
+          }
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Illustrated Book": {
+          "total": 2058,
+          "continents": {
+            "Europe": 1254,
+            "North America": 708,
+            "South America": 92,
+            "Asia": 4
+          }
+        },
+        "Installation": {
+          "total": 1,
+          "continents": {
+            "Europe": 1
+          }
+        },
+        "Media": {
+          "total": 0,
+          "continents": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 40,
+          "continents": {
+            "North America": 40
+          }
+        },
+        "Multiple": {
+          "total": 0,
+          "continents": {}
+        },
+        "Painting": {
+          "total": 260,
+          "continents": {
+            "North America": 136,
+            "Europe": 81,
+            "South America": 35,
+            "Asia": 5,
+            "Oceania": 2,
+            "Africa": 1
+          }
+        },
+        "Performance": {
+          "total": 0,
+          "continents": {}
+        },
+        "Periodical": {
+          "total": 3,
+          "continents": {
+            "Europe": 2,
+            "North America": 1
+          }
+        },
+        "Photograph": {
+          "total": 1096,
+          "continents": {
+            "North America": 864,
+            "Europe": 151,
+            "Asia": 44,
+            "South America": 33,
+            "Africa": 4
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 3,
+          "continents": {
+            "North America": 3
+          }
+        },
+        "Print": {
+          "total": 1299,
+          "continents": {
+            "Europe": 833,
+            "North America": 372,
+            "Asia": 78,
+            "South America": 14,
+            "Africa": 2
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 133,
+          "continents": {
+            "North America": 74,
+            "Europe": 53,
+            "Asia": 3,
+            "South America": 3
+          }
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 0,
+          "continents": {}
+        },
+        "Video": {
+          "total": 4,
+          "continents": {
+            "North America": 4
+          }
+        },
+        "Work on Paper": {
+          "total": 37,
+          "continents": {
+            "North America": 22,
+            "Europe": 15
+          }
+        }
+      }
+    },
+    {
+      "decade": "1960s",
+      "all_artwork_num": 14060,
+      "classifications": {
+        "(not assigned)": {
+          "total": 46,
+          "continents": {
+            "North America": 31,
+            "Europe": 11,
+            "Asia": 4
+          }
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 192,
+          "continents": {
+            "Europe": 79,
+            "North America": 68,
+            "South America": 39,
+            "Asia": 6
+          }
+        },
+        "Audio": {
+          "total": 71,
+          "continents": {
+            "North America": 51,
+            "Europe": 20
+          }
+        },
+        "Collage": {
+          "total": 1,
+          "continents": {
+            "North America": 1
+          }
+        },
+        "Design": {
+          "total": 1304,
+          "continents": {
+            "North America": 593,
+            "Europe": 588,
+            "South America": 64,
+            "Asia": 55,
+            "Oceania": 3,
+            "Africa": 1
+          }
+        },
+        "Digital": {
+          "total": 2,
+          "continents": {
+            "North America": 2
+          }
+        },
+        "Drawing": {
+          "total": 1414,
+          "continents": {
+            "North America": 880,
+            "Europe": 403,
+            "Asia": 70,
+            "South America": 45,
+            "Oceania": 9,
+            "Africa": 7
+          }
+        },
+        "Ephemera": {
+          "total": 16,
+          "continents": {
+            "North America": 13,
+            "Europe": 2,
+            "South America": 1
+          }
+        },
+        "Film": {
+          "total": 134,
+          "continents": {
+            "North America": 114,
+            "Europe": 13,
+            "Asia": 6,
+            "South America": 1
+          }
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Illustrated Book": {
+          "total": 3083,
+          "continents": {
+            "North America": 1394,
+            "Europe": 1361,
+            "South America": 186,
+            "Asia": 141,
+            "Oceania": 1
+          }
+        },
+        "Installation": {
+          "total": 38,
+          "continents": {
+            "North America": 15,
+            "Europe": 12,
+            "South America": 9,
+            "Africa": 1,
+            "Asia": 1
+          }
+        },
+        "Media": {
+          "total": 2,
+          "continents": {
+            "Europe": 1,
+            "North America": 1
+          }
+        },
+        "Mies van der Rohe Archive": {
+          "total": 11,
+          "continents": {
+            "North America": 11
+          }
+        },
+        "Multiple": {
+          "total": 400,
+          "continents": {
+            "North America": 249,
+            "Europe": 121,
+            "Asia": 28,
+            "South America": 2
+          }
+        },
+        "Painting": {
+          "total": 326,
+          "continents": {
+            "North America": 197,
+            "Europe": 79,
+            "South America": 27,
+            "Asia": 17,
+            "Africa": 4,
+            "Oceania": 2
+          }
+        },
+        "Performance": {
+          "total": 9,
+          "continents": {
+            "North America": 9
+          }
+        },
+        "Periodical": {
+          "total": 27,
+          "continents": {
+            "Europe": 17,
+            "North America": 10
+          }
+        },
+        "Photograph": {
+          "total": 1521,
+          "continents": {
+            "North America": 1098,
+            "Europe": 264,
+            "Asia": 110,
+            "South America": 38,
+            "Africa": 11
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 1,
+          "continents": {
+            "North America": 1
+          }
+        },
+        "Print": {
+          "total": 4888,
+          "continents": {
+            "North America": 3228,
+            "Europe": 1257,
+            "Asia": 196,
+            "South America": 192,
+            "Oceania": 13,
+            "Africa": 2
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 422,
+          "continents": {
+            "North America": 222,
+            "Europe": 160,
+            "South America": 21,
+            "Asia": 18,
+            "Africa": 1
+          }
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 8,
+          "continents": {
+            "North America": 7,
+            "Europe": 1
+          }
+        },
+        "Video": {
+          "total": 115,
+          "continents": {
+            "North America": 77,
+            "Europe": 34,
+            "Asia": 4
+          }
+        },
+        "Work on Paper": {
+          "total": 29,
+          "continents": {
+            "Europe": 28,
+            "North America": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "1970s",
+      "all_artwork_num": 9415,
+      "classifications": {
+        "(not assigned)": {
+          "total": 11,
+          "continents": {
+            "North America": 10,
+            "Europe": 1
+          }
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 260,
+          "continents": {
+            "Europe": 135,
+            "North America": 66,
+            "South America": 58,
+            "Asia": 1
+          }
+        },
+        "Audio": {
+          "total": 84,
+          "continents": {
+            "North America": 52,
+            "Europe": 32
+          }
+        },
+        "Collage": {
+          "total": 6,
+          "continents": {
+            "North America": 4,
+            "Europe": 2
+          }
+        },
+        "Design": {
+          "total": 780,
+          "continents": {
+            "Europe": 433,
+            "North America": 262,
+            "Asia": 68,
+            "South America": 16,
+            "Oceania": 1
+          }
+        },
+        "Digital": {
+          "total": 1,
+          "continents": {
+            "South America": 1
+          }
+        },
+        "Drawing": {
+          "total": 942,
+          "continents": {
+            "North America": 643,
+            "Europe": 222,
+            "South America": 47,
+            "Asia": 16,
+            "Africa": 9,
+            "Oceania": 5
+          }
+        },
+        "Ephemera": {
+          "total": 23,
+          "continents": {
+            "North America": 20,
+            "Europe": 2,
+            "Asia": 1
+          }
+        },
+        "Film": {
+          "total": 155,
+          "continents": {
+            "North America": 138,
+            "Europe": 16,
+            "Africa": 1
+          }
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 1,
+          "continents": {
+            "North America": 1
+          }
+        },
+        "Illustrated Book": {
+          "total": 1519,
+          "continents": {
+            "Europe": 861,
+            "North America": 549,
+            "Oceania": 54,
+            "South America": 33,
+            "Asia": 22
+          }
+        },
+        "Installation": {
+          "total": 52,
+          "continents": {
+            "North America": 28,
+            "Europe": 17,
+            "South America": 6,
+            "Asia": 1
+          }
+        },
+        "Media": {
+          "total": 1,
+          "continents": {
+            "North America": 1
+          }
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Multiple": {
+          "total": 149,
+          "continents": {
+            "North America": 101,
+            "Europe": 41,
+            "Asia": 5,
+            "South America": 2
+          }
+        },
+        "Painting": {
+          "total": 169,
+          "continents": {
+            "North America": 122,
+            "Europe": 30,
+            "Asia": 8,
+            "South America": 8,
+            "Oceania": 1
+          }
+        },
+        "Performance": {
+          "total": 5,
+          "continents": {
+            "North America": 5
+          }
+        },
+        "Periodical": {
+          "total": 6,
+          "continents": {
+            "Europe": 3,
+            "North America": 3
+          }
+        },
+        "Photograph": {
+          "total": 1950,
+          "continents": {
+            "North America": 1560,
+            "Europe": 284,
+            "Asia": 62,
+            "Africa": 32,
+            "South America": 10,
+            "Oceania": 2
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 3,
+          "continents": {
+            "North America": 2,
+            "Europe": 1
+          }
+        },
+        "Print": {
+          "total": 2543,
+          "continents": {
+            "North America": 1574,
+            "Europe": 762,
+            "South America": 117,
+            "Asia": 78,
+            "Oceania": 9,
+            "Africa": 3
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 160,
+          "continents": {
+            "North America": 123,
+            "Europe": 22,
+            "South America": 12,
+            "Asia": 3
+          }
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 4,
+          "continents": {
+            "South America": 2,
+            "Europe": 1,
+            "North America": 1
+          }
+        },
+        "Video": {
+          "total": 574,
+          "continents": {
+            "North America": 435,
+            "Europe": 93,
+            "Asia": 25,
+            "South America": 21
+          }
+        },
+        "Work on Paper": {
+          "total": 17,
+          "continents": {
+            "Europe": 13,
+            "North America": 4
+          }
+        }
+      }
+    },
+    {
+      "decade": "1980s",
+      "all_artwork_num": 7609,
+      "classifications": {
+        "(not assigned)": {
+          "total": 4,
+          "continents": {
+            "Europe": 3,
+            "North America": 1
+          }
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 216,
+          "continents": {
+            "Europe": 133,
+            "North America": 64,
+            "Asia": 10,
+            "South America": 9
+          }
+        },
+        "Audio": {
+          "total": 104,
+          "continents": {
+            "North America": 77,
+            "Europe": 27
+          }
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 646,
+          "continents": {
+            "Europe": 334,
+            "North America": 216,
+            "Asia": 86,
+            "South America": 6,
+            "Oceania": 3,
+            "Africa": 1
+          }
+        },
+        "Digital": {
+          "total": 0,
+          "continents": {}
+        },
+        "Drawing": {
+          "total": 678,
+          "continents": {
+            "North America": 422,
+            "Europe": 206,
+            "South America": 33,
+            "Africa": 9,
+            "Asia": 8
+          }
+        },
+        "Ephemera": {
+          "total": 24,
+          "continents": {
+            "North America": 23,
+            "Europe": 1
+          }
+        },
+        "Film": {
+          "total": 111,
+          "continents": {
+            "North America": 93,
+            "Europe": 12,
+            "Asia": 4,
+            "Africa": 1,
+            "South America": 1
+          }
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Illustrated Book": {
+          "total": 2193,
+          "continents": {
+            "Europe": 1189,
+            "North America": 908,
+            "South America": 53,
+            "Oceania": 43
+          }
+        },
+        "Installation": {
+          "total": 26,
+          "continents": {
+            "North America": 14,
+            "South America": 6,
+            "Europe": 5,
+            "Asia": 1
+          }
+        },
+        "Media": {
+          "total": 4,
+          "continents": {
+            "North America": 4
+          }
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Multiple": {
+          "total": 78,
+          "continents": {
+            "North America": 54,
+            "Europe": 24
+          }
+        },
+        "Painting": {
+          "total": 164,
+          "continents": {
+            "North America": 101,
+            "Europe": 57,
+            "Africa": 3,
+            "South America": 2,
+            "Asia": 1
+          }
+        },
+        "Performance": {
+          "total": 1,
+          "continents": {
+            "North America": 1
+          }
+        },
+        "Periodical": {
+          "total": 9,
+          "continents": {
+            "North America": 5,
+            "Europe": 4
+          }
+        },
+        "Photograph": {
+          "total": 1199,
+          "continents": {
+            "North America": 918,
+            "Europe": 206,
+            "South America": 38,
+            "Asia": 25,
+            "Africa": 12
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 0,
+          "continents": {}
+        },
+        "Print": {
+          "total": 1431,
+          "continents": {
+            "North America": 1004,
+            "Europe": 306,
+            "South America": 78,
+            "Asia": 21,
+            "Africa": 14,
+            "Oceania": 8
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 126,
+          "continents": {
+            "North America": 86,
+            "Europe": 34,
+            "South America": 5,
+            "Asia": 1
+          }
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 1,
+          "continents": {
+            "Asia": 1
+          }
+        },
+        "Video": {
+          "total": 575,
+          "continents": {
+            "North America": 296,
+            "Europe": 219,
+            "Asia": 38,
+            "South America": 20,
+            "Oceania": 2
+          }
+        },
+        "Work on Paper": {
+          "total": 19,
+          "continents": {
+            "Europe": 11,
+            "North America": 8
+          }
+        }
+      }
+    },
+    {
+      "decade": "1990s",
+      "all_artwork_num": 6085,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 152,
+          "continents": {
+            "Europe": 86,
+            "North America": 50,
+            "Asia": 13,
+            "South America": 3
+          }
+        },
+        "Audio": {
+          "total": 74,
+          "continents": {
+            "North America": 48,
+            "Europe": 26
+          }
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 598,
+          "continents": {
+            "Europe": 331,
+            "North America": 163,
+            "Asia": 89,
+            "South America": 10,
+            "Africa": 3,
+            "Oceania": 2
+          }
+        },
+        "Digital": {
+          "total": 0,
+          "continents": {}
+        },
+        "Drawing": {
+          "total": 1267,
+          "continents": {
+            "Africa": 476,
+            "North America": 430,
+            "Europe": 199,
+            "Asia": 142,
+            "South America": 19,
+            "Oceania": 1
+          }
+        },
+        "Ephemera": {
+          "total": 18,
+          "continents": {
+            "North America": 18
+          }
+        },
+        "Film": {
+          "total": 81,
+          "continents": {
+            "North America": 59,
+            "Europe": 15,
+            "Asia": 4,
+            "Africa": 2,
+            "South America": 1
+          }
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Illustrated Book": {
+          "total": 757,
+          "continents": {
+            "North America": 390,
+            "Europe": 263,
+            "South America": 95,
+            "Asia": 9
+          }
+        },
+        "Installation": {
+          "total": 64,
+          "continents": {
+            "North America": 38,
+            "Europe": 20,
+            "Asia": 3,
+            "South America": 3
+          }
+        },
+        "Media": {
+          "total": 2,
+          "continents": {
+            "North America": 2
+          }
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Multiple": {
+          "total": 106,
+          "continents": {
+            "North America": 62,
+            "Europe": 33,
+            "Asia": 8,
+            "South America": 3
+          }
+        },
+        "Painting": {
+          "total": 57,
+          "continents": {
+            "North America": 32,
+            "Europe": 18,
+            "South America": 4,
+            "Asia": 2,
+            "Africa": 1
+          }
+        },
+        "Performance": {
+          "total": 0,
+          "continents": {}
+        },
+        "Periodical": {
+          "total": 21,
+          "continents": {
+            "North America": 11,
+            "Europe": 8,
+            "Asia": 2
+          }
+        },
+        "Photograph": {
+          "total": 893,
+          "continents": {
+            "North America": 464,
+            "Europe": 307,
+            "Asia": 83,
+            "South America": 32,
+            "Africa": 7
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 0,
+          "continents": {}
+        },
+        "Print": {
+          "total": 1510,
+          "continents": {
+            "North America": 950,
+            "Europe": 343,
+            "South America": 130,
+            "Asia": 44,
+            "Africa": 30,
+            "Oceania": 13
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 93,
+          "continents": {
+            "North America": 56,
+            "Europe": 20,
+            "Africa": 7,
+            "South America": 7,
+            "Asia": 3
+          }
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 0,
+          "continents": {}
+        },
+        "Video": {
+          "total": 382,
+          "continents": {
+            "North America": 255,
+            "Europe": 93,
+            "Asia": 22,
+            "South America": 12
+          }
+        },
+        "Work on Paper": {
+          "total": 10,
+          "continents": {
+            "Europe": 8,
+            "North America": 2
+          }
+        }
+      }
+    },
+    {
+      "decade": "2000s",
+      "all_artwork_num": 5880,
+      "classifications": {
+        "(not assigned)": {
+          "total": 1,
+          "continents": {
+            "North America": 1
+          }
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 169,
+          "continents": {
+            "Europe": 85,
+            "North America": 50,
+            "South America": 19,
+            "Asia": 14,
+            "Africa": 1
+          }
+        },
+        "Audio": {
+          "total": 73,
+          "continents": {
+            "North America": 40,
+            "Europe": 33
+          }
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 513,
+          "continents": {
+            "Europe": 292,
+            "North America": 167,
+            "Asia": 45,
+            "Africa": 3,
+            "Oceania": 3,
+            "South America": 3
+          }
+        },
+        "Digital": {
+          "total": 0,
+          "continents": {}
+        },
+        "Drawing": {
+          "total": 1315,
+          "continents": {
+            "North America": 768,
+            "Europe": 412,
+            "Asia": 67,
+            "South America": 50,
+            "Africa": 14,
+            "Oceania": 4
+          }
+        },
+        "Ephemera": {
+          "total": 84,
+          "continents": {
+            "North America": 83,
+            "South America": 1
+          }
+        },
+        "Film": {
+          "total": 83,
+          "continents": {
+            "North America": 43,
+            "Europe": 29,
+            "Asia": 9,
+            "Africa": 2
+          }
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Illustrated Book": {
+          "total": 251,
+          "continents": {
+            "North America": 182,
+            "Europe": 45,
+            "Asia": 13,
+            "South America": 8,
+            "Africa": 3
+          }
+        },
+        "Installation": {
+          "total": 314,
+          "continents": {
+            "North America": 199,
+            "Europe": 68,
+            "Asia": 20,
+            "South America": 19,
+            "Africa": 8
+          }
+        },
+        "Media": {
+          "total": 5,
+          "continents": {
+            "North America": 5
+          }
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Multiple": {
+          "total": 64,
+          "continents": {
+            "Europe": 34,
+            "North America": 26,
+            "Asia": 2,
+            "Africa": 1,
+            "South America": 1
+          }
+        },
+        "Painting": {
+          "total": 78,
+          "continents": {
+            "North America": 42,
+            "Europe": 28,
+            "Africa": 3,
+            "Asia": 3,
+            "South America": 2
+          }
+        },
+        "Performance": {
+          "total": 2,
+          "continents": {
+            "Europe": 2
+          }
+        },
+        "Periodical": {
+          "total": 126,
+          "continents": {
+            "Europe": 61,
+            "North America": 56,
+            "Asia": 6,
+            "South America": 2,
+            "Africa": 1
+          }
+        },
+        "Photograph": {
+          "total": 463,
+          "continents": {
+            "North America": 261,
+            "Europe": 123,
+            "Africa": 40,
+            "Asia": 26,
+            "South America": 13
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 4,
+          "continents": {
+            "North America": 4
+          }
+        },
+        "Print": {
+          "total": 1943,
+          "continents": {
+            "North America": 1021,
+            "Europe": 531,
+            "Asia": 138,
+            "South America": 129,
+            "Africa": 124
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 71,
+          "continents": {
+            "North America": 34,
+            "Europe": 21,
+            "Asia": 11,
+            "South America": 3,
+            "Africa": 1,
+            "Oceania": 1
+          }
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 3,
+          "continents": {
+            "North America": 3
+          }
+        },
+        "Video": {
+          "total": 315,
+          "continents": {
+            "North America": 152,
+            "Europe": 111,
+            "Asia": 36,
+            "South America": 13,
+            "Africa": 2,
+            "Oceania": 1
+          }
+        },
+        "Work on Paper": {
+          "total": 3,
+          "continents": {
+            "Europe": 3
+          }
+        }
+      }
+    },
+    {
+      "decade": "2010s",
+      "all_artwork_num": 2288,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architectural Model": {
+          "total": 1,
+          "continents": {
+            "North America": 1
+          }
+        },
+        "Architecture": {
+          "total": 170,
+          "continents": {
+            "Europe": 77,
+            "North America": 53,
+            "South America": 20,
+            "Asia": 16,
+            "Africa": 4
+          }
+        },
+        "Audio": {
+          "total": 6,
+          "continents": {
+            "North America": 3,
+            "Europe": 2,
+            "South America": 1
+          }
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 294,
+          "continents": {
+            "Europe": 131,
+            "North America": 130,
+            "Asia": 29,
+            "Oceania": 3,
+            "South America": 1
+          }
+        },
+        "Digital": {
+          "total": 1,
+          "continents": {
+            "North America": 1
+          }
+        },
+        "Drawing": {
+          "total": 91,
+          "continents": {
+            "North America": 49,
+            "Europe": 15,
+            "Asia": 14,
+            "South America": 11,
+            "Africa": 2
+          }
+        },
+        "Ephemera": {
+          "total": 34,
+          "continents": {
+            "North America": 34
+          }
+        },
+        "Film": {
+          "total": 22,
+          "continents": {
+            "North America": 14,
+            "Europe": 4,
+            "Africa": 1,
+            "Asia": 1,
+            "Oceania": 1,
+            "South America": 1
+          }
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Furniture and Interiors": {
+          "total": 1,
+          "continents": {
+            "North America": 1
+          }
+        },
+        "Graphic Design": {
+          "total": 1,
+          "continents": {
+            "North America": 1
+          }
+        },
+        "Illustrated Book": {
+          "total": 145,
+          "continents": {
+            "North America": 81,
+            "Europe": 38,
+            "Asia": 18,
+            "South America": 8
+          }
+        },
+        "Installation": {
+          "total": 90,
+          "continents": {
+            "North America": 36,
+            "Europe": 23,
+            "Asia": 20,
+            "Africa": 5,
+            "South America": 5,
+            "Oceania": 1
+          }
+        },
+        "Media": {
+          "total": 1,
+          "continents": {
+            "North America": 1
+          }
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Multiple": {
+          "total": 82,
+          "continents": {
+            "Europe": 27,
+            "North America": 23,
+            "South America": 18,
+            "Asia": 12,
+            "Africa": 2
+          }
+        },
+        "Painting": {
+          "total": 45,
+          "continents": {
+            "North America": 25,
+            "Europe": 18,
+            "Asia": 1,
+            "South America": 1
+          }
+        },
+        "Performance": {
+          "total": 5,
+          "continents": {
+            "North America": 5
+          }
+        },
+        "Periodical": {
+          "total": 76,
+          "continents": {
+            "Europe": 39,
+            "North America": 22,
+            "Asia": 10,
+            "Africa": 4,
+            "South America": 1
+          }
+        },
+        "Photograph": {
+          "total": 310,
+          "continents": {
+            "North America": 191,
+            "Europe": 75,
+            "Asia": 30,
+            "Africa": 8,
+            "South America": 6
+          }
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 3,
+          "continents": {
+            "North America": 3
+          }
+        },
+        "Print": {
+          "total": 667,
+          "continents": {
+            "North America": 436,
+            "Europe": 181,
+            "Asia": 24,
+            "South America": 21,
+            "Africa": 5
+          }
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 65,
+          "continents": {
+            "North America": 33,
+            "Europe": 14,
+            "Africa": 10,
+            "Oceania": 3,
+            "South America": 3,
+            "Asia": 2
+          }
+        },
+        "Software": {
+          "total": 1,
+          "continents": {
+            "North America": 1
+          }
+        },
+        "Textile": {
+          "total": 7,
+          "continents": {
+            "North America": 7
+          }
+        },
+        "Video": {
+          "total": 166,
+          "continents": {
+            "North America": 85,
+            "Europe": 34,
+            "Asia": 23,
+            "South America": 13,
+            "Africa": 10,
+            "Oceania": 1
+          }
+        },
+        "Work on Paper": {
+          "total": 4,
+          "continents": {
+            "North America": 3,
+            "Europe": 1
+          }
+        }
+      }
+    },
+    {
+      "decade": "2020s",
+      "all_artwork_num": 2,
+      "classifications": {
+        "(not assigned)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architectural Model": {
+          "total": 0,
+          "continents": {}
+        },
+        "Architecture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Audio": {
+          "total": 0,
+          "continents": {}
+        },
+        "Collage": {
+          "total": 0,
+          "continents": {}
+        },
+        "Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Digital": {
+          "total": 0,
+          "continents": {}
+        },
+        "Drawing": {
+          "total": 0,
+          "continents": {}
+        },
+        "Ephemera": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film": {
+          "total": 0,
+          "continents": {}
+        },
+        "Film (object)": {
+          "total": 0,
+          "continents": {}
+        },
+        "Frank Lloyd Wright Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Furniture and Interiors": {
+          "total": 0,
+          "continents": {}
+        },
+        "Graphic Design": {
+          "total": 0,
+          "continents": {}
+        },
+        "Illustrated Book": {
+          "total": 2,
+          "continents": {
+            "North America": 2
+          }
+        },
+        "Installation": {
+          "total": 0,
+          "continents": {}
+        },
+        "Media": {
+          "total": 0,
+          "continents": {}
+        },
+        "Mies van der Rohe Archive": {
+          "total": 0,
+          "continents": {}
+        },
+        "Multiple": {
+          "total": 0,
+          "continents": {}
+        },
+        "Painting": {
+          "total": 0,
+          "continents": {}
+        },
+        "Performance": {
+          "total": 0,
+          "continents": {}
+        },
+        "Periodical": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photograph": {
+          "total": 0,
+          "continents": {}
+        },
+        "Photography Research/Reference": {
+          "total": 0,
+          "continents": {}
+        },
+        "Poster": {
+          "total": 0,
+          "continents": {}
+        },
+        "Print": {
+          "total": 0,
+          "continents": {}
+        },
+        "Publication": {
+          "total": 0,
+          "continents": {}
+        },
+        "Sculpture": {
+          "total": 0,
+          "continents": {}
+        },
+        "Software": {
+          "total": 0,
+          "continents": {}
+        },
+        "Textile": {
+          "total": 0,
+          "continents": {}
+        },
+        "Video": {
+          "total": 0,
+          "continents": {}
+        },
+        "Work on Paper": {
+          "total": 0,
+          "continents": {}
+        }
+      }
+    }
+  ]
+}

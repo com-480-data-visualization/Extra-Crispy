@@ -1,10 +1,16 @@
 import React, { useState, useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
 import NavigationBar from '../components/NavigationBar';
-import GlobeVisualization, { CATEGORIES, GENDERS, getMockCount } from '../components/GlobeVisualization';
+import GlobeVisualization from '../components/GlobeVisualization';
 import TimelineBar from '../components/TimelineBar';
 import { ViewMode } from '../App';
-import { countryData } from '../data/mockData';
+import {
+  getAvailableDecades,
+  getCountryDisplayName,
+  getDistributionCategories,
+  getDistributionTotal,
+  getRegionCounts,
+} from '../data/distributionData';
 
 export default function Distribution() {
   const navigate = useNavigate();
@@ -18,25 +24,18 @@ export default function Distribution() {
   const handleModeChange = (newMode: ViewMode) => {
     setMode(newMode);
     setSelectedCategory(null);
+    setSelectedDecade(decade => (
+      decade !== null && getAvailableDecades(newMode).includes(decade) ? decade : null
+    ));
   };
 
-  const categoriesList = mode === 'artworks' ? CATEGORIES : GENDERS;
-  const categoryData = selectedCategory ? categoriesList.find(c => c.name === selectedCategory) : null;
-  const totalCount = selectedCategory ? categoryData?.count || 0 : categoriesList.reduce((acc, c) => acc + c.count, 0);
+  const categoriesList = useMemo(() => getDistributionCategories(mode), [mode]);
+  const totalCount = useMemo(() => getDistributionTotal(mode), [mode]);
+  const availableDecades = useMemo(() => getAvailableDecades(mode), [mode]);
 
   const listData = useMemo(() => {
-    let regions: string[] = [];
-    if (borderMode === 'continent') {
-      regions = ['Africa', 'Asia', 'Europe', 'North America', 'South America', 'Oceania'];
-    } else {
-      regions = countryData.map(c => c.name);
-    }
-
-    return regions.map(region => {
-      const count = getMockCount(selectedCategory, region, selectedDecade, totalCount, borderMode, categoriesList);
-      return { region, count: Math.round(count) };
-    }).filter(item => item.count > 0).sort((a, b) => b.count - a.count);
-  }, [borderMode, selectedCategory, selectedDecade, totalCount, categoriesList]);
+    return getRegionCounts({ mode, borderMode, selectedCategory, selectedDecade });
+  }, [mode, borderMode, selectedCategory, selectedDecade]);
 
   return (
     <div className="relative h-screen w-full bg-[#EAE5D9] text-[#3A352D] font-sans overflow-hidden">
@@ -51,7 +50,7 @@ export default function Distribution() {
           selectedCategory={selectedCategory} 
           showChoropleth={true} 
           showGraticules={false} 
-          showBorders={false} 
+          showBorders={true} 
         />
       </div>
 
@@ -103,11 +102,11 @@ export default function Distribution() {
                 </span>
               </div>
               <span className="text-xs font-mono text-[#8C857B]">
-                {(mode === 'artworks' ? CATEGORIES : GENDERS).reduce((acc, cat) => acc + cat.count, 0).toLocaleString()}
+                {totalCount.toLocaleString()}
               </span>
             </label>
             
-            {(mode === 'artworks' ? CATEGORIES : GENDERS).map(cat => (
+            {categoriesList.map(cat => (
               <label key={cat.name} className="flex items-center justify-between cursor-pointer group">
                 <div className="flex items-center gap-3">
                   <input 
@@ -159,26 +158,29 @@ export default function Distribution() {
             {borderMode === 'country' ? 'Countries' : 'Continents'}
           </h3>
           <div className="flex flex-col gap-2 overflow-y-auto pr-2 custom-scrollbar w-full">
-            {listData.map((item, idx) => (
-              <div 
-                key={item.region} 
-                className={`flex items-center justify-between text-sm cursor-pointer hover:bg-[#D3CDBF]/30 p-1 -mx-1 rounded transition-colors`}
-                onDoubleClick={() => {
-                  if (borderMode === 'country') {
-                    navigate(`/country/${encodeURIComponent(item.region)}`);
-                  } else if (borderMode === 'continent') {
-                    navigate(`/continent/${encodeURIComponent(item.region)}`);
-                  }
-                }}
-                title="Double click to view details"
-              >
-                <div className="flex items-center gap-2">
-                  <span className="text-[#8C857B] font-mono text-xs w-4">{idx + 1}.</span>
-                  <span className="font-medium text-[#3A352D]">{item.region}</span>
+            {listData.map((item, idx) => {
+              const displayRegion = borderMode === 'country' ? getCountryDisplayName(item.region) : item.region;
+              return (
+                <div
+                  key={item.region}
+                  className={`flex items-center justify-between text-sm cursor-pointer hover:bg-[#D3CDBF]/30 p-1 -mx-1 rounded transition-colors`}
+                  onDoubleClick={() => {
+                    if (borderMode === 'country') {
+                      navigate(`/country/${encodeURIComponent(displayRegion)}`);
+                    } else if (borderMode === 'continent') {
+                      navigate(`/continent/${encodeURIComponent(item.region)}`);
+                    }
+                  }}
+                  title="Double click to view details"
+                >
+                  <div className="flex items-center gap-2">
+                    <span className="text-[#8C857B] font-mono text-xs w-4">{idx + 1}.</span>
+                    <span className="font-medium text-[#3A352D]">{displayRegion}</span>
+                  </div>
+                  <span className="font-mono text-[#8C857B]">{item.count.toLocaleString()}</span>
                 </div>
-                <span className="font-mono text-[#8C857B]">{item.count.toLocaleString()}</span>
-              </div>
-            ))}
+              );
+            })}
             {listData.length === 0 && (
               <div className="text-sm text-[#8C857B] text-center py-4">No data available</div>
             )}
@@ -187,7 +189,7 @@ export default function Distribution() {
       </div>
 
       {/* Timeline Bar */}
-      <TimelineBar selectedDecade={selectedDecade} onSelectDecade={setSelectedDecade} fullWidth={true} />
+      <TimelineBar selectedDecade={selectedDecade} onSelectDecade={setSelectedDecade} fullWidth={true} decades={availableDecades} />
     </div>
   );
 }

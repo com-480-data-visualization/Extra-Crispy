@@ -5,9 +5,20 @@ import * as THREE from 'three';
 import * as d3 from 'd3';
 import { artworks, artists, countryData } from '../data/mockData';
 import { ViewMode } from '../App';
+import {
+  getDistributionCategories,
+  getDistributionCount,
+  getDistributionMaxCount,
+  getGeoFeatureRegion,
+} from '../data/distributionData';
 
 const RADIUS = 5;
 const MAX_ALL_TIME_ARTWORKS_PER_COUNTRY = 40;
+const CHOROPLETH_RADIUS = RADIUS * 1.001;
+const BORDER_RADIUS = RADIUS * 1.003;
+const CHOROPLETH_TEXTURE_WIDTH = 4096;
+const CHOROPLETH_TEXTURE_HEIGHT = 2048;
+const CHOROPLETH_RAMP = ['#D9EBF7', '#9DCCE3', '#5CA8C8', '#267A9C', '#164B63'];
 
 function latLngToVector3(lat: number, lng: number, radius: number) {
   const phi = (90 - lat) * (Math.PI / 180);
@@ -126,16 +137,16 @@ function CountryBorders() {
           if (geometry.type === 'Polygon') {
             geometry.coordinates.forEach((ring: any[]) => {
               for (let i = 0; i < ring.length - 1; i++) {
-                points.push(latLngToVector3(ring[i][1], ring[i][0], RADIUS + 0.01));
-                points.push(latLngToVector3(ring[i+1][1], ring[i+1][0], RADIUS + 0.01));
+                points.push(latLngToVector3(ring[i][1], ring[i][0], BORDER_RADIUS));
+                points.push(latLngToVector3(ring[i+1][1], ring[i+1][0], BORDER_RADIUS));
               }
             });
           } else if (geometry.type === 'MultiPolygon') {
             geometry.coordinates.forEach((polygon: any[]) => {
               polygon.forEach((ring: any[]) => {
                 for (let i = 0; i < ring.length - 1; i++) {
-                  points.push(latLngToVector3(ring[i][1], ring[i][0], RADIUS + 0.01));
-                  points.push(latLngToVector3(ring[i+1][1], ring[i+1][0], RADIUS + 0.01));
+                  points.push(latLngToVector3(ring[i][1], ring[i][0], BORDER_RADIUS));
+                  points.push(latLngToVector3(ring[i+1][1], ring[i+1][0], BORDER_RADIUS));
                 }
               });
             });
@@ -156,112 +167,45 @@ function CountryBorders() {
   );
 }
 
-function LandBorders() {
-  const [geometry, setGeometry] = useState<THREE.BufferGeometry | null>(null);
-
-  useEffect(() => {
-    fetch('https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_land.geojson')
-      .then(res => res.json())
-      .then(data => {
-        const points: THREE.Vector3[] = [];
-        data.features.forEach((feature: any) => {
-          const geometry = feature.geometry;
-          if (!geometry) return;
-
-          if (geometry.type === 'Polygon') {
-            geometry.coordinates.forEach((ring: any[]) => {
-              for (let i = 0; i < ring.length - 1; i++) {
-                points.push(latLngToVector3(ring[i][1], ring[i][0], RADIUS + 0.01));
-                points.push(latLngToVector3(ring[i+1][1], ring[i+1][0], RADIUS + 0.01));
-              }
-            });
-          } else if (geometry.type === 'MultiPolygon') {
-            geometry.coordinates.forEach((polygon: any[]) => {
-              polygon.forEach((ring: any[]) => {
-                for (let i = 0; i < ring.length - 1; i++) {
-                  points.push(latLngToVector3(ring[i][1], ring[i][0], RADIUS + 0.01));
-                  points.push(latLngToVector3(ring[i+1][1], ring[i+1][0], RADIUS + 0.01));
-                }
-              });
-            });
-          }
-        });
-        const geo = new THREE.BufferGeometry().setFromPoints(points);
-        setGeometry(geo);
-      })
-      .catch(err => console.error("Failed to load land borders", err));
-  }, []);
-
-  if (!geometry) return null;
-
-  return (
-    <lineSegments geometry={geometry}>
-      <lineBasicMaterial color="#8C857B" transparent opacity={0.3} />
-    </lineSegments>
-  );
-}
-
-export const CATEGORIES = [
-  { name: 'Illustrated Book', count: 22962, color: '#D95C3A' },
-  { name: 'Print', count: 18445, color: '#4A6D7C' },
-  { name: 'Photograph', count: 16473, color: '#5C7A52' },
-  { name: 'Drawing', count: 7910, color: '#C2933E' },
-  { name: 'Design', count: 6948, color: '#8A5A73' },
-  { name: 'Video', count: 1893, color: '#3D5A80' },
-  { name: 'Painting', count: 1822, color: '#E07A5F' },
-  { name: 'Sculpture', count: 1268, color: '#81B29A' },
-  { name: 'Architecture', count: 998, color: '#F2CC8F' },
-  { name: 'others', count: 3900, color: '#8C857B' },
-];
-
-export const GENDERS = [
-  { name: 'Male', count: 8574, color: '#4A6B82' },
-  { name: 'Female', count: 1992, color: '#824A5B' }
-];
-
-function hashString(str: string) {
-  let hash = 0;
-  for (let i = 0; i < str.length; i++) {
-    hash = Math.imul(31, hash) + str.charCodeAt(i) | 0;
-  }
-  return Math.abs(hash);
-}
-
 export const getContinent = (countryName: string) => {
+  const normalizedCountryName = countryName.trim();
   const continents: Record<string, string[]> = {
     'Africa': ['Algeria', 'Angola', 'Benin', 'Botswana', 'Burkina Faso', 'Burundi', 'Cabo Verde', 'Cameroon', 'Central African Republic', 'Chad', 'Comoros', 'Congo', 'Democratic Republic of the Congo', 'Djibouti', 'Egypt', 'Equatorial Guinea', 'Eritrea', 'Eswatini', 'Ethiopia', 'Gabon', 'Gambia', 'Ghana', 'Guinea', 'Guinea-Bissau', 'Ivory Coast', 'Kenya', 'Lesotho', 'Liberia', 'Libya', 'Madagascar', 'Malawi', 'Mali', 'Mauritania', 'Mauritius', 'Morocco', 'Mozambique', 'Namibia', 'Niger', 'Nigeria', 'Rwanda', 'Sao Tome and Principe', 'Senegal', 'Seychelles', 'Sierra Leone', 'Somalia', 'South Africa', 'South Sudan', 'Sudan', 'Tanzania', 'Togo', 'Tunisia', 'Uganda', 'Zambia', 'Zimbabwe', 'United Republic of Tanzania'],
     'Asia': ['Afghanistan', 'Armenia', 'Azerbaijan', 'Bahrain', 'Bangladesh', 'Bhutan', 'Brunei', 'Cambodia', 'China', 'Cyprus', 'Georgia', 'India', 'Indonesia', 'Iran', 'Iraq', 'Israel', 'Japan', 'Jordan', 'Kazakhstan', 'Kuwait', 'Kyrgyzstan', 'Laos', 'Lebanon', 'Malaysia', 'Maldives', 'Mongolia', 'Myanmar', 'Nepal', 'North Korea', 'Oman', 'Pakistan', 'Palestine', 'Philippines', 'Qatar', 'Saudi Arabia', 'Singapore', 'South Korea', 'Sri Lanka', 'Syria', 'Taiwan', 'Tajikistan', 'Thailand', 'Timor-Leste', 'Turkey', 'Turkmenistan', 'United Arab Emirates', 'Uzbekistan', 'Vietnam', 'Yemen'],
-    'Europe': ['Albania', 'Andorra', 'Austria', 'Belarus', 'Belgium', 'Bosnia and Herzegovina', 'Bulgaria', 'Croatia', 'Czech Republic', 'Denmark', 'Estonia', 'Finland', 'France', 'Germany', 'Greece', 'Hungary', 'Iceland', 'Ireland', 'Italy', 'Kosovo', 'Latvia', 'Liechtenstein', 'Lithuania', 'Luxembourg', 'Malta', 'Moldova', 'Monaco', 'Montenegro', 'Netherlands', 'North Macedonia', 'Norway', 'Poland', 'Portugal', 'Romania', 'Russia', 'San Marino', 'Serbia', 'Slovakia', 'Slovenia', 'Spain', 'Sweden', 'Switzerland', 'Ukraine', 'United Kingdom', 'UK'],
+    'Europe': ['Albania', 'Andorra', 'Austria', 'Belarus', 'Belgium', 'Bosnia and Herzegovina', 'Bulgaria', 'Croatia', 'Czechia', 'Czech Republic', 'Denmark', 'Estonia', 'Finland', 'France', 'Germany', 'Greece', 'Hungary', 'Iceland', 'Ireland', 'Italy', 'Kosovo', 'Latvia', 'Liechtenstein', 'Lithuania', 'Luxembourg', 'Malta', 'Macedonia', 'Moldova', 'Monaco', 'Montenegro', 'Netherlands', 'North Macedonia', 'Norway', 'Poland', 'Portugal', 'Republic of Serbia', 'Romania', 'Russia', 'San Marino', 'Serbia', 'Slovakia', 'Slovenia', 'Spain', 'Sweden', 'Switzerland', 'Ukraine', 'United Kingdom', 'UK'],
     'North America': ['Antigua and Barbuda', 'Bahamas', 'Barbados', 'Belize', 'Canada', 'Costa Rica', 'Cuba', 'Dominica', 'Dominican Republic', 'El Salvador', 'Grenada', 'Guatemala', 'Haiti', 'Honduras', 'Jamaica', 'Mexico', 'Nicaragua', 'Panama', 'Saint Kitts and Nevis', 'Saint Lucia', 'Saint Vincent and the Grenadines', 'Trinidad and Tobago', 'United States of America', 'USA', 'United States'],
     'South America': ['Argentina', 'Bolivia', 'Brazil', 'Chile', 'Colombia', 'Ecuador', 'Guyana', 'Paraguay', 'Peru', 'Suriname', 'Uruguay', 'Venezuela'],
     'Oceania': ['Australia', 'Fiji', 'Kiribati', 'Marshall Islands', 'Micronesia', 'Nauru', 'New Zealand', 'Palau', 'Papua New Guinea', 'Samoa', 'Solomon Islands', 'Tonga', 'Tuvalu', 'Vanuatu']
   };
 
   for (const [continent, countries] of Object.entries(continents)) {
-    if (countries.includes(countryName)) return continent;
+    if (countries.includes(normalizedCountryName)) return continent;
   }
   return 'Unknown';
 };
 
-export function getMockCount(category: string | null, region: string, decade: number | null, total: number, borderMode: 'country' | 'continent', categoriesList: {name: string, count: number, color: string}[]) {
-  const maxForRegion = borderMode === 'continent' ? total / 3 : total / 10;
-  
-  if (category === null) {
-    let sum = 0;
-    for (const cat of categoriesList) {
-      const seedStr = `${cat.name}-${region}-${decade || 'all'}`;
-      const hash = hashString(seedStr);
-      if (hash % 3 !== 0) {
-        sum += (hash % 1000) / 1000 * (borderMode === 'continent' ? cat.count / 3 : cat.count / 10);
-      }
-    }
-    return sum;
+function getChoroplethColor(count: number, maxCount: number, baseColor: string, selectedCategory: string | null) {
+  const intensity = Math.log1p(count) / Math.log1p(Math.max(maxCount, 1));
+  const scaledIntensity = Math.max(0.08, Math.min(1, intensity));
+
+  if (selectedCategory) {
+    return d3.interpolateRgb('#F6E7BE', baseColor)(scaledIntensity);
   }
 
-  const seedStr = `${category}-${region}-${decade || 'all'}`;
-  const hash = hashString(seedStr);
-  if (hash % 3 === 0) return 0;
-  return (hash % 1000) / 1000 * maxForRegion;
+  const scale = d3.scaleQuantize<string>()
+    .domain([0, 1])
+    .range(CHOROPLETH_RAMP);
+  return scale(scaledIntensity);
+}
+
+function createChoroplethTexture(canvas: HTMLCanvasElement) {
+  const nextTexture = new THREE.CanvasTexture(canvas);
+  nextTexture.generateMipmaps = false;
+  nextTexture.minFilter = THREE.LinearFilter;
+  nextTexture.magFilter = THREE.LinearFilter;
+  nextTexture.wrapS = THREE.ClampToEdgeWrapping;
+  nextTexture.wrapT = THREE.ClampToEdgeWrapping;
+  return nextTexture;
 }
 
 function ChoroplethGlobe({ selectedCategory, selectedDecade, borderMode, mode }: { selectedCategory: string | null, selectedDecade: number | null, borderMode: 'country' | 'continent', mode: ViewMode }) {
@@ -278,9 +222,9 @@ function ChoroplethGlobe({ selectedCategory, selectedDecade, borderMode, mode }:
   useEffect(() => {
     if (!geojson) return;
     const canvas = canvasRef.current;
-    if (canvas.width !== 2048) {
-      canvas.width = 2048;
-      canvas.height = 1024;
+    if (canvas.width !== CHOROPLETH_TEXTURE_WIDTH) {
+      canvas.width = CHOROPLETH_TEXTURE_WIDTH;
+      canvas.height = CHOROPLETH_TEXTURE_HEIGHT;
     }
     const context = canvas.getContext('2d');
     if (!context) return;
@@ -292,10 +236,10 @@ function ChoroplethGlobe({ selectedCategory, selectedDecade, borderMode, mode }:
       .translate([canvas.width / 2, canvas.height / 2]);
     const path = d3.geoPath(projection, context);
 
-    const categoriesList = mode === 'artworks' ? CATEGORIES : GENDERS;
+    const categoriesList = getDistributionCategories(mode);
     const categoryData = selectedCategory ? categoriesList.find(c => c.name === selectedCategory) : null;
-    const totalCount = selectedCategory ? categoryData?.count || 0 : categoriesList.reduce((acc, c) => acc + c.count, 0);
     const baseColor = selectedCategory ? categoryData?.color || '#3A352D' : '#3A352D';
+    const maxCount = getDistributionMaxCount({ mode, borderMode, selectedCategory, selectedDecade });
 
     if (borderMode === 'continent') {
       const offscreenCanvas = document.createElement('canvas');
@@ -315,15 +259,13 @@ function ChoroplethGlobe({ selectedCategory, selectedDecade, borderMode, mode }:
       });
 
       continentsMap.forEach((features, continent) => {
-        const count = getMockCount(selectedCategory, continent, selectedDecade, totalCount, borderMode, categoriesList);
+        const count = getDistributionCount({ mode, borderMode, region: continent, selectedCategory, selectedDecade });
         if (count > 0) {
-          const maxCount = totalCount / 3;
-          const opacity = Math.max(0.15, Math.min(0.85, count / maxCount));
-          
           offscreenCtx.clearRect(0, 0, offscreenCanvas.width, offscreenCanvas.height);
           
-          offscreenCtx.fillStyle = baseColor;
-          offscreenCtx.strokeStyle = baseColor;
+          const fillColor = getChoroplethColor(count, maxCount, baseColor, selectedCategory);
+          offscreenCtx.fillStyle = fillColor;
+          offscreenCtx.strokeStyle = fillColor;
           offscreenCtx.lineWidth = 1.5;
           offscreenCtx.lineJoin = 'round';
           
@@ -334,9 +276,7 @@ function ChoroplethGlobe({ selectedCategory, selectedDecade, borderMode, mode }:
           offscreenCtx.fill();
           offscreenCtx.stroke();
 
-          context.globalAlpha = opacity;
           context.drawImage(offscreenCanvas, 0, 0);
-          context.globalAlpha = 1.0;
         }
       });
     } else {
@@ -345,33 +285,29 @@ function ChoroplethGlobe({ selectedCategory, selectedDecade, borderMode, mode }:
         path(feature);
 
         const countryName = feature.properties.ADMIN || feature.properties.name || 'Unknown';
-        const count = getMockCount(selectedCategory, countryName, selectedDecade, totalCount, borderMode, categoriesList);
+        const region = getGeoFeatureRegion(countryName);
+        if (!region) return;
+        const count = getDistributionCount({ mode, borderMode, region, selectedCategory, selectedDecade });
         
         if (count > 0) {
-          const maxCount = totalCount / 10;
-          const opacity = Math.max(0.15, Math.min(0.85, count / maxCount));
-          const d3Color = d3.color(baseColor);
-          if (d3Color) {
-            d3Color.opacity = opacity;
-            context.fillStyle = d3Color.toString();
-            context.fill();
-          }
+          context.fillStyle = getChoroplethColor(count, maxCount, baseColor, selectedCategory);
+          context.fill();
         }
       });
     }
 
     if (!texture) {
-      setTexture(new THREE.CanvasTexture(canvas));
+      setTexture(createChoroplethTexture(canvas));
     } else {
       texture.needsUpdate = true;
     }
-  }, [geojson, selectedCategory, selectedDecade, borderMode, texture]);
+  }, [geojson, selectedCategory, selectedDecade, borderMode, mode, texture]);
 
   if (!texture) return null;
 
   return (
-    <mesh rotation={[0, Math.PI / 2, 0]}>
-      <sphereGeometry args={[RADIUS * 0.992, 64, 64]} />
+    <mesh>
+      <sphereGeometry args={[CHOROPLETH_RADIUS, 96, 96]} />
       <meshBasicMaterial map={texture} transparent={true} />
     </mesh>
   );
@@ -487,7 +423,7 @@ function Globe({ selectedCountry, mode, selectedDecade, hideImages, borderMode =
 
       {showChoropleth && <ChoroplethGlobe selectedCategory={selectedCategory} selectedDecade={selectedDecade} borderMode={borderMode} mode={mode} />}
 
-      {showBorders && (borderMode === 'country' ? <CountryBorders /> : <LandBorders />)}
+      {showBorders && <CountryBorders />}
 
       {!hideImages && visibleMarkers.map(data => (
         <Marker 

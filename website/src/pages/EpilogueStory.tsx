@@ -2,6 +2,12 @@ import React, { useRef } from 'react';
 import NavigationBar from '../components/NavigationBar';
 import { motion, useScroll } from 'motion/react';
 
+const startAnimationImage = (imageNumber: number) =>
+  new URL(`../../../Graph/Start_animation_image/Start_animation_${imageNumber}.png`, import.meta.url).href;
+
+const epiloguePageImage = (pageNumber: number) =>
+  new URL(`../../../Graph/Epilogue_image/Page ${pageNumber}.png`, import.meta.url).href;
+
 const STORY_DATA = [
   {
     id: 1,
@@ -9,9 +15,9 @@ const STORY_DATA = [
     subtitle: "Uncovering the most important trends, context, and limitations",
     type: "intro",
     images: [
-      "https://picsum.photos/seed/moma-starry/400/500",
-      "https://picsum.photos/seed/moma-demo/400/500",
-      "https://picsum.photos/seed/moma-gypsy/400/500"
+      startAnimationImage(3),
+      startAnimationImage(4),
+      startAnimationImage(16)
     ]
   },
   {
@@ -25,42 +31,42 @@ const STORY_DATA = [
     title: "Collection Growth and Evolution Across Time",
     text: <>The <strong>chronological distribution</strong> of the MoMA collection <strong>rose</strong> with the rise of modern art in the <strong>late 19th century</strong>, reaching a <strong>historical peak</strong> of <strong>about 1,500 pieces</strong> in the <strong>1970s</strong>, and then <strong>declined sharply</strong>, reflecting that artworks usually have a long time lag in entering the collection.</>,
     type: "text-image",
-    image: "https://picsum.photos/seed/moma-chart1/800/400"
+    image: epiloguePageImage(3)
   },
   {
     id: 4,
     title: "Most Prolific MoMA Artists",
     text: <>The top 5 Most Prolific MoMA Artists are: <strong>Eugène Atget (2725)</strong>, <strong>Pablo Picasso (1132)</strong>, <strong>Jean Dubuffet (987)</strong>, <strong>Henri Matisse (979)</strong> and <strong>Marc Chagall (972)</strong>. The image shows their creative journey through various types of works throughout their lives. Are any of your favorite artists among them?</>,
     type: "text-image",
-    image: "https://picsum.photos/seed/moma-chart2/800/400"
+    image: epiloguePageImage(4)
   },
   {
     id: 5,
     title: "Peak and Volatile Decay of Creative Output",
     text: <>At what age are artists most active? For artists whose works are included in MoMA, the period <strong>between 30 and 40 years old</strong> is the <strong>peak</strong> of their output. As they get older, their creative activity <strong>fluctuates and declines</strong>.</>,
     type: "text-image",
-    image: "https://picsum.photos/seed/moma-chart3/800/400"
+    image: epiloguePageImage(5)
   },
   {
     id: 6,
     title: "Geographic Concentration and Expansion",
     text: <>Artworks are heavily concentrated in the <strong>USA</strong> and <strong>Western Europe</strong>, reflecting historical dominance in the art world. But over time, there are signs of <strong>broader geographic representation</strong>, likely influenced by <strong>globalization</strong> and <strong>increased cultural exchange</strong>.</>,
     type: "text-image",
-    image: "https://picsum.photos/seed/moma-chart4/800/400"
+    image: epiloguePageImage(6)
   },
   {
     id: 7,
     title: "Diversification of Artistic Mediums",
     text: <>Over the past two centuries, artistic media have evolved alongside technology: <strong>illustrated books</strong> dominated the <strong>early 19th century</strong>, <strong>photography</strong> rose in the <strong>mid-19th century</strong>, and digital advances in the <strong>late 20th century</strong> led to video art and <strong>greater diversification</strong>.</>,
     type: "text-image",
-    image: "https://picsum.photos/seed/moma-chart5/800/400"
+    image: epiloguePageImage(7)
   },
   {
     id: 8,
     title: "Rising Representation of Female Artists",
     text: <>The dataset shows a <strong>steady rise in the proportion of female artists</strong> over time. Early records reveal <strong>strong gender imbalance</strong>, but this <strong>improves significantly from the mid-20th century</strong>, in line with women’s rights movements and increased institutional support.</>,
     type: "text-image",
-    image: "https://picsum.photos/seed/moma-chart6/800/400"
+    image: epiloguePageImage(8)
   },
   {
     id: 9,
@@ -134,9 +140,9 @@ function SlideContent({ slide, index }: { slide: any, index: number }) {
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: i * 0.2 }}
               viewport={{ once: false, amount: 0.5 }}
-              className="w-1/3 aspect-[3/4] rounded-xl overflow-hidden shadow-2xl border-4 border-white"
+              className="w-1/3 max-w-72 aspect-[4/5] rounded-xl overflow-hidden shadow-2xl border-4 border-white bg-white"
             >
-              <img src={img} alt="" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+              <img src={img} alt="" className="w-full h-full object-cover" />
             </motion.div>
           ))}
         </div>
@@ -189,9 +195,9 @@ function SlideContent({ slide, index }: { slide: any, index: number }) {
           whileInView={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.8, delay: 0.2 }}
           viewport={{ once: false, amount: 0.5 }}
-          className="flex-[1.5] rounded-xl overflow-hidden shadow-xl border border-[#D3CDBF]/50 bg-white p-2"
+          className="flex-[1.5] w-full rounded-xl overflow-hidden shadow-xl border border-[#D3CDBF]/50 bg-white p-3"
         >
-          <img src={slide.image} alt={slide.title} className="w-full h-auto rounded-lg" referrerPolicy="no-referrer" />
+          <img src={slide.image} alt={slide.title} className="w-full max-h-[58vh] object-contain rounded-lg" />
         </motion.div>
       </div>
     );

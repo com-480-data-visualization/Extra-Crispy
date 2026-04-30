@@ -92392,7 +92392,7 @@ export const homepageArtworks: Artwork[] = [
     },
     {
         "id":  "art-174200",
-        "title":  "Google Maps Pin",
+        "title":  "Map Pin",
         "artist":  "Jens Eilstrup Rasmussen",
         "date":  "2005",
         "country":  "Denmark",

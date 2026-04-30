@@ -1,10 +1,20 @@
-## Run Locally
+# Local Setup
 
-**Prerequisites:**  Node.js
+<!-- ## Prerequisites
 
+- Node.js -->
+
+## Run
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+2. Start the development server:
    `npm run dev`
+
+Default URL: http://localhost:3000
+
+# Deployment
+
+The initial website is now available at:
+
+https://bryceyin13.github.io/extra-crispy-website/
