@@ -2,6 +2,7 @@ import React, { useState, useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
 import NavigationBar from '../components/NavigationBar';
 import GlobeVisualization from '../components/GlobeVisualization';
+import GlobeRotationToggle from '../components/GlobeRotationToggle';
 import TimelineBar from '../components/TimelineBar';
 import { ViewMode } from '../App';
 import {
@@ -23,6 +24,7 @@ export default function Distribution() {
   const [borderMode, setBorderMode] = useState<'country' | 'continent'>('country');
   const [selectedDecade, setSelectedDecade] = useState<number | null>(null);
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
+  const [autoRotateGlobe, setAutoRotateGlobe] = useState(false);
 
   // Reset selected category when mode changes
   const handleModeChange = (newMode: ViewMode) => {
@@ -55,6 +57,7 @@ export default function Distribution() {
           showChoropleth={true} 
           showGraticules={false} 
           showBorders={true} 
+          autoRotate={autoRotateGlobe}
         />
       </div>
 
@@ -200,6 +203,8 @@ export default function Distribution() {
           </div>
         </div>
       </div>
+
+      <GlobeRotationToggle autoRotate={autoRotateGlobe} onChange={setAutoRotateGlobe} />
 
       {/* Timeline Bar */}
       <TimelineBar selectedDecade={selectedDecade} onSelectDecade={setSelectedDecade} fullWidth={true} decades={availableDecades} />

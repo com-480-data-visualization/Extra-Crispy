@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Sidebar from '../components/Sidebar';
 import NavigationBar from '../components/NavigationBar';
 import GlobeVisualization from '../components/GlobeVisualization';
+import GlobeRotationToggle from '../components/GlobeRotationToggle';
 import TimelineBar from '../components/TimelineBar';
 import { ViewMode } from '../App';
 
@@ -9,12 +10,13 @@ export default function Homepage() {
   const [selectedCountry, setSelectedCountry] = useState<string | null>(null);
   const [mode, setMode] = useState<ViewMode>('artworks');
   const [selectedDecade, setSelectedDecade] = useState<number | null>(null);
+  const [autoRotateGlobe, setAutoRotateGlobe] = useState(false);
 
   return (
     <div className="relative h-screen w-full bg-[#EAE5D9] text-[#3A352D] font-sans overflow-hidden">
       {/* 3D Globe Background */}
       <div className="absolute inset-0 cursor-move">
-        <GlobeVisualization selectedCountry={selectedCountry} mode={mode} selectedDecade={selectedDecade} />
+        <GlobeVisualization selectedCountry={selectedCountry} mode={mode} selectedDecade={selectedDecade} autoRotate={autoRotateGlobe} />
       </div>
 
       <NavigationBar />
@@ -53,6 +55,8 @@ export default function Homepage() {
 
       {/* Sidebar */}
       <Sidebar selectedCountry={selectedCountry} onSelectCountry={setSelectedCountry} mode={mode} selectedDecade={selectedDecade} />
+
+      <GlobeRotationToggle autoRotate={autoRotateGlobe} onChange={setAutoRotateGlobe} />
 
       {/* Timeline Bar */}
       <TimelineBar selectedDecade={selectedDecade} onSelectDecade={setSelectedDecade} />

@@ -313,7 +313,7 @@ function ChoroplethGlobe({ selectedCategory, selectedDecade, borderMode, mode }:
   );
 }
 
-function Globe({ selectedCountry, mode, selectedDecade, hideImages, borderMode = 'country', selectedCategory = null, showChoropleth = false, showGraticules = true, showBorders = true }: { selectedCountry: string | null, mode: ViewMode, selectedDecade: number | null, hideImages: boolean, borderMode?: 'country' | 'continent', selectedCategory?: string | null, showChoropleth?: boolean, showGraticules?: boolean, showBorders?: boolean }) {
+function Globe({ selectedCountry, mode, selectedDecade, hideImages, borderMode = 'country', selectedCategory = null, showChoropleth = false, showGraticules = true, showBorders = true, autoRotate = false }: { selectedCountry: string | null, mode: ViewMode, selectedDecade: number | null, hideImages: boolean, borderMode?: 'country' | 'continent', selectedCategory?: string | null, showChoropleth?: boolean, showGraticules?: boolean, showBorders?: boolean, autoRotate?: boolean }) {
   const globeRef = useRef<THREE.Group>(null);
   
   const displayData: MarkerData[] = useMemo(() => {
@@ -384,7 +384,7 @@ function Globe({ selectedCountry, mode, selectedDecade, hideImages, borderMode =
         globeRef.current.rotation.y = currentY;
 
         globeRef.current.rotation.y = THREE.MathUtils.lerp(globeRef.current.rotation.y, targetRotationY, 0.05);
-      } else {
+      } else if (autoRotate) {
         globeRef.current.rotation.y += 0.001;
       }
     }
@@ -440,7 +440,7 @@ function Globe({ selectedCountry, mode, selectedDecade, hideImages, borderMode =
   );
 }
 
-export default function GlobeVisualization({ selectedCountry, mode, selectedDecade, hideImages = false, borderMode = 'country', selectedCategory = null, showChoropleth = false, showGraticules = true, showBorders = true }: { selectedCountry: string | null, mode: ViewMode, selectedDecade: number | null, hideImages?: boolean, borderMode?: 'country' | 'continent', selectedCategory?: string | null, showChoropleth?: boolean, showGraticules?: boolean, showBorders?: boolean }) {
+export default function GlobeVisualization({ selectedCountry, mode, selectedDecade, hideImages = false, borderMode = 'country', selectedCategory = null, showChoropleth = false, showGraticules = true, showBorders = true, autoRotate = false }: { selectedCountry: string | null, mode: ViewMode, selectedDecade: number | null, hideImages?: boolean, borderMode?: 'country' | 'continent', selectedCategory?: string | null, showChoropleth?: boolean, showGraticules?: boolean, showBorders?: boolean, autoRotate?: boolean }) {
   return (
     <Canvas camera={{ position: [0, 0, 12], fov: 45 }}>
       <ambientLight intensity={1} />
@@ -450,7 +450,7 @@ export default function GlobeVisualization({ selectedCountry, mode, selectedDeca
         maxDistance={20}
         autoRotate={false}
       />
-      <Globe selectedCountry={selectedCountry} mode={mode} selectedDecade={selectedDecade} hideImages={hideImages} borderMode={borderMode} selectedCategory={selectedCategory} showChoropleth={showChoropleth} showGraticules={showGraticules} showBorders={showBorders} />
+      <Globe selectedCountry={selectedCountry} mode={mode} selectedDecade={selectedDecade} hideImages={hideImages} borderMode={borderMode} selectedCategory={selectedCategory} showChoropleth={showChoropleth} showGraticules={showGraticules} showBorders={showBorders} autoRotate={autoRotate} />
     </Canvas>
   );
 }
