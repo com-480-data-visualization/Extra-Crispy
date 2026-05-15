@@ -24,7 +24,7 @@ export default function Distribution() {
   const [borderMode, setBorderMode] = useState<'country' | 'continent'>('country');
   const [selectedDecade, setSelectedDecade] = useState<number | null>(null);
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
-  const [autoRotateGlobe, setAutoRotateGlobe] = useState(false);
+  const [autoRotateGlobe, setAutoRotateGlobe] = useState(true);
 
   // Reset selected category when mode changes
   const handleModeChange = (newMode: ViewMode) => {

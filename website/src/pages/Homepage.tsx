@@ -10,7 +10,7 @@ export default function Homepage() {
   const [selectedCountry, setSelectedCountry] = useState<string | null>(null);
   const [mode, setMode] = useState<ViewMode>('artworks');
   const [selectedDecade, setSelectedDecade] = useState<number | null>(null);
-  const [autoRotateGlobe, setAutoRotateGlobe] = useState(false);
+  const [autoRotateGlobe, setAutoRotateGlobe] = useState(true);
 
   return (
     <div className="relative h-screen w-full bg-[#EAE5D9] text-[#3A352D] font-sans overflow-hidden">
