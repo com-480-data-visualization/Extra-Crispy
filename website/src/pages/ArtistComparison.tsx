@@ -9,6 +9,7 @@ import artistComparisonCsv from '../../../data/Artist_Comparison.csv?raw';
 type ArtistComparisonRecord = {
   id: string;
   name: string;
+  birthYear: string;
   total: number;
   color: string;
   valueKey: string;
@@ -80,6 +81,7 @@ const parseArtistComparisonData = (csvText: string) => {
       return {
         id,
         name: row.Artist,
+        birthYear: row.BeginDate,
         total: Number(row.Total) || 0,
         color: ARTIST_COLORS[index % ARTIST_COLORS.length],
         valueKey: `artist_${id}`,
@@ -110,6 +112,10 @@ const getDefaultArtists = () => {
   return [...ARTISTS_DB]
     .sort((a, b) => b.total - a.total)
     .slice(0, 2);
+};
+
+const getArtistDisplayName = (artist: ArtistComparisonRecord) => {
+  return artist.birthYear ? `${artist.name} (${artist.birthYear})` : artist.name;
 };
 
 export default function ArtistComparison() {
@@ -144,7 +150,8 @@ export default function ArtistComparison() {
     .filter(a =>
       a.name.toLowerCase().includes(searchQuery.toLowerCase()) &&
       !selectedArtists.find(sa => sa.id === a.id)
-    );
+    )
+    .sort((a, b) => b.total - a.total);
 
   const totalData = useMemo(() => {
     return selectedArtists.map(artist => ({
@@ -166,7 +173,7 @@ export default function ArtistComparison() {
               className="flex items-center gap-3 bg-white/60 border border-[#D3CDBF] rounded-xl px-4 py-2 shadow-sm"
             >
               <div className="w-3 h-3 rounded-full" style={{ backgroundColor: artist.color }}></div>
-              <span className="font-medium text-[#3A352D]">{artist.name}</span>
+              <span className="font-medium text-[#3A352D]">{getArtistDisplayName(artist)}</span>
               <button
                 onClick={() => handleRemoveArtist(artist.id)}
                 className="text-[#8C857B] hover:text-[#3A352D] transition-colors ml-2"
@@ -207,7 +214,7 @@ export default function ArtistComparison() {
                           className="w-full text-left px-4 py-2 text-sm text-[#3A352D] hover:bg-[#F4EFE6] transition-colors flex items-center gap-2"
                         >
                           <div className="w-2 h-2 rounded-full shrink-0" style={{ backgroundColor: artist.color }}></div>
-                          <span className="truncate">{artist.name}</span>
+                          <span className="truncate">{getArtistDisplayName(artist)}</span>
                           <span className="ml-auto text-xs text-[#8C857B]">{artist.total}</span>
                         </button>
                       ))

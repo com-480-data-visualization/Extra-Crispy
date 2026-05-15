@@ -154,9 +154,16 @@ export default function Distribution() {
 
         {/* Distribution List */}
         <div className="w-64 bg-[#F4EFE6]/70 backdrop-blur-md border border-[#D3CDBF]/50 rounded-xl p-4 shadow-[0_8px_32px_rgba(0,0,0,0.1)] flex flex-col gap-3 max-h-[50vh]">
-          <h3 className="font-serif font-bold text-[#3A352D] border-b border-[#D3CDBF]/50 pb-2 text-left w-full">
-            {borderMode === 'country' ? 'Countries' : 'Continents'}
-          </h3>
+          <div className="flex items-baseline justify-between gap-3 border-b border-[#D3CDBF]/50 pb-2 w-full">
+            <h3 className="font-serif font-bold text-[#3A352D] text-left">
+              {borderMode === 'country' ? 'Countries' : 'Continents'}
+            </h3>
+            <p className="text-[10px] leading-tight text-right text-[#8C857B] italic">
+              {borderMode === 'country'
+                ? 'Double-click to explore'
+                : 'Double-click to explore'}
+            </p>
+          </div>
           <div className="flex flex-col gap-2 overflow-y-auto pr-2 custom-scrollbar w-full">
             {listData.map((item, idx) => {
               const displayRegion = borderMode === 'country' ? getCountryDisplayName(item.region) : item.region;
