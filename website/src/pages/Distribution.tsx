@@ -12,6 +12,10 @@ import {
   getRegionCounts,
 } from '../data/distributionData';
 
+const getCategoryDisplayName = (name: string) => (
+  name === '(not assigned)' ? 'Not Assigned' : name
+);
+
 export default function Distribution() {
   const navigate = useNavigate();
   const [selectedCountry, setSelectedCountry] = useState<string | null>(null);
@@ -118,7 +122,9 @@ export default function Distribution() {
                   <div className={`w-4 h-4 rounded border flex items-center justify-center transition-colors ${selectedCategory === cat.name ? 'border-transparent' : 'border-[#8C857B] group-hover:border-[#3A352D]'}`} style={{ backgroundColor: selectedCategory === cat.name ? cat.color : 'transparent' }}>
                     {selectedCategory === cat.name && <svg className="w-3 h-3 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" /></svg>}
                   </div>
-                  <span className={`text-sm font-medium transition-colors ${selectedCategory === cat.name ? 'text-[#3A352D]' : 'text-[#8C857B] group-hover:text-[#3A352D]'}`}>{cat.name}</span>
+                  <span className={`text-sm font-medium transition-colors ${selectedCategory === cat.name ? 'text-[#3A352D]' : 'text-[#8C857B] group-hover:text-[#3A352D]'}`}>
+                    {getCategoryDisplayName(cat.name)}
+                  </span>
                 </div>
                 <span className="text-xs font-mono text-[#8C857B]">{cat.count.toLocaleString()}</span>
               </label>
