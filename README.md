@@ -26,8 +26,6 @@ You can find the code for the initial website in [this](https://github.com/com-4
 
 ## Milestone 3 (29th May, 5pm)
 
-**80% of the final grade**
-
 This milestone delivers our final visualization and process book, showcasing data storytelling and documenting our development workflow.
 
 You can find our final website here:
