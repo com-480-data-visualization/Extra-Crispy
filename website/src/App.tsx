@@ -19,7 +19,7 @@ export default function App() {
   const [showIntro, setShowIntro] = useState(true);
 
   return (
-    <Router>
+    <Router basename={import.meta.env.BASE_URL}>
       {showIntro ? (
         <IntroAnimation onComplete={() => setShowIntro(false)} />
       ) : (
