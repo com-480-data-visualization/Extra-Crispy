@@ -17,4 +17,4 @@ Default URL: http://localhost:3000
 
 The initial website is now available at:
 
-https://bryceyin13.github.io/extra-crispy-website/
+https://com-480-data-visualization.github.io/Extra-Crispy/
