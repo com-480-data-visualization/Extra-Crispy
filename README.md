@@ -32,8 +32,7 @@ You can find our final website here: [Website](https://com-480-data-visualizatio
 
 You can find our screencast here: [Screencast](https://drive.google.com/file/d/1u-gKGryeS39eBakP7ukqwKiJo6iwEZgv/view?usp=sharing)
 
-You can find our process book here:
-
+You can find our process book here: [Process Book](https://drive.google.com/file/d/1LFjBxQPVcrFWqaThq3zVlsF153KmCwwi/view?usp=sharing)
 
 
 
