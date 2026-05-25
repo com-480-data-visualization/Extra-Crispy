@@ -28,9 +28,14 @@ You can find the code for the initial website in [this](https://github.com/com-4
 
 **80% of the final grade**
 
+This milestone delivers our final visualization and process book, showcasing data storytelling and documenting our development workflow.
 
-## Late policy
+You can find our final website here:
 
-- < 24h: 80% of the grade for the milestone
-- < 48h: 70% of the grade for the milestone
+You can find our screencast here:
+
+You can find our process book here:
+
+
+
 
