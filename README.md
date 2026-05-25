@@ -28,9 +28,9 @@ You can find the code for the initial website in [this](https://github.com/com-4
 
 This milestone delivers our final visualization and process book, showcasing data storytelling and documenting our development workflow.
 
-You can find our final website here:
+You can find our final website here: [Website](https://com-480-data-visualization.github.io/Extra-Crispy/)
 
-You can find our screencast here:
+You can find our screencast here: [Screencast](https://drive.google.com/file/d/1u-gKGryeS39eBakP7ukqwKiJo6iwEZgv/view?usp=sharing)
 
 You can find our process book here:
 
