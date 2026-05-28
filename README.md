@@ -30,6 +30,8 @@ This milestone delivers our final visualization and process book, showcasing dat
 
 You can find our final website here: [Website](https://com-480-data-visualization.github.io/Extra-Crispy/)
 
+Please note that the artwork images on our website are loaded directly from the official MoMA website, so in rare cases they may fail to display due to temporary network issues or image request errors.
+
 You can find our screencast here: [Screencast](https://drive.google.com/file/d/1u-gKGryeS39eBakP7ukqwKiJo6iwEZgv/view?usp=sharing)
 
 You can find our process book here: [Process Book](https://drive.google.com/file/d/1LFjBxQPVcrFWqaThq3zVlsF153KmCwwi/view?usp=sharing)
