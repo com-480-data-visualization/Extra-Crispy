@@ -5,6 +5,7 @@ import { ArrowLeft, X } from 'lucide-react';
 import { ContinentTopArtist, getContinentTopArtists } from '../data/continentTopArtists';
 import { getContinentBubble } from '../data/continentBubbles';
 import { getChartImageUrl, getDistributionCount } from '../data/distributionData';
+import { resolvePublicAssetUrl } from '../utils/publicAsset';
 
 export default function ContinentDetails() {
   const { continentName } = useParams<{ continentName: string }>();
@@ -66,7 +67,7 @@ export default function ContinentDetails() {
                 <div className="w-44 h-56 shrink-0 rounded-lg overflow-hidden border-4 border-[#EAE5D9] shadow-md bg-[#D3CDBF]/30 flex items-center justify-center">
                   {selectedArtist.photoUrl ? (
                     <img
-                      src={selectedArtist.photoUrl}
+                      src={resolvePublicAssetUrl(selectedArtist.photoUrl)}
                       alt={selectedArtist.name}
                       className="w-full h-full object-cover"
                       referrerPolicy="no-referrer"
@@ -99,7 +100,7 @@ export default function ContinentDetails() {
               <div className="w-full flex-1 min-h-[380px] rounded-xl overflow-hidden border border-[#D3CDBF]/50 mt-2 relative">
                 {selectedArtist.plotUrl ? (
                   <img
-                    src={selectedArtist.plotUrl}
+                    src={resolvePublicAssetUrl(selectedArtist.plotUrl)}
                     alt={`${selectedArtist.name} creative timeline`}
                     className="absolute inset-0 w-full h-full object-contain p-2"
                     referrerPolicy="no-referrer"
@@ -216,7 +217,7 @@ function ChartCard({ label, countLabel, imageUrl, alt }: { label: string; countL
       </div>
       <div className="flex-1 min-h-0 rounded-lg overflow-hidden relative bg-[#D3CDBF]/30 flex items-center justify-center">
         <img
-          src={imageUrl}
+          src={resolvePublicAssetUrl(imageUrl)}
           alt={alt}
           className="absolute inset-0 w-full h-full object-contain p-3"
         />
@@ -232,7 +233,7 @@ function BubbleCard({ label, imageUrl }: { label: string; imageUrl?: string }) {
       <div className="flex-1 min-h-0 rounded-lg overflow-hidden border border-[#D3CDBF]/40 flex items-center justify-center">
         {imageUrl ? (
           <img
-            src={imageUrl}
+            src={resolvePublicAssetUrl(imageUrl)}
             alt={label}
             className="w-full h-full object-contain p-3"
             referrerPolicy="no-referrer"
